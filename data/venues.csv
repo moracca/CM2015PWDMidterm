@@ -1,0 +1,809 @@
+id,name,slug,street,city,state,country,postal_code,latitude,longitude,phone,website,legacy_id,created_at,updated_at,times_played
+49ce1870-7f87-4977-9f69-f844d964e135,Monopole,monopole,"",Plattsburgh,NY,"","",,,"","",,2021-10-16 13:57:17.719556,2021-10-16 13:57:17.719556,0
+1c9aeebd-707c-4d30-9b00-83fef9c841eb,"Campus Pub, SUNY Binghamton",campus-pub-suny-binghamton,"",Binghamton,NY,,,,,"","",58,2020-02-22 16:06:50.239541,2020-02-23 00:37:06.042374,1
+f479d7ba-e37a-4dfa-880a-7cdf38278f13,"College Green, Brown University",college-green-brown-university,"",Providence,RI,,,,,"","",77,2020-02-22 16:06:50.239541,2020-04-13 06:20:56.473260,1
+2c52099e-f5a0-44fc-8c5b-d87734942e73,3:19 Club,3-19-club,"",Chico,CA,,,,,"","",3,2020-02-22 16:06:50.239541,2020-02-23 00:37:18.922275,1
+8c3e9a81-d10e-46de-835a-67050a55bf40,Cabaloosa,cabaloosa,"",New Paltz,NY,,,,,"","",49,2020-02-22 16:06:50.239541,2020-02-23 00:37:37.372332,4
+f6375b63-2153-44d2-bd2b-c5ef0fa4053b,"All Good Music Festival, Wilmer's Park",all-good-music-festival-wilmer-s-park,"",Brandywine,MD,,,,,"","",13,2020-02-22 16:06:50.239541,2020-02-23 00:37:15.643331,1
+a1ba0b77-2828-4cff-8281-2c8c3661c789,St. Augustine Amphitheatre Backyard Stage,st-augustine-amphitheatre-backyard-stage,"",St. Augustine,Florida,United States,"",,,"","",,2021-09-17 23:36:57.165365,2021-09-17 23:36:57.165365,0
+e1805e5d-3e9c-4cf8-ab0c-aea89fe3a44a,Champlain Valley Exposition,champlain-valley-exposition,"",Essex Junction,VT,"","",,,"","",,2022-06-13 12:50:52.724068,2022-06-13 12:50:52.724068,0
+35074fc4-a70b-4ee7-823a-aa6e0f0a2892,Coach House,coach-house,"",San Juan Capistrano,CA,,,,,"","",76,2020-02-22 16:06:50.239541,2020-02-23 00:37:38.846317,1
+306a267a-2db2-4438-a131-4adb995a4b57,Color Box,color-box,"",Seattle,WA,,,,,"","",79,2020-02-22 16:06:50.239541,2020-02-23 00:37:20.384540,1
+329089f2-1591-428e-a150-ad95e22be272,Chicken Box,chicken-box,"",Nantucket,RI,,,,,"","",68,2020-02-22 16:06:50.239541,2020-02-23 00:37:26.862565,2
+3e4dcffa-4fac-47a5-bfc4-8c2175535bc8,Blue Star Hotel,blue-star-hotel,"",Lancaster,PA,,,,,"","",36,2020-02-22 16:06:50.239541,2022-07-11 02:08:41.591088,1
+211142a5-ea9d-4e56-8dab-6d5ab3d4f473,"10,000 Lakes Festival",10-000-lakes-festival,"",Detriot Lakes,MN,,,,,"",http://www.10klf.com/,519,2020-02-22 16:06:50.239541,2024-11-26 03:42:51.043082,1
+a90381ed-ea90-41ec-8a5f-eeaff43c082a,Commercial Street Cafe,commercial-street-cafe,"",Worcester,MA,,,,,"","",81,2020-02-22 16:06:50.239541,2022-09-12 18:52:00.561371,1
+0f8ad509-6eab-4bc4-8e32-d5e60c6bfd9e,14 Below,14-below,"",Los Angeles,CA,,,,,"","",1,2020-02-22 16:06:50.239541,2022-09-13 21:11:44.248267,2
+a5afd798-a404-4d0a-a340-2d54daba547d,"Slade Hall, University Of Vermont",slade-hall-university-of-vermont,"",Burlington,VT,,,,,"","",295,2020-02-22 16:06:50.239541,2022-11-06 14:09:39.192277,3
+b4c3cb1c-4f3c-499b-ba42-9e0e7300a5bc,Lowell Auditorium,lowell-auditorium,"",Lowell,MA,,,,,"","",197,2020-02-22 16:06:50.239541,2024-11-21 16:30:02.202262,1
+46a957e7-34ba-4b24-b5f7-4cb8b3fbca84,College Of New Jersey,college-of-new-jersey,"",Trenton,NJ,,,,,"","",78,2020-02-22 16:06:50.239541,2022-09-21 02:04:38.053581,1
+37823821-40b3-48e1-902f-e46aaa06fce3,"Delta Upsilon, Carnegie Mellon University",delta-upsilon-carnegie-mellon-university,"",Pittsburgh,PA,,,,,"","",98,2020-02-22 16:06:50.239541,2022-09-21 02:06:31.429530,1
+6eb9d84a-aab3-40f5-9b72-92b80edaa86b,"Husky Blues, University Of Connecticut",husky-blues-university-of-connecticut,"",Hartford,CT,,,,,"","",166,2020-02-22 16:06:50.239541,2020-02-23 00:37:16.687116,1
+189a5fdf-4d8d-4ee0-b9a6-bf54ecd885b2,Gathering Of The Vibes,gathering-of-the-vibes,"",Plattsburgh,NY,,,,,"","",126,2020-02-22 16:06:50.239541,2020-02-23 00:37:37.545538,1
+1f294ff4-e447-416a-921e-11f565e67dfa,Asheville Brewing Company,asheville-brewing-company,"",Asheville,NC,,,,,"","",22,2020-02-22 16:06:50.239541,2023-08-26 17:47:36.795295,1
+3750cd4c-f0d3-40c3-a1a3-344b219b49b2,Cafe Tomo,cafe-tomo,"",Arcata,CA,,,,,"","",53,2020-02-22 16:06:50.239541,2024-05-08 10:23:05.434973,2
+bf39bffa-60ca-4e5d-9592-80cecf642618,Sigma Nu,sigma-nu,"",Oxford,MS,,,,,"","",292,2020-02-22 16:06:50.239541,2024-05-29 21:40:59.203254,1
+8007d184-2caa-4fd4-8e3d-a8471494d146,Middle East,middle-east-cambridge,"",Cambridge,MA,,,,,"","",212,2020-02-22 16:06:50.239541,2024-02-29 15:05:41.724348,5
+f603a3e0-cf4a-4d84-bdcd-1dc5e5371cac,"The Underground, Brown University",the-underground-brown-university,"",Providence,RI,,,,,"","",369,2020-02-22 16:06:50.239541,2024-04-10 20:12:41.425781,2
+dabbbde2-cd93-4493-b4f6-d0a5eadc9509,University Of Hartford,university-of-hartford,"",West Hartford,CT,,,,,"","",386,2020-02-22 16:06:50.239541,2023-08-01 16:25:36.315281,1
+47a7f284-66b7-46a7-b812-0b9ce7dff857,"Campus Grille, Temple University",campus-grille-temple-university,"",Philadelphia,PA,,,,,"","",57,2020-02-22 16:06:50.239541,2024-02-29 15:13:06.391358,1
+fb2dd761-c63a-47d3-988a-71c5ffc808f4,J.C. Dobb's,j-c-dobb-s,"",Philadelphia,PA,,,,,"","",174,2020-02-22 16:06:50.239541,2024-02-29 15:18:37.830392,1
+7383247d-7ae8-423a-a934-6af88d971278,Bogart's,bogart-s,"",Cincinnati,OH,,,,,"","",40,2020-02-22 16:06:50.239541,2024-11-25 12:17:50.129824,3
+0a48143c-39c0-4eb7-aea5-ed2109915e56,Friar Tuck's,friar-tuck-s,"",Norfolk,VA,,,,,"","",123,2020-02-22 16:06:50.239541,2023-08-26 17:46:49.178116,2
+a65f28c8-e63c-44ba-81de-5cbd64ba3017,Caribbean Holidaze,caribbean-holidaze,"",Runaway Bay,Jamaica,,,,,"",http://www.caribbeanholidaze.com,541,2020-02-22 16:06:50.239541,2024-02-15 17:21:01.858748,9
+ba48057d-0332-4fb6-90c0-f7efa4ea9f01,"Autumn Equinox Festival, Wilmer's Park",autumn-equinox-festival-wilmer-s-park,"",Brandywine,MD,,,,,"","",24,2020-02-22 16:06:50.239541,2024-04-27 20:11:44.056266,1
+5292820c-8ad4-4bc1-8bd8-43bb4464d497,Saint Louis Music Park,saint-louis-music-park,"",Maryland Heights,MO,"","",,,"","",,2022-08-23 20:52:42.181847,2024-04-29 20:46:21.059641,1
+7b7d3aae-2cd2-44ec-a8bf-b2bc32e96360,The Roadhouse,the-roadhouse,"",Daniel,WV,,,,,"","",358,2020-02-22 16:06:50.239541,2023-08-26 17:48:21.210281,1
+7251e41b-5fee-4eb6-a51b-a38c8118a5bd,Baltimore Soundstage,baltimore-soundstage,124 Market Place,Baltimore,MD,,,,,410-244-0057,http://www.baltimoresoundstage.com/,660,2020-02-22 16:06:51.681200,2023-09-05 12:59:18.527051,2
+cad59108-a680-437e-aec6-e0f66dac6f8d,Auditorium Theater,auditorium-theater,"",Chicago,IL,,,,,"","",603,2020-02-22 16:06:50.239541,2024-03-27 23:58:53.762761,3
+dd74a22b-db64-42e9-b49b-27663ea87d48,Whisky A Go-Go,whisky-a-go-go,8901 Sunset Boulevard ,Los Angeles,CA,,,,,(310) 652-4202,http://www.whiskyagogo.com/,407,2020-02-22 16:06:50.239541,2024-11-25 12:18:15.935066,2
+799eb198-00e2-4663-a390-e8b1486a7c40,McDonough Gymnasium at Georgetown University,mcdonough-gymnasium-at-georgetown-university,37th Street and O Street,Washington,DC,,,,,"","",466,2020-02-22 16:06:50.239541,2023-08-27 11:34:25.407592,1
+63653200-54bd-49e2-bd8f-328a67bf07dc,Amazura Ballroom,amazura-ballroom,91-12 144th place,Jamaica,NY,,,,,"",http://www.amazura.com/,440,2020-02-22 16:06:50.239541,2023-08-27 11:30:05.495042,2
+1f82ec87-0d56-48c1-8532-8a9d29848fce,House of Blues,house-of-blues-san-diego,1055 Fifth Avenue,San Diego,CA,,,,,619-299-2583,http://www.hob.com/venues/clubvenues/sandiego/,510,2020-02-22 16:06:50.239541,2023-08-27 11:47:06.809458,3
+61e368c8-be5a-43d3-b738-2a10e2238010,The Funk Box,the-funk-box,8-10 East Cross Street,Baltimore,MD,,,,,410-625-2000,"",445,2020-02-22 16:06:50.239541,2024-03-10 00:04:29.128390,2
+a78b035e-25c7-4de3-96a9-6515eccd37e7,Candler Park,candler-park,"",Atlanta,GA,United States,"",,,"","",,2022-06-05 01:40:43.948448,2024-11-10 02:21:03.435292,1
+e5a1843f-8dd6-4467-b03f-1ce4c723ca85,Showplace Theater,showplace-theater,"",Buffalo,NY,,,,,"","",290,2020-02-22 16:06:50.239541,2024-03-28 00:07:10.701176,1
+b4776530-22c1-4660-b9b8-fee6d2cf3bad,Joy Theater,joy-theater,"",New Orleans,LA,"","",,,"","",,2022-05-08 04:54:51.688847,2023-10-23 18:00:05.175498,2
+d2d64faf-28f3-435f-800e-bfaf98b0f13e,Citizens Bank Park,citizens-bank-park,"",Philadelphia,PA,USA,"",,,"","",,2020-06-23 18:04:15.066627,2024-02-02 12:13:34.206752,1
+5f501a2f-6a35-479f-8b2a-d075734600ca,Sirius Satellite Studios ,sirius-satellite-studios,1221 Ave of the Americas ,New York City,NY,,,,,"",http://www.sirius.com,550,2020-02-22 16:06:50.239541,2024-03-27 23:56:35.211243,3
+ad81e6b5-f280-43c6-b001-36bbd482f784,Tower Theater,tower-theater,"",Upper Darby,PA,,,,,"","",376,2020-02-22 16:06:50.239541,2024-03-20 10:09:41.738650,5
+a2a72cf9-6d6e-42a9-b04d-ebccd4de674d,"Wamboozy Festival, Snowridge Amphitheater",wamboozy-festival-snowridge-amphitheater,"",Turin,NY,,,,,"","",396,2020-02-22 16:06:50.239541,2020-02-23 00:37:16.865457,1
+2b9633bd-5733-41d0-ad5a-7047282f16cf,Charlottesville Pavilion,charlottesville-pavilion,235 West Main Street ,Charlottesville,PA,,,,,(434) 971-5500,	http://www.charlottesvillepavilion.com,631,2020-02-22 16:06:50.239541,2020-03-24 01:21:15.414071,0
+07c55ada-566a-488f-87eb-6aa6b5f1acd2,Cliffside Inn,cliffside-inn,"",Harper's Ferry,WV,,,,,"","",72,2020-02-22 16:06:50.239541,2020-02-23 00:37:22.355605,1
+4b374936-efa9-4062-a47f-fdb62e04eb46,Westville Music Bowl,westville-music-bowl-new-haven,"",New Haven,CT,"","",,,"","",,2021-06-04 22:50:39.127711,2021-06-04 22:50:39.127711,0
+e0f49453-f11d-4ece-a0ad-e37358b9b20f,Holidaze - Now Sapphire ,holidaze-now-sapphire,"",Puerto Morelos,,Mexico,,,,"","",696,2020-02-22 16:06:51.681200,2020-03-21 18:15:24.799791,0
+4c010573-28ac-40d5-954f-536a04af0723,Hard Hat,hard-hat,"",Dalton,MA,,,,,"","",144,2020-02-22 16:06:50.239541,2020-02-23 00:37:33.472103,1
+5353016c-ebbc-433d-9520-34bf24f68f89,Jimmy's,jimmy-s,"",New Orleans,LA,,,,,"","",179,2020-02-22 16:06:50.239541,2022-09-13 21:10:57.086423,1
+ec12097c-5935-4f59-bb54-cb8615ff1bdf,Melkweg,melkweg,"",Amsterdam,,Netherlands,,,,"","",467,2020-02-22 16:06:50.239541,2023-11-23 10:57:51.978908,3
+65d85ddc-6cca-4c99-98da-ed5d1aa397e5,Monsoon's,monsoon-s,"",Flagstaff,AZ,,,,,"","",217,2020-02-22 16:06:50.239541,2022-09-13 21:11:29.865605,1
+0cd7b819-a5b5-432d-854f-6f55c35d624f,Murphy's Exchange,murphy-s-exchange,"",Steamboat Springs,CO,,,,,"","",221,2020-02-22 16:06:50.239541,2020-02-23 00:37:17.014087,1
+1399b9c9-5272-4c4f-b52b-a08d34c11b20,Peir Patio Club,peir-patio-club,"",Old Orchard Beach,ME,,,,,"","",247,2020-02-22 16:06:50.239541,2020-02-23 00:37:29.886075,1
+31d9d95c-1142-448c-bdda-72d848dcb209,Metronome,metronome,"",Burlington,VT,,,,,"","",208,2020-02-22 16:06:50.239541,2020-02-23 00:37:32.524732,2
+0dd5d042-3711-4239-a284-0efe7e8da42a,DNA Lounge,dna-lounge,"",San Francisco,CA,,,,,"","",95,2020-02-22 16:06:50.239541,2024-11-25 12:18:26.844761,1
+393a0db9-a5a0-494f-95d0-e917ee4c373b,Legends Lounge,legends-lounge,"",Las Vegas,NV,,,,,"","",189,2020-02-22 16:06:50.239541,2023-06-21 19:06:40.942233,6
+2bc3960f-d7b5-4a51-9733-f5e9dba42f43,Johnson State College,johnson-state-college,"",Johnson,VT,,,,,"","",180,2020-02-22 16:06:50.239541,2023-09-07 14:56:29.870572,1
+cb85a3f9-02e5-452b-a8cd-eec941d5b3d8,Rec Room,rec-room,"",Towson,MD,,,,,"","",264,2020-02-22 16:06:50.239541,2023-08-26 17:45:45.494383,2
+381932e1-483c-4a29-bd20-4561ba47192b,"Hard Rock Cafe, Taj Mahal",hard-rock-cafe-taj-mahal,"",Atlantic City,NJ,,,,,"","",145,2020-02-22 16:06:50.239541,2024-02-29 15:09:13.861323,1
+5694ff5d-aaf9-4ef2-b004-0ede3fe8ef37,Curry College,curry-college,"",Boston,MA,,,,,"","",94,2020-02-22 16:06:50.239541,2023-08-26 17:47:14.259114,1
+4d3c9100-3435-4e59-8af1-c20bddd21eb9,R.T.'s,r-t-s,"",Oaklyn,NJ,,,,,"","",262,2020-02-22 16:06:50.239541,2023-07-31 19:24:21.714225,1
+1d312846-9631-429b-b3e3-1be2e229af7d,Lisa Klein's House,lisa-klein-s-house,"",Cherry Hill,NJ,,,,,"","",193,2020-02-22 16:06:50.239541,2024-03-28 00:11:21.923488,1
+16f045de-6e50-4eec-9687-5fc4a5777b27,Lion's Den,lion-s-den,"",New York,NY,,,,,"","",192,2020-02-22 16:06:50.239541,2024-02-29 15:17:43.737768,3
+1eee7b09-f4d8-4eb7-ac0e-b1f4572b40ec,Ocean Mist,ocean-mist,"",Matunick,RI,,,,,"","",234,2020-02-22 16:06:50.239541,2023-08-26 17:47:10.116116,5
+31117e05-5940-4f56-82e8-c079a941875b,Chris' Jazz Cafe,chris-jazz-cafe,"",Philadelphia,PA,,,,,"","",69,2020-02-22 16:06:50.239541,2023-08-26 17:50:58.093616,1
+8be3bdcb-9f5a-4ef7-82e8-b4245b63fa78,Crossroads,crossroads,"",New York,NY,,,,,"","",88,2020-02-22 16:06:50.239541,2024-04-26 13:25:14.589342,5
+60c4a1cd-a2c1-4fc1-bddb-cc6a0fe59488,8 x 10 Club,8-x-10-club,"",Baltimore,MD,,,,,"","",7,2020-02-22 16:06:50.239541,2023-08-26 17:43:49.206647,6
+3b54dccf-a525-48e5-9bec-d1cc10e06c22,Middle East,middle-east,"",Philadelphia,PA,,,,,"","",213,2020-02-22 16:06:50.239541,2024-02-29 15:17:51.679995,5
+8dfeef2a-b9f9-4b71-8346-ebbd242f31af,Wellmont Theater,wellmont-theater,5 Seymour Ave.,Montclair,NJ,,,,,(973) 783-9500,www.wellmonttheatre.com,614,2020-02-22 16:06:50.239541,2023-08-26 17:38:44.882482,3
+fc6426e2-7a01-4226-96b9-c9f655b5ecc4,"Flapjack's Pub, Paul's Pancake House",flapjack-s-pub-paul-s-pancake-house,"",Dillsburg,PA,,,,,"","",119,2020-02-22 16:06:50.239541,2023-08-26 17:44:52.946950,1
+31518367-8655-4f1a-a55f-4541b38a8fec,Last Day Saloon,last-day-saloon,"",San Francisco,CA,,,,,"","",187,2020-02-22 16:06:50.239541,2024-02-26 18:13:29.811640,1
+61b9d4d7-a05f-4cb2-a7da-7115dc400c0a,Ardmore Music Hall,ardmore-music-hall,"",Ardmore,PA,"","",,,"","",,2021-02-06 01:28:15.422200,2024-06-09 15:48:25.576943,3
+4491ffae-d0f5-4edb-bb72-66c9b2ffc302,McHenry Outdoor Theater,mchenry-outdoor-theater,"",McHenry,IL,"","",,,"","",,2021-06-26 00:38:06.040298,2024-03-30 00:56:58.853278,2
+8a36ac36-c25b-42bf-a548-66d4917513fc,House of Blues,house-of-blues-myrtle-beach,4640 S Kings Hwy,Myrtle Beach,SC,,,,,(843) 913-3746,http://www.houseofblues.com/venues/clubvenues/myrtlebeach/,620,2020-02-22 16:06:50.239541,2024-11-10 02:31:20.982649,1
+37174f51-d4c0-4e8d-a07c-64829a136521,Blue Terrapin,blue-terrapin,"",Elizabethtown,PA,,,,,"","",37,2020-02-22 16:06:50.239541,2024-04-26 11:52:22.986980,11
+62362afd-e75f-44c4-930d-86c19d700322,House Of Blues,house-of-blues-west-hollywood,"",West Hollywood,CA,,,,,"","",159,2020-02-22 16:06:50.239541,2024-05-29 21:52:14.665342,6
+54becbfa-b56c-452d-803e-0201fb375d2e,Fattdaddy's,fattdaddy-s,"",Watertown,CT,,,,,"","",114,2020-02-22 16:06:50.239541,2024-04-26 13:25:45.469951,2
+39e32af0-efc6-4278-a45c-fba90f9e24ff,J.J. Cagney's,j-j-cagney-s,"",Savannah,GA,,,,,"","",175,2020-02-22 16:06:50.239541,2024-02-06 15:45:38.656184,2
+ef32b260-beba-4d2d-a7ab-c51ec968edb8,Skye Top Festival Grounds,skye-top-festival-grounds,"",Van Etten,NY,,,,,"","",472,2020-02-22 16:06:50.239541,2024-02-18 12:45:23.102755,2
+c92bf462-a928-40b4-8c13-d32d2ec7cafb,Summer Set Music and Camping Festival,summer-set-music-and-camping-festival,"",Somerset,WI,,,,,"","",668,2020-02-22 16:06:51.681200,2023-10-10 00:52:25.388244,1
+c9cc4ef4-a270-4e2b-a3bd-0e48961d9205,House of Blues,house-of-blues-anaheim,"",Anaheim,CA,,,,,"","",160,2020-02-22 16:06:50.239541,2024-03-28 00:05:09.680198,1
+80817631-c0c1-4bd6-91c9-bb69cc240385,"Rumsey Playfield, Central Park",rumsey-playfield-central-park,"",New York,NY,,,,,"","",276,2020-02-22 16:06:50.239541,2024-03-20 10:11:53.402479,1
+db0383ff-841b-48e2-a5c9-d3e3fe6faff2,Schuba's,schuba-s,"",Chicago,IL,,,,,"","",285,2020-02-22 16:06:50.239541,2024-03-20 10:02:02.196839,1
+0bb038f3-5d3f-4cbb-98ca-958f14a37275,Hungry Charlie's,hungry-charlie-s,"",Syracuse,NY,,,,,"","",165,2020-02-22 16:06:50.239541,2024-04-26 13:23:02.564249,3
+531cc457-8f44-4653-92db-42adcfc22d2b,Engine Room,engine-room,"",Houston,TX,,,,,"","",110,2020-02-22 16:06:50.239541,2024-03-28 00:05:45.169397,1
+498bb91e-7497-4cd0-b029-e4e92926c304,Plum Street Pub,plum-street-pub,"",New Brunswick,NJ,,,,,"","",257,2020-02-22 16:06:50.239541,2024-04-27 20:10:59.138009,1
+395698f1-f7ab-426b-84da-6055ee634ce0,Magnolia Street Pub,magnolia-street-pub,"",Spartanburg,SC,,,,,"","",199,2020-02-22 16:06:50.239541,2024-05-29 21:39:48.528555,1
+22446ee9-979f-4a35-9aab-83dbfa56ccf5,Good Times,good-times,"",Eugene,OR,,,,,"","",131,2020-02-22 16:06:50.239541,2024-05-08 10:23:18.498387,2
+435c5cf0-8500-4a06-9628-2b727d303adf,Levelz,levelz,"",Steamboat Springs,CO,,,,,"","",190,2020-02-22 16:06:50.239541,2024-05-29 21:54:03.000651,1
+4b7d83c0-2345-40a8-ad9e-0148b3501f1d,"Sshh Festival, TuneTown Campgrounds",sshh-festival-tunetown-campgrounds,"",Cherrytree,PA,,,,,"","",302,2020-02-22 16:06:50.239541,2022-02-11 20:03:35.312447,1
+4a6fcffc-5801-4830-a69b-adb31d7d1aa9,Stone Coast,stone-coast,"",Laconia,NH,,,,,"","",309,2020-02-22 16:06:50.239541,2020-02-23 00:37:34.446318,1
+48473ff2-0a84-4cf7-b993-45324a6eaeb4,"Student Center, Westfield State College",student-center-westfield-state-college,"",Westfield,MA,,,,,"","",312,2020-02-22 16:06:50.239541,2020-02-22 16:11:24.185660,0
+f409cd3c-782e-4678-a451-63802b92dec9,Fundos Del Mundos,fundos-del-mundos,"",Washington,DC,,,,,"","",124,2020-02-22 16:06:50.239541,2022-11-06 14:04:47.505093,1
+36e6a6b5-ba79-4c09-a09a-881aa5db3162,Pure Lounge,pure-lounge,"",Columbia,MO,,,,,"","",260,2020-02-22 16:06:50.239541,2022-09-12 18:56:49.813216,1
+444306f1-a604-400c-b00b-8ad787a8b738,"The Levee, Fairfield University",the-levee-fairfield-university,"",Fairfield,CT,,,,,"","",339,2020-02-22 16:06:50.239541,2020-02-23 00:37:06.827049,1
+3c87d9ae-b8c6-470c-8318-6d50f3469b17,"Youthfest '97, Wiggins Park",youthfest-97-wiggins-park,"",Camden,NJ,,,,,"","",414,2020-02-22 16:06:50.239541,2020-02-23 00:37:07.656613,1
+456520e1-89fd-4caa-ad7f-ae1c5cb2d808,River Boat Cajun Queen,river-boat-cajun-queen,600 Port Of New Orleans Place,New Orleans,LA,,,,,"","",426,2020-02-22 16:06:50.239541,2020-02-22 16:11:24.013338,0
+78d9872d-f2e0-4156-9363-fc2fe55c64d8,Webster Theater,webster-theater,31 Webster Street,Hartford,CT,,,,,860-525-5533,"",402,2020-02-22 16:06:50.239541,2024-11-21 16:30:20.138691,8
+a0dfc7f0-1742-4cae-a003-2acd4ac75c10,Legend Valley,legend-valley,"",Thornville,OH,,,,,"","",694,2020-02-22 16:06:51.681200,2024-08-25 20:33:46.690045,1
+2fe4a1a0-4a5b-4f11-b363-e5371d99e0c1,New Deal Roadhouse,new-deal-roadhouse,"",Deal,NJ,,,,,"","",226,2020-02-22 16:06:50.239541,2024-11-24 13:48:12.500674,6
+1be0ac9f-b003-4059-8d17-ed8e297e5821,Canopy Club,canopy-club,"",Urbana,IL,,,,,"","",60,2020-02-22 16:06:50.239541,2024-11-25 12:16:21.762817,6
+26dec213-49f3-49a8-bedc-6898fbb6451c,Aggie Theatre,aggie-theatre,"",Fort Collins,CO,,,,,"","",11,2020-02-22 16:06:50.239541,2024-09-15 16:23:20.637356,4
+1040b8d0-7817-4cac-a298-d0936eca9d8d,A Live One,a-live-one,"",Chicago,IL,,,,,"","",10,2020-02-22 16:06:50.239541,2024-12-07 00:34:12.218858,1
+775616ad-9f9c-4998-ba80-f0ba7e92417f,Nashville River Stages,nashville-river-stages,"",Nashville,TN,,,,,"","",425,2020-02-22 16:06:50.239541,2022-09-01 18:15:27.156702,1
+178101f6-3cb0-4e59-a6f1-5bdb5acdc20b,Coda,coda,34 East 34th Street,New York,NY,,,,,212-685-3434,"",457,2020-02-22 16:06:50.239541,2020-02-22 16:11:20.683569,0
+03eed91e-e1e4-4769-8f8a-8de6766e0cef,Key Club,key-club,"",Los Angeles,CA,,,,,"","",183,2020-02-22 16:06:50.239541,2023-06-21 19:06:36.449920,1
+2fe39633-4d8c-499d-a696-6360b6b53bfc,St. Augustine Amphitheatre Backyard Stage,st-augustine-amphitheatre-backyard-stage-st-augustine,"",St. Augustine,Florida,United States,"",,,"","",,2021-09-17 23:38:54.943851,2023-12-30 19:53:35.243484,1
+18544d89-51ef-4449-9baa-644dbacda0be,Route 20 Club,route-20-club,"",Palmer,MA,,,,,"","",274,2020-02-22 16:06:50.239541,2023-08-26 17:46:59.439197,1
+31f31998-23c0-45a5-a5cc-13cceba55e37,House of Blues,house-of-blues-orlando,"",Orlando,FL,,,,,"","",702,2020-02-22 16:06:51.681200,2023-12-30 19:57:38.471834,1
+39705356-e4fa-485b-be63-67ab457520ce,B.B. King's Blues Club,b-b-king-s-blues-club,237 West 42nd Street,New York,NY,,,,,212-997-4144,"",434,2020-02-22 16:06:50.239541,2024-02-09 17:07:00.450153,3
+413a150b-734e-48ba-8799-a044101df6c2,Snow Ridge Ski Area,snow-ridge-ski-area,"",Turin,NY,,,,,"","",465,2020-02-22 16:06:50.239541,2023-08-27 11:34:17.014242,1
+0edd02e1-d522-4150-82a4-1e81a40c95c4,The Living Room,the-living-room,"",Providence,RI,,,,,"","",340,2020-02-22 16:06:50.239541,2023-08-01 16:25:25.944623,1
+8ae8f022-e61c-4729-af49-a8d573b81fda,Club Toast,club-toast,"",Burlington,VT,,,,,"","",75,2020-02-22 16:06:50.239541,2023-07-31 19:44:33.723583,3
+4507c656-b5cc-4af9-8fd5-37a24679106e,Blarney Stone,blarney-stone,"",Philadelphia,PA,,,,,"","",33,2020-02-22 16:06:50.239541,2024-02-29 15:18:19.184509,6
+0aecae59-9a24-44f4-99da-96febae6f886,The Bayou,the-bayou,"",Washington,DC,,,,,"","",326,2020-02-22 16:06:50.239541,2023-08-01 16:25:05.378551,2
+25605268-395b-47bf-9e9b-d11777d26fb9,Terrapin Station,terrapin-station,"",College Park,MD,,,,,"","",324,2020-02-22 16:06:50.239541,2023-08-01 16:25:10.919660,3
+435421fb-4211-4caf-8ea7-8ef685cd5992,Pounders',pounders,"",Tuscaloosa,AL,,,,,"","",259,2020-02-22 16:06:50.239541,2024-05-29 21:40:54.521015,1
+2edd152e-6223-44c3-b189-0cd5574c4727,Orbit's,orbit-s,"",Fredricksburg,VA,,,,,"","",236,2020-02-22 16:06:50.239541,2023-08-26 17:45:51.502971,1
+61942cc4-398c-4241-952a-d61457de277c,Slipper Room,slipper-room,"",New York City,NY,,,,,"","",455,2020-02-22 16:06:50.239541,2023-08-27 11:31:49.219607,1
+0c4e3630-a46c-4faf-b1e2-c440316fd14f,State Theater,state-theater,"",Ithaca,NY,,,,,"","",304,2020-02-22 16:06:50.239541,2024-11-12 14:27:45.979054,3
+2fbbe684-7206-4367-9cf0-dcc7b6ce6702,Odyssey,odyssey,"",Ithaca,NY,,,,,"","",235,2020-02-22 16:06:50.239541,2023-08-26 17:53:21.648032,1
+33050628-6ac2-4c44-8da8-f427e544a0d8,Nietzche's,nietzche-s,"",Buffalo,NY,,,,,"","",231,2020-02-22 16:06:50.239541,2023-08-26 17:47:24.794897,1
+ae559558-ab9d-4adf-bfa9-53d32ab40712,Liz Wilde Show,liz-wilde-show,"",Portland,OR,,,,,"","",195,2020-02-22 16:06:50.239541,2024-03-28 00:10:31.752560,1
+16e49da2-2d15-4672-afa8-433fc762303d,The Chance,the-chance,"",Poughkeepsie,NY,,,,,"","",332,2020-02-22 16:06:50.239541,2024-03-28 00:06:47.127684,1
+2955ad30-b9e6-44b4-bf3e-79b81ea4003c,Silk City Diner,silk-city-diner,"",Philadelphia,PA,,,,,"","",293,2020-02-22 16:06:50.239541,2024-02-29 15:14:35.963158,3
+08278e3c-b751-4513-bde2-9bf04ecc4029,Breathless Resort & Spa,breathless-resort-spa,"",Punta Cana,,Dominican Republic,,,,"","",691,2020-02-22 16:06:51.681200,2024-09-14 23:04:34.920051,3
+b42fbd46-a08c-4e1a-8d69-4769cf046a76,Roxy Nightclub,roxy-nightclub,"",Boston,MA,,,,,"","",423,2020-02-22 16:06:50.239541,2023-08-26 18:08:16.436946,1
+5a9db110-10eb-44ed-aa52-6719161be3df,The Bay Center,the-bay-center,Dickinson Street,Dewey Beach,DE,,,,,"","",442,2020-02-22 16:06:50.239541,2023-08-27 11:30:39.415603,1
+95420739-83e5-42e9-b8da-d0b38a384633,The Fillmore,the-fillmore-charlotte,"",Charlotte,NC,,,,,"","",599,2020-02-22 16:06:50.239541,2024-11-28 12:47:22.423957,1
+24bb62cd-33bf-4f0b-b754-2157bddd0436,Martyr's,martyr-s,"",Chicago,IL,,,,,"","",202,2020-02-22 16:06:50.239541,2024-05-29 21:39:36.487406,1
+0bcd1840-227c-43b7-b2fd-0daf43fc45cb,Variety Playhouse,variety-playhouse,"",Atlanta,GA,,,,,"","",391,2020-02-22 16:06:50.239541,2024-05-29 21:41:19.317084,3
+3da7b7cb-2779-432b-8c76-e2463471e908,The Palace Theatre,the-palace-theatre,19 Clinton Avenue,Albany,NY,,,,,518-465-3334,"",458,2020-02-22 16:06:50.239541,2023-02-03 09:40:43.089210,0
+76a4257a-a1ab-4ddc-a1dd-f3c6a4aba447,Riverwalk Center,riverwalk-center,150 West Adams,Breckenridge,CO,,,,,"","",436,2020-02-22 16:06:50.239541,2022-09-01 18:17:19.672200,1
+0f80cc94-430f-4665-96b7-1c95d16cb147,Tom Grainey's,tom-grainey-s,"",Boise,ID,,,,,"","",375,2020-02-22 16:06:50.239541,2022-09-13 21:13:55.639389,1
+072532b6-af1a-4ea0-932f-54c6ee0d4d63,Quixote's True Blue,quixote-s-true-blue,"",Aurora,CO,,,,,"","",261,2020-02-22 16:06:50.239541,2022-09-13 21:14:32.876449,2
+3a81fd03-5f38-4570-b117-5a8faeaf5915,University Concert Hall,university-concert-hall,"",College Park,MD,,,,,"","",385,2020-02-22 16:06:50.239541,2022-11-06 14:07:05.557106,3
+29f4dc50-b4ac-4e04-be8e-c29dc4ecbf23,KB,kb,Friisgatan 26,Malmo,,Sweden,,,,+ 46 (0)40 30 2,http://www.kulturbolaget.se/?section=english,546,2020-02-22 16:06:50.239541,2020-02-22 16:11:22.030554,0
+10b1c9a0-e652-466c-b13e-33da5e31dd60,Soo Pass Ranch,soo-pass-ranch,"",Detroit Lakes,MN,,,,,"","",522,2020-02-22 16:06:50.239541,2020-02-22 16:11:20.345743,0
+2a58ce87-ebae-4c14-a518-c8dd57d9d677,Boulder Reservoir,boulder-reservoir,"",Boulder,CO,,,,,"","",594,2020-02-22 16:06:50.239541,2022-02-19 20:48:58.057968,1
+281d3cbe-7f0c-4fe0-bf92-6088214fa6ac,The Music Hall,the-music-hall,"",Charleston,SC,,,,,"","",578,2020-02-22 16:06:50.239541,2020-02-22 16:11:21.816532,0
+4a80ff60-d21d-4cb1-ab7e-18a98719d31d,Unknown Location,unknown-location,"","","",,,,,"","",607,2020-02-22 16:06:50.239541,2020-02-23 00:37:29.526061,2
+34bccedc-5acd-4741-b936-26491d36e4cd,Diamond Riggs Studios,diamond-riggs-studios,"",Philadelphia,PA,,,,,"","",629,2020-02-22 16:06:50.239541,2022-09-12 20:42:06.234442,1
+24d7c768-ef64-4419-8788-5db0ffcfc6f3,Casino Ballroom,casino-ballroom,"",Hampton Beach,NH,,,,,"","",600,2020-02-22 16:06:50.239541,2022-09-13 23:09:00.906578,1
+feb271e4-61fc-4d66-ac24-ee9f39c76aad,Trocadero,trocadero,"",Philadelphia,PA,,,,,"","",380,2020-02-22 16:06:50.239541,2024-07-24 18:51:57.012210,8
+8666e64a-4713-45ab-8d70-03877ec0193b,Abayance Bay Marina,abayance-bay-marina,"",Rexford,MT,"","",,,"","",,2023-07-07 03:10:42.316051,2024-07-19 11:43:41.801301,1
+6248598b-8e78-40b2-87cf-c408f964f80e,Charlotte City Fest,charlotte-city-fest,"",Charlotte,NC,,,,,"","",424,2020-02-22 16:06:50.239541,2024-08-26 17:39:38.551098,1
+41bc456b-ee2f-477c-93c6-49322d9324b4,The Moon,the-moon,"",Tallahassee,FL,,,,,"","",347,2020-02-22 16:06:50.239541,2024-11-22 01:26:34.528247,2
+2157f86f-a193-42bb-b441-a3787ea1d4f9,The Windjammer,the-windjammer,1008 Ocean Boulevard,Isle of Palms,SC,,,,,843-886-8948 ,http://www.the-windjammer.com/,616,2020-02-22 16:06:50.239541,2024-11-13 14:09:22.335294,4
+d4947160-f660-4ad3-9f5b-9a33becb14bf,The Calvin,the-calvin,19 King St.,Northampton,MA,,,,,413-584-1444,http://www.iheg.com/calvin_theater_main.asp,502,2020-02-22 16:06:50.239541,2024-07-29 09:08:01.468482,7
+d436b14f-99d4-42db-abea-655e7c4b3e01,Avalon Ballroom,avalon-ballroom,15 Lansdowne Street,Boston,MA,,,,,"","",25,2020-02-22 16:06:50.239541,2024-08-07 03:26:58.625070,3
+4ad803c7-4c3d-4aa4-96df-7b0250f6b506,Pearl Street,pearl-street,"",Northampton,MA,,,,,"","",244,2020-02-22 16:06:50.239541,2024-11-25 12:17:21.600930,3
+0cb52bc4-126b-4fb0-97ff-2578f5e9db2b,Showbox,showbox,"",Seattle,WA,,,,,"","",289,2020-02-22 16:06:50.239541,2024-11-26 03:19:32.456807,2
+318c4e6b-d74c-45c2-8168-43c6d3c2f2ad,Saratoga Winners,saratoga-winners,"",Cohoes,NY,,,,,"","",282,2020-02-22 16:06:50.239541,2024-09-30 02:45:07.173806,1
+66010b7b-ba64-4075-aedb-d4e7f0b9f5c5,Woodmen of the World Hall,woodmen-of-the-world-hall,"",Eugene,OR,,,,,"","",412,2020-02-22 16:06:50.239541,2024-10-01 13:27:12.350630,2
+865d3aaa-390f-42ae-a261-aa9abe4fc753,10 Mile Music Hall,10-mile-music-hall,"",Frisco,CO,,,,,"","",695,2020-02-22 16:06:51.681200,2024-10-04 19:50:02.015050,5
+f1fb1c6e-e92a-4484-86da-3f682ef18df8,Hammerstein Ballroom,hammerstein-ballroom,311 West 34th Street,New York,NY,,,,,212-279-7740,"",143,2020-02-22 16:06:50.239541,2024-11-10 02:29:18.596995,9
+54c563c7-a506-42a1-a6f5-ab77a4501175,Terminal West,terminal-west,"",Atlanta,GA,,,,,"","",678,2020-02-22 16:06:51.681200,2024-12-09 17:22:32.590795,3
+1ac9d011-e465-4ab6-a3b4-3b80397552e1,Wakarusa Festival - Mulberry River Mountain Ranch,wakarusa-festival-mulberry-river-mountain-ranch,"",Ozark,AR,,,,,"",http://www.wakarusa.com/,618,2020-02-22 16:06:50.239541,2024-04-29 21:02:29.417222,1
+83c2ae5b-bf58-429d-81aa-4a2ecfe377c5,The Rave,the-rave,"",Milwaukee,WI,,,,,"","",357,2020-02-22 16:06:50.239541,2024-03-16 05:08:25.741497,5
+40174ab6-0762-4b7d-917c-833c698ba083,Murat Egyptian Room,murat-egyptian-room,"",Indianapolis,IN,,,,,"","",565,2020-02-22 16:06:50.239541,2023-01-23 01:51:58.124488,1
+26347154-0d4c-4ace-8820-11aa5e1ce852,Pompano Beach Amphitheatre,pompano-beach-amphitheatre,1806 NE 6th Street,Pompano Beach,FL,,,,,954-946-2402,http://www.fantasma.com/venues/venues_pomp.html,528,2020-02-22 16:06:50.239541,2022-08-29 21:12:45.576147,1
+b71677d4-71b7-49d7-a5f2-822f40b47ff4,Tussey Mountain Amphitheater,tussey-mountain-amphitheater,301 Bear Meadow Road,Boalsburg,PA,,,,,"","",381,2020-02-22 16:06:50.239541,2024-03-28 00:04:05.356353,4
+577c9413-ceff-4d01-bd61-4b5c21178c84,DFEST,dfest,318 E. 2nd St.,Tulsa,OK,,,,,"",http://www.dfest.com,560,2020-02-22 16:06:50.239541,2022-08-06 17:29:24.152366,1
+3788827f-d122-448a-8f3b-6807c7dc8300,Aragon Ballroom,aragon-ballroom,1106 West Lawrence Ave,Chicago,IL,,,,,"","",478,2020-02-22 16:06:50.239541,2022-09-01 18:25:29.898308,1
+6c3fa319-f1bd-44ed-8c1d-8484341c4884,Backwoods at Mulberry Mountain,backwoods-at-mulberry-mountain,"",Ozark,AR,"","",,,"","",,2021-08-29 14:14:28.309888,2024-03-10 04:30:28.375567,1
+9ce104b0-a371-4734-bd71-41415648a093,"Rathskeller, Student Union, University Of Wisconsin",rathskeller-student-union-university-of-wisconsin,"",Madison,WI,,,,,"","",263,2020-02-22 16:06:50.239541,2023-08-09 17:37:00.072539,1
+2975262b-4b83-4f7a-9b0d-1f5d75a841aa,Valentine's,valentine-s,"",Albany,NY,,,,,"","",390,2020-02-22 16:06:50.239541,2024-05-08 10:20:13.718681,5
+4e83e983-df17-45af-a624-f204845a9312,Cain's Ballroom,cain-s-ballroom,"",Tulsa,OK,,,,,"","",587,2020-02-22 16:06:50.239541,2024-02-15 17:19:29.210737,1
+066c7e2a-a5cd-40d4-9c93-1c4c84070dc5,The Sonar,the-sonar,"",Vancouver,BC,Canada,,,,"","",366,2020-02-22 16:06:50.239541,2023-06-21 19:06:17.722160,1
+5242af55-99c6-462d-9371-691be445b985,Riverfront Live,riverfront-live,Cincinnati,Cincinnati,OH,"","",,,"","",,2022-08-29 17:26:47.994936,2024-03-10 12:08:08.619321,1
+4a85e92d-81f7-46e4-8432-6125b0ba026f,The Max,the-max,"",Amsterdam,,Netherlands,,,,"",http://www.jaminthedam.com/,476,2020-02-22 16:06:50.239541,2023-08-27 11:38:02.737878,5
+22a3fe67-520b-41e8-80f1-59fd619ab12d,Revolution Live,revolution-live,"",Ft. Lauderdale ,FL,,,,,"","",704,2020-02-22 16:06:51.681200,2023-08-30 10:47:31.142027,3
+524c6aa2-6248-414b-a626-fe73589b8a7f,Harpa Concert Hall,harpa-concert-hall,"",Reykjavik ,Iceland,Iceland,"",,,"",https://www.harpa.is/en/concerts,,2023-05-20 20:42:12.655235,2024-11-07 02:11:45.531492,3
+3799b75c-bd1a-4b1d-ba99-92629b8b9cea,Blind Pig,blind-pig,206-208 South First Street,Ann Arbor,MI,,,,,734-996-8555,http://www.blindpigmusic.com/,34,2020-02-22 16:06:50.239541,2024-09-15 16:23:39.391369,4
+2e116b56-a17d-43a0-8a4e-08b6a7c447b5,Tree's,tree-s,"",Dallas,TX,,,,,"","",378,2020-02-22 16:06:50.239541,2024-03-28 00:05:40.685292,1
+7408fd6d-fe1e-433b-ba43-9ad69a3bd4e6,Brooklyn Mirage - Brooklyn Comes Alive,brooklyn-mirage-brooklyn-comes-alive,"",Brooklyn ,NY,"","",,,"","",,2021-09-27 02:33:17.489659,2023-08-26 17:37:20.447115,1
+30ea9f62-a7d5-4380-b33d-615cdd7ccfdd,Lupo's Heartbreak Hotel,lupo-s-heartbreak-hotel,79 Washington St.,Providence,RI,,,,,401-331-5876,http://www.lupos.com/Splash.html,198,2020-02-22 16:06:50.239541,2024-11-21 16:30:40.260665,5
+03afb864-ba0e-442f-bfa9-8f2f18a2f808,The Galaxy,the-galaxy,"",St. Louis,MO,,,,,"","",336,2020-02-22 16:06:50.239541,2024-03-28 00:07:29.173911,1
+0e2229d3-4452-4d14-8f49-0497be2c67c5,Wild Duck Music Hall,wild-duck-music-hall,"",Eugene,OR,,,,,"","",409,2020-02-22 16:06:50.239541,2024-03-28 00:10:21.962968,1
+27a24000-3d93-4000-9d45-1474287e5af3,Stone Pony,stone-pony,"",Asbury Park,NJ,,,,,"","",471,2020-02-22 16:06:50.239541,2024-04-04 20:25:16.167813,3
+0e289e2c-7798-403b-aba8-e0533a6e8039,Mishawaka Amphitheater,mishawaka-amphitheater,13714 Poudre Canyon Highway,Bellvue,CO,,,,,"","",215,2020-02-22 16:06:50.239541,2024-11-26 16:27:53.719502,11
+18e05ce9-4e94-45fc-9dd0-dcbf50144919,Visulite Theater,visulite-theater,"",Charlotte,NC,,,,,"","",394,2020-02-22 16:06:50.239541,2024-11-25 12:15:15.610693,2
+1c8c39b4-a73e-43c0-a12a-57c2fea5cf35,The Roxy,the-roxy,"",New York,NY,,,,,"","",362,2020-02-22 16:06:50.239541,2024-05-29 21:45:09.218375,1
+b9399fba-a918-42a9-a1b3-aca290673d1a,Georgia Theater,georgia-theater,"",Athens,GA,,,,,"","",129,2020-02-22 16:06:50.239541,2024-11-10 02:23:27.689199,8
+426b0278-b209-457f-964b-98356f58284d,Chevrolet Theatre,chevrolet-theatre,95 S Turnpike Rd,Wallingford,CT,,,,,(203) 265-1501,http://www.livenation.com/venue/getVenue/venueId/805,540,2020-02-22 16:06:50.239541,2023-10-31 12:15:52.895470,1
+2e532134-a7f4-435a-9c0b-d7f6f7710d94,WorkPlay Theatre,workplay-theatre,"",Birmingham,AL,,,,,"","",495,2020-02-22 16:06:50.239541,2023-02-03 10:22:08.719308,1
+43d10dbf-a258-4072-a199-b959ffb07cbc,Klipsch Amphitheatre @ Bayfront Park,klipsch-amphitheatre-bayfront-park,301 North Biscayne Blvd,Miami,FL,,,,,305-358-7550,http://www.bayfrontparkmiami.com/pages/events.html,651,2020-02-22 16:06:50.239541,2022-09-01 11:07:52.305104,1
+2d9189ac-244c-4b0b-a113-3160bab8bd12,State Theater,state-theater-kalamazoo,"",Kalamazoo,MI,,,,,"","",604,2020-02-22 16:06:50.239541,2022-09-13 23:09:19.055184,1
+00bca257-cb1d-4af9-ba85-7781734dd952,High Sierra House Of Blues,high-sierra-house-of-blues,"",Mammouth Lakes,CA,,,,,"","",154,2020-02-22 16:06:50.239541,2020-02-23 00:37:37.192751,2
+03698a95-aed7-4a81-a32f-3a8643ffcb4b,The George Washington University,the-george-washington-university,"",Washington,DC,,,,,"","",337,2020-02-22 16:06:50.239541,2020-02-23 00:37:38.182690,1
+02d4b85c-209f-4d00-84d6-f57b3a562633,"Phi Sigma Kappa, University Of Pennsylvania",phi-sigma-kappa-university-of-pennsylvania,"",Philadelphia,PA,,,,,"","",251,2020-02-22 16:06:50.239541,2021-09-28 07:03:40.945548,1
+1a4fa94f-340c-4210-b916-5f281f1122e8,University Of Maryland,university-of-maryland,"",College Park,MD,,,,,"","",387,2020-02-22 16:06:50.239541,2020-02-23 00:37:29.727570,1
+2ce3366e-64c7-4d97-b9a6-5ddb1db3bbfb,Bull and Bier House,bull-and-bier-house,"",Plymouth,NH,,,,,"","",47,2020-02-22 16:06:50.239541,2020-02-23 00:37:05.171693,1
+4092f69c-4b81-4536-8005-99dc68dfc0ee,"Grassroots Festival, Woodbury Ski and Racquet Club",grassroots-festival-woodbury-ski-and-racquet-club,"",Woodbury,CT,,,,,"","",136,2020-02-22 16:06:50.239541,2020-02-23 00:37:33.690737,1
+2ddb260d-1c59-4f69-ad64-47ad5a04f654,Lincoln Theatre Street Stage,lincoln-theatre-street-stage,126 E. Cabarrus Street,Raleigh,NC,,,,,919-821-4111,http://www.lincolntheatre.com/,526,2020-02-22 16:06:50.239541,2023-04-16 20:11:34.573294,0
+29b38ed8-03e1-466e-8295-ac940892ed9f,Exit2 Nightclub,exit2-nightclub,"",New York,NY,,,,,"","",473,2020-02-22 16:06:50.239541,2023-11-23 10:59:30.384716,1
+2e412cc5-ea82-4215-b606-0762014dd53b,Chameleon Club,chameleon-club,"",Lancaster,PA,,,,,"","",65,2020-02-22 16:06:50.239541,2024-04-11 15:38:45.510080,5
+38396f92-9b9f-402d-8ee9-2f6f628cb544,Tennessee Theater,tennessee-theater,"",Knoxville,TN,,,,,"","",598,2020-02-22 16:06:50.239541,2024-11-26 03:36:51.526192,1
+25d3b95d-24b1-45e4-87b0-4c1ea4693944,Liberty Hall,liberty-hall,"",Lawrence,KS,,,,,"","",583,2020-02-22 16:06:50.239541,2024-06-30 06:06:27.314308,1
+276f4ec9-4878-43b1-99c6-11f1e58a70d9,Seatgeek Stadium Campus,seatgeek-stadium-campus,"",Bridgeview,IL,"","",,,"","",,2022-08-27 23:39:25.939659,2024-07-18 20:27:57.552964,1
+3643ff40-01b6-4844-8a92-10dbf38ea609,Great North Music and Arts Fest,great-north-music-and-arts-fest,"",Minot,ME,,,,,"","",683,2020-02-22 16:06:51.681200,2024-08-29 20:02:47.867078,2
+0cee4f62-951d-43a3-9061-dc02cfb95215,Revolution Hall,revolution-hall,417-419 River Street,Troy,NY,,,,,518-273-BEER,http://www.troypub.com/,422,2020-02-22 16:06:50.239541,2024-11-12 14:27:50.740650,1
+8a37652d-3c66-407c-94bf-7b189703d402,Exit/Inn,exit-inn,"",Nashville,TN,,,,,"","",112,2020-02-22 16:06:50.239541,2024-11-10 02:23:32.244426,2
+173e4795-3a61-4029-8d4e-ae6d4fcff711,Thalia Hall,thalia-hall,1807 S. Allport St,Chicago,IL,USA,60608,,,"",https://www.thaliahallchicago.com/,,2024-05-28 17:09:24.286091,2024-12-06 01:31:45.840772,2
+31dac481-4c72-4213-9bac-16f5502ce517,The Vanderbilt,the-vanderbilt,"",Plainview,NY,,,,,"","",370,2020-02-22 16:06:50.239541,2024-11-25 12:16:50.452864,5
+22b604b1-9924-4dcc-9613-7b072ce9c5bf,Crouse Hinds Theater at the Oncenter,crouse-hinds-theater-at-the-oncenter,"",Syracuse ,NY,,,,,"","",674,2020-02-22 16:06:51.681200,2023-12-01 18:47:13.827764,1
+3f30d2dd-688d-43c8-a7f2-dcc348e1c9d1,Shoreline Amphitheatre,shoreline-amphitheatre,One Amphitheatre Parkway,Mountain View,CA,,,,,(650) 967-3000,http://www.shorelineamphitheatertickets.com/,656,2020-02-22 16:06:51.681200,2023-08-30 11:05:13.687588,1
+05f5533a-5314-48c4-bc20-d2007b9d91b8,Finnegan's Pub,finnegan-s-pub,"",Kansas City,MO,,,,,"","",116,2020-02-22 16:06:50.239541,2023-06-21 19:06:07.427789,1
+07702f5c-a3b7-4613-8cd7-5d8ff143ba13,House of Blues,house-of-blues,"",Dallas,TX,,,,,"","",584,2020-02-22 16:06:50.239541,2024-02-15 17:19:19.492848,1
+470f10b7-71b1-4965-82c2-11eda1c8cb0c,The Galaxy Theatre,the-galaxy-theatre,3503 South Harbor Boulevard,Santa Ana,CA,,,,,"",http://www.galaxytheatre.com/,335,2020-02-22 16:06:50.239541,2023-06-28 15:47:57.743887,3
+0bf58f81-c0f3-48d3-b8a7-a902c8675d48,Lincoln Park Zoo,lincoln-park-zoo,2001 N. Clark Street,Chicago,IL,,,,,312) 742-2000,http://www.lpzoo.org/,518,2020-02-22 16:06:50.239541,2023-06-29 14:46:23.006093,1
+f7d21efd-aa5f-42b7-ba58-5a81a321f9db,Blue Lake Casino,blue-lake-casino,777 Casino Way,Blue Lake,CA,"",95525,,, (877) 252-2946,https://www.bluelakecasino.com/venue/sapphire-palace/,,2023-07-16 14:33:10.069547,2023-07-16 14:33:10.069547,0
+6d3d9cc2-731f-41ea-a286-130e36f6e58f,Cicero's,cicero-s,"",St. Louis,MO,,,,,"","",70,2020-02-22 16:06:50.239541,2024-06-02 01:15:31.701672,2
+031d73d3-e8aa-4fca-b098-6d4f5581bd09,The Silo,the-silo,2017 Bernville Road,Reading,PA,,,,,610-376-9909,"",365,2020-02-22 16:06:50.239541,2024-03-28 00:04:27.433960,4
+17170ed1-f823-40d7-b2f4-cb58b64f52cd,Susquehanna Bank Center,susquehanna-bank-center,1 Harbor Boulevard,Camden,NJ,,,,,(856) 365-1300,http://centercamden.com/?gclid=CILFhI-Y3qoCFUXf4Aod6zT57g,646,2020-02-22 16:06:50.239541,2024-03-27 23:57:18.383654,1
+92dde8bf-615a-4a9c-9723-22fdcb82d859,Clubhouse ,clubhouse,"",East Hampton,NY,"","",,,"",https://murmrr.com/,,2023-08-11 05:58:21.582234,2023-08-11 05:58:21.582234,0
+54e3f55d-9e73-49a0-99cb-56c185b5cc32,Majestic Theater,majestic-theater,"",Madison,WI,,,,,"","",592,2020-02-22 16:06:50.239541,2024-02-15 17:20:07.235147,1
+2f8c7dc4-47de-4ca7-accc-8d4b9c5059f1,The Hook,the-hook,"",Brooklyn,NY,,,,,"","",462,2020-02-22 16:06:50.239541,2023-08-27 11:33:40.151268,1
+006f9b72-c8db-45dc-afad-b0fc65ab2a8e,Tammany Hall,tammany-hall,"",Worcester,MA,,,,,"","",322,2020-02-22 16:06:50.239541,2024-03-28 00:07:35.119145,6
+03eacd7b-aa5b-4195-9455-4a02836b4fd2,Grand Cayman Ballroom,grand-cayman-ballroom,"",Atlantic City,NJ,,,,,"","",134,2020-02-22 16:06:50.239541,2024-03-28 00:06:30.238053,1
+235c171b-5462-4d70-8027-36f22caa2f87,Breckenridge Brewery,breckenridge-brewery,"",Littleton,CO,,,,,"","",699,2020-02-22 16:06:51.681200,2024-11-26 03:31:02.950853,1
+1a4c15f9-bae2-41c3-b84b-62b7a1afa9c4,The Bottleneck,the-bottleneck,"",Lawrence,KS,,,,,"","",328,2020-02-22 16:06:50.239541,2024-02-18 12:41:22.369405,1
+36a05733-651a-4073-bde8-a066f865789d,George's Majestic,george-s-majestic,"",Fayetteville,AR,,,,,"","",596,2020-02-22 16:06:50.239541,2023-08-27 11:52:21.067561,1
+69abf3be-edcd-481d-80a4-190b935aa9bf,Grand Central,grand-central,697 N. Miami Ave.,Miami,FL,,,,,305.377.2277,http://www.grandcentralmiami.com/,610,2020-02-22 16:06:50.239541,2024-03-27 23:56:24.348021,2
+4e50fcf9-a18f-4f56-8ccb-c79789d92e64,Jiffy Lube Live,jiffy-lube-live,7800 Cellar Door Drive,Bristow,VA,,,,,(703) 754-0148,http://www.nissanpaviliononline.com/,645,2020-02-22 16:06:50.239541,2023-08-30 11:04:30.283290,1
+04aa905a-f64f-428b-ac41-0bae402258fd,Newport Music Hall,newport-music-hall,"",Columbus,OH,,,,,"","",229,2020-02-22 16:06:50.239541,2024-11-25 12:16:38.899296,6
+2486f116-14c6-4116-9034-cb0500500104,Palladium,palladium,6215 Sunset Blvd,Hollywood,CA,,,,,(323) 962-7600,http://www.boxofficecenter.com/ResultsVenue.aspx?venid=299&vname=Hollywood+Palladium,657,2020-02-22 16:06:51.681200,2023-08-30 11:05:16.743838,1
+113aac96-e0b3-4c46-a4fb-379c7adef729,The Fillmore ,the-fillmore,"",New Orleans,LA,,,,,"","",698,2020-02-22 16:06:51.681200,2024-04-16 20:34:30.238394,2
+1c086e1e-1102-4e53-b810-98ffb10108a7,3rd and Lindsley,3rd-and-lindsley,"",Nashville,TN,,,,,"","",453,2020-02-22 16:06:50.239541,2023-01-23 01:41:48.554725,1
+00833218-d2bb-4d3b-876f-2e019f3b626b,Cavanaugh's,cavanaugh-s,"",Philadelphia,PA,,,,,"","",62,2020-02-22 16:06:50.239541,2022-11-06 14:04:27.872801,1
+0a52697c-422e-463a-9993-95c7c7e86e5a,Dave's On Dickson,dave-s-on-dickson,245 Powerhouse Avenue,Fayetteville,AR,,,,,479-571-3333,"",452,2020-02-22 16:06:50.239541,2022-09-01 18:23:59.480638,1
+2a83dbc7-61aa-475f-b08a-584e41f84ea6,"Sigma Chi House, Colgate University",sigma-chi-house-colgate-university,"",Hamilton,NY,,,,,"","",291,2020-02-22 16:06:50.239541,2020-02-23 00:37:27.054218,1
+2dfd534d-b7f1-45e4-a7d7-a45b13dc06f0,"Alpha Delta Pi, University Of Pennsylvania",alpha-delta-pi-university-of-pennsylvania,"",Philadelphia,PA,,,,,"","",18,2020-02-22 16:06:50.239541,2020-02-23 00:37:14.786806,1
+8fde47ba-a13c-426a-99d2-18d9a5b27b57,Pi Kappa Alpha,pi-kappa-alpha,"",Oxford,MS,,,,,"","",254,2020-02-22 16:06:50.239541,2020-02-23 00:37:16.084969,1
+49156064-4152-4717-960e-2980e9780857,"Spring Fling, Northwestern University",spring-fling-northwestern-university,"",Evanston,IL,,,,,"","",300,2020-02-22 16:06:50.239541,2020-02-23 00:37:28.814310,1
+17e54ce5-eaee-4bdd-917d-cb1a86f6e129,Carling Academy Islington,carling-academy-islington,16 Parkfield Street,London,,England,,,,08444 77 2000,http://www.islington-academy.co.uk/,543,2020-02-22 16:06:50.239541,2022-09-13 19:46:18.156412,1
+5b430998-ece4-41b7-a944-ffbfcd0d9bec,4000 Pine Street,4000-pine-street,"",Philadelphia,PA,,,,,"","",4,2020-02-22 16:06:50.239541,2020-02-23 00:37:18.186523,2
+5257f867-17e7-42a8-91f6-5b8c14ea5d4d,The Temptress at World Yacht Marina,the-temptress-at-world-yacht-marina,42nd Street and West Side Highway,New York,NY,,,,,"",www.rocksoff.com,463,2020-02-22 16:06:50.239541,2020-02-22 16:11:24.667019,0
+5b197b23-975c-453a-8684-0e5887d1b7bc,Turks & Caicos - MSC Opera,turks-caicos-msc-opera,"",Ft. Lauderdale,FL,,,,,"",www.JamCruise.com,516,2020-02-22 16:06:50.239541,2020-02-22 16:11:26.620378,0
+5bbd10a4-2533-4649-a71e-cddc164e8d5e,"Feelin' Fine Festival, Wilmer's Park",feelin-fine-festival-wilmer-s-park,"",Brandywine,MD,,,,,"","",115,2020-02-22 16:06:50.239541,2022-02-11 20:04:01.676690,1
+52983930-a7ae-45fb-bc1c-078a4749017e,New Cheers Club,new-cheers-club,"",Binghamton,NY,,,,,"","",225,2020-02-22 16:06:50.239541,2020-02-23 00:37:23.092428,1
+5bcb084f-e575-4d02-ae16-6bfaddf91dfd,The Saint,the-saint,"",Asbury Park,NJ,,,,,"","",363,2020-02-22 16:06:50.239541,2020-02-23 00:37:07.679255,1
+5878a52b-4020-49ca-8b54-22483d885513,Asheville Civic Center,asheville-civic-center,87 Haywood Street,Asheville,NC,,,,,828-259-5544,"",443,2020-02-22 16:06:50.239541,2023-06-20 05:32:37.632643,1
+53cc7c67-4d8d-4663-8cea-5654d807867d,The Palladium,the-palladium,"",Worcester,MA,,,,,"","",352,2020-02-22 16:06:50.239541,2024-12-04 00:35:55.636966,12
+5982e6b5-c3ab-4120-a230-e914d619bbc5,"Britt Ballroom, Southern Oregon University",britt-ballroom-southern-oregon-university,"",Ashland,OR,,,,,"","",43,2020-02-22 16:06:50.239541,2022-09-21 00:29:05.386732,1
+57b63e8d-6189-4dc2-aa7c-d958464040dd,The F Shed ,the-f-shed,"",Syracuse ,NY ,,,,,"","",673,2020-02-22 16:06:51.681200,2022-09-02 08:58:09.380302,1
+138dba32-d10c-4db0-aa03-b6998487f00b,The Music Box at the Borgata Hotel and Casino,the-music-box-at-the-borgata-hotel-and-casino,"",Atlantic City,NJ,,,,,"","",475,2020-02-22 16:06:50.239541,2023-11-19 19:39:29.589174,2
+d6818c43-b30e-4aae-8c5a-fa5df1c466dd,Artscape Festival,artscape-festival,"",Baltimore,MD,,,,,"","",470,2020-02-22 16:06:50.239541,2024-07-30 15:42:33.995684,1
+1b0707f3-4510-4fcf-96c0-145a07619a8c,Big Wu Family Reunion,big-wu-family-reunion,"",Minneapolis,MN,,,,,"","",31,2020-02-22 16:06:50.239541,2022-09-12 18:55:08.807712,1
+57c05534-b5e5-4a34-8311-751c7e6d2757,Pumpehuset,pumpehuset,Studiestræde 52,Copenhagen,,Denmark,,,,+45 33 93 19 60,http://www.pumpehuset.dk/,545,2020-02-22 16:06:50.239541,2022-09-13 19:46:41.689665,1
+52b999d8-7f7f-4bff-a5bc-027c48187f84,"Fraternity House, Penn State",fraternity-house-penn-state,"",State College,PA,,,,,"","",122,2020-02-22 16:06:50.239541,2024-02-29 15:17:36.753972,1
+2791453b-989d-4e89-8ae8-b56e2c24f176,"The Quad, University Of Pennsylvania",the-quad-university-of-pennsylvania,"",Philadelphia,PA,,,,,"","",356,2020-02-22 16:06:50.239541,2023-07-31 19:32:29.714854,1
+548d3cee-4e64-49d8-876c-3a9d626bfa6b,Grog and Tankard,grog-and-tankard,"",Washington,DC,,,,,"","",139,2020-02-22 16:06:50.239541,2023-07-31 19:48:44.709084,3
+030309d0-3b82-4cbf-9dd0-5bc174cddf50,The Old Hall,the-old-hall,"",Amsterdam,,Netherlands,,,,"","",477,2020-02-22 16:06:50.239541,2023-08-27 11:38:06.521068,1
+5b64e6bb-feb7-4e17-90f4-ab4e8ff59b15,Somerville Theater,somerville-theater,"",Somerville,MA,,,,,"","",298,2020-02-22 16:06:50.239541,2024-11-25 12:17:11.884677,2
+15e445cb-8a55-4504-9011-ee5d4f054580,Club Metronome,club-metronome,"",Burlington,VT,,,,,"","",74,2020-02-22 16:06:50.239541,2024-02-29 15:05:36.700564,1
+672b978b-e8c1-4e06-bb0b-74b0a786f4a7,Madison Theater,madison-theater,"",Covington,KY,,,,,"","",573,2020-02-22 16:06:50.239541,2024-11-25 12:21:07.635182,2
+521acb29-8a6d-470e-821e-e9511ef98bb5,Pearl Street Mall,pearl-street-mall,Pearl St. & 13th St.,Boulder,CO,,,,,1-303-449-3774,http://www.boulderdowntown.com/,615,2020-02-22 16:06:50.239541,2023-08-27 11:58:46.555584,1
+15873bdd-79e6-4842-887a-2334022ba74e,Wakarusa Festival,wakarusa-festival,"",Lawrence,KS,,,,,"",http://www.wakarusa.com,484,2020-02-22 16:06:50.239541,2023-08-27 11:39:23.390364,2
+13d7433c-a30c-4228-8889-36bb5347fb00,Cynthia Woods Mitchell Pavilion,cynthia-woods-mitchell-pavilion,2005 Lake Robbins Drive,The Woodlands,TX,,,,,281-363-3300,http://www.woodlandscenter.org/,652,2020-02-22 16:06:50.239541,2023-08-30 11:04:56.767435,1
+6909ebe7-1267-4375-be86-32bbf80d0c42,The Masquerade,the-masquerade,"",Atlanta,GA,,,,,"","",343,2020-02-22 16:06:50.239541,2024-05-29 21:46:53.408769,1
+18b68d2a-5d8e-421a-972b-f0b73de5b623,Nikon at Jones Beach Amphitheatre,nikon-at-jones-beach-amphitheatre,1000 Ocean Parkway,Wantagh,NY,,,,,(866)558-8468,jonesbeach.com,648,2020-02-22 16:06:50.239541,2024-03-27 23:57:21.899587,1
+541ee836-1cc9-4170-8e3b-dfa5fe571878,Merriweather Post Pavilion,merriweather-post-pavilion,"",Columbia ,MD,,,,,"","",671,2020-02-22 16:06:51.681200,2024-11-07 19:34:05.416789,1
+22170769-717a-4f8b-87ab-9a3390112086,Roxian Theater,roxian-theater,"",McKees Rocks,PA,,,,,"","",700,2020-02-22 16:06:51.681200,2024-02-02 09:25:05.171970,2
+633e5dc8-28b9-4664-8d7d-c5b681b8f3cf,Northern Lights,northern-lights,1208 Route 146,Clifton Park,NY,,,,,518-371-0012,"",233,2020-02-22 16:06:50.239541,2024-02-21 18:11:13.407844,2
+54ce61dd-246b-4fd0-8e8f-23f859efacae,Ritz Club,ritz-club,"",Salt Lake City,UT,,,,,"","",272,2020-02-22 16:06:50.239541,2022-09-13 21:13:59.340957,1
+8c8894ba-1a8b-4d9c-a5ed-73a8ad442e70,"The Roost, Dennison University",the-roost-dennison-university,"",Granville,OH,,,,,"","",359,2020-02-22 16:06:50.239541,2023-08-01 16:24:29.751785,2
+0bc7a173-4586-45d8-ab83-e112d6bc256e,"The Quad, Franklin and Marshall College",the-quad-franklin-and-marshall-college,"",Lancaster,PA,,,,,"","",355,2020-02-22 16:06:50.239541,2022-11-06 14:09:26.387972,1
+088be96d-c754-4dc4-80cb-12482f343234,"Solar Folklore Festival, Tussey Mountain Amphitheater",solar-folklore-festival-tussey-mountain-amphitheater,"",Boalsburg,PA,,,,,"","",297,2020-02-22 16:06:50.239541,2022-11-06 14:09:49.340884,1
+0d126eb8-4feb-459d-9779-747955891eda,The Riverfront Belvedere,the-riverfront-belvedere,5th and Main streets,Louisville,KY,,,,,502-574-3768,"",561,2020-02-22 16:06:50.239541,2023-01-23 01:47:07.312961,1
+54e5165d-02e5-4a4a-a737-acc54f3d0ab7,Philly Street Festival,philly-street-festival,"",Philadelphia,PA,,,,,"","",253,2020-02-22 16:06:50.239541,2020-02-23 00:37:32.426031,1
+4e723732-8804-4a0b-bc12-c352a178b351,Summer Sun Music Festival,summer-sun-music-festival,"",Mears,MI,,,,,"","",315,2020-02-22 16:06:50.239541,2020-02-23 00:37:25.733789,1
+631cc9f9-0805-4a86-90a1-460f642d79c3,Starr Hill,starr-hill,709 West Main Street,Charlottesville,VA,,,,,434-977-0017,http://www.starrhill.com,485,2020-02-22 16:06:50.239541,2024-01-25 01:34:35.538287,1
+60a7e8a7-a232-403e-8f6b-d1f58a632b07,The Trocadero,the-trocadero,"",Philadelphia,PA,,,,,"","",368,2020-02-22 16:06:50.239541,2020-02-22 16:11:27.805761,0
+5e0fd19a-e450-4a60-9de4-c985249e2c9f,"Butterfield Dormitory, University Of Massachusetts",butterfield-dormitory-university-of-massachusetts,"",Amherst,MA,,,,,"","",48,2020-02-22 16:06:50.239541,2022-11-06 14:07:59.293403,2
+6382337e-c656-40d7-8855-761f219a9023,Green Spirit Studios,green-spirit-studios,4747 Pearl St.,Boulder,CO,,,,,"","",513,2020-02-22 16:06:50.239541,2020-02-22 16:11:29.275307,0
+69d4280c-da26-4bcf-a405-d736de175387,Unknown Venue,unknown-venue,"",Van Etten,NY,,,,,"","",468,2020-02-22 16:06:50.239541,2020-02-22 16:11:30.589500,0
+6a886b0a-02b2-4d7c-8e21-8f648a1deb6d,Pacha,pacha,618 W 46th Street,New York,NY,,,,,"","",498,2020-02-22 16:06:50.239541,2020-02-22 16:11:30.631248,0
+67cd6635-ccac-4b3d-857b-3d41556a9214,The Parish,the-parish,225 Decatur Street,New Orleans,LA,,,,,504-529-2624,"",451,2020-02-22 16:06:50.239541,2022-02-19 20:28:21.774246,1
+6336f39e-a562-4d2f-8102-261456026053,Bellstock Festival,bellstock-festival,"",East Jewitt,NY,,,,,"","",28,2020-02-22 16:06:50.239541,2020-02-23 00:37:07.815647,1
+66cd5eb4-8292-4ae7-9ae2-8f30e3202275,Pontiac Grille,pontiac-grille,"",Philadelphia,PA,,,,,"","",258,2020-02-22 16:06:50.239541,2020-02-23 00:37:21.061522,1
+60d5cb55-629f-4bae-a973-d1449bc17ba1,Dobson Ice Arena,dobson-ice-arena,321 E. Lionshead Cir,Vail,CO,,,,,970-479-2271,"",548,2020-02-22 16:06:50.239541,2022-09-13 19:45:36.390380,1
+28108d89-53f7-44ac-a223-297b8f1f2db3,Havana's,havana-s,"",New Hope,PA,,,,,"","",150,2020-02-22 16:06:50.239541,2024-02-29 15:08:55.186116,1
+65fa473a-b208-4704-bd59-77eb51b775b1,Palladium Ballroom,palladium-ballroom,"",Dallas,TX,,,,,"","",597,2020-02-22 16:06:50.239541,2022-09-13 23:08:23.838926,1
+4f5eb7af-7f85-47e8-b613-746648a1a774,Peasant's Cafe,peasant-s-cafe,"",Greenville,NC,,,,,"","",245,2020-02-22 16:06:50.239541,2022-09-13 21:10:44.733060,2
+6069cd9c-6bd3-40b0-b14e-1856c7418cb8,Black Mountain Music Hall,black-mountain-music-hall,"",Black Mountain,NC,,,,,"","",32,2020-02-22 16:06:50.239541,2023-06-21 18:45:05.920322,1
+6fcf795c-d879-4249-ac64-7113e9d96f27,Wisconsin Union Theater,wisconsin-union-theater,"",Madison,WI,,,,,"","",602,2020-02-22 16:06:50.239541,2022-09-13 23:09:21.366135,1
+51d73a95-1aae-4091-b678-74cef9c32c46,Asagiri Arena,asagiri-arena,"",Asagiri,,Japan,,,,"","",21,2020-02-22 16:06:50.239541,2022-09-12 17:49:08.290528,2
+6cc96e3e-19e7-450e-8830-dd031f28e1c1,Mango Grille,mango-grille,"",Madison,WI,,,,,"","",200,2020-02-22 16:06:50.239541,2022-09-13 21:14:45.846698,1
+c598bcab-3b1f-4db0-9676-c267050b1ea3,Brown's Island,brown-s-island,"",Richmond,VA,,,,,"","",45,2020-02-22 16:06:50.239541,2024-03-20 10:11:29.553182,1
+047cb36d-a831-4b8a-adbf-e5c40f271443,District Music Hall,district-music-hall,71 Wall Street,Norwalk,CT,USA,06850,,,"",https://districtmusichall.com/,,2024-07-30 18:48:17.093888,2024-11-29 01:56:52.788954,1
+023caca8-36d3-42ef-adbe-dc5471812061,Jack Straw's,jack-straw-s,"",Charlotte,NC,,,,,"","",176,2020-02-22 16:06:50.239541,2024-10-03 21:28:24.355131,4
+33c0c92d-9762-4deb-b72d-cdd058b3c3b5,Ford Amphitheater at Coney Island Boardwalk,ford-amphitheater-at-coney-island-boardwalk,"",Brooklyn,NY,,,,,"","",681,2020-02-22 16:06:51.681200,2024-08-29 20:02:33.692848,3
+81bb358f-2ed6-4358-80b5-fb740207d89a,Wetlands Preserve,wetlands-preserve,161 Hudson Street,New York,NY,,,,,"",http://www.wetlands-preserve.org/,405,2020-02-22 16:06:50.239541,2024-12-09 05:41:16.048802,24
+a377dd2c-77f8-4cd2-886c-8da033c7fd58,Elements Music & Arts Festival,elements-music-and-arts-festival,1 Hulman Drive,Long Pond,PA,USA,18334,,,"",https://www.elementsfest.us/,,2024-04-26 07:15:26.139220,2024-11-26 01:40:53.485462,1
+5ef05890-4b41-44b6-9428-dfcbe6b82a7a,435 Broadway,435-broadway,"",San Francisco,CA,,,,,"","",5,2020-02-22 16:06:50.239541,2022-09-21 02:01:42.756401,1
+68d61b99-15da-49a5-8e41-2b71345e54e2,Chester's Place,chester-s-place,"",Fayetteville,AR,,,,,"","",67,2020-02-22 16:06:50.239541,2022-09-21 02:02:20.938250,1
+6155028c-0b48-4f55-9129-ba68cbbbd885,Ontourage,ontourage,157 W Ontario St,Chicago,IL,,,,,(312) 573-1470,http://www.ontouragechicago.com,523,2020-02-22 16:06:50.239541,2022-10-05 18:08:53.021086,1
+66259330-a609-476d-ac21-376e208064f6,Sunday River Brewing Company,sunday-river-brewing-company,"",Bethel,ME,,,,,"","",318,2020-02-22 16:06:50.239541,2020-02-23 00:37:26.047272,1
+57681d66-b300-4087-94ea-dd061561556c,Ivory Tusk,ivory-tusk,"",Tuscaloosa,AL,,,,,"","",173,2020-02-22 16:06:50.239541,2024-05-29 22:26:53.896249,1
+643378cc-358f-4082-b83a-5240a4c1fd22,The Haunt,the-haunt,"",Ithaca,NY,,,,,"","",338,2020-02-22 16:06:50.239541,2024-04-27 10:06:39.600444,4
+62a496ff-cf04-4f0b-bc5d-5802a7013c13,The Blue Note,the-blue-note,17 N. 9th St.,Columbia,MO,,,,,573-874-1944,http://www.thebluenote.com/,504,2020-02-22 16:06:50.239541,2023-08-27 11:41:44.365560,2
+5031c346-2b44-4681-adb5-7c58983e15be,The Funnel,the-funnel,"",Baltimore,MD,,,,,"","",334,2020-02-22 16:06:50.239541,2024-02-29 15:08:00.615997,1
+5abac0db-fb79-4bcb-86bd-45c2dbceef10,Summer Sun Music Festival,summer-sun-music-festival-state-college,"",State College,PA,,,,,"","",316,2020-02-22 16:06:50.239541,2023-08-26 17:43:58.714206,1
+696323b2-bfa5-4a96-8861-a005dbaaaa6e,In The Living Room With The Dunhams,in-the-living-room-with-the-dunhams,"",Atlanta,GA,,,,,"","",167,2020-02-22 16:06:50.239541,2023-08-26 17:47:52.564753,2
+6691a0de-90a4-4ec4-824e-70a801612723,The Marquee at the Tralf,the-marquee-at-the-tralf,"",Buffalo,NY,,,,,"","",342,2020-02-22 16:06:50.239541,2024-03-28 00:09:02.763688,1
+6e3e8680-6bdb-4a06-ab4e-5207bc13907c,The Independent,the-independent,628 Divisadero Street,San Francisco,CA,,,,,415-771-1422,http://www.independentsf.com/,511,2020-02-22 16:06:50.239541,2023-08-27 11:47:26.707594,3
+4c331f74-ca41-4b00-ad9b-735927de0c6b,8150,8150,"",Vail,CO,,,,,"","",8,2020-02-22 16:06:50.239541,2024-02-16 12:29:07.492354,1
+64703930-5399-4371-9338-0391ebcf30a0,Gold Rush,gold-rush,"",New York,NY,,,,,"","",130,2020-02-22 16:06:50.239541,2024-02-29 15:10:26.060473,1
+ad0cca14-b5a9-4b2c-bf19-88db39426fc4,The Intersection,the-intersection,"",Grand Rapids,MI,"","",,,"","",,2022-08-27 12:58:53.448976,2024-12-06 19:58:59.940931,2
+67058797-4db6-4087-848a-b9875fa30f1a,Crocodile Cafe,crocodile-cafe,"",Seattle,WA,,,,,"","",86,2020-02-22 16:06:50.239541,2024-11-08 23:14:41.354908,1
+396ffc7a-a6d5-4b6e-8b23-a1a1fa8ac9ee,Tinker Street Cafe,tinker-street-cafe,"",Woodstock,NY,,,,,"","",372,2020-02-22 16:06:50.239541,2024-02-29 15:11:02.731017,1
+7620b274-1eff-4666-9aa9-dfb6f98363de,The Call,the-call,"",Providence,RI,,,,,"","",330,2020-02-22 16:06:50.239541,2020-12-02 18:04:09.348547,1
+7432dd7e-4cd9-4054-ad9c-52ffb29f707e,The Oak,the-oak,"",Murrel's Inlet,SC,,,,,"","",350,2020-02-22 16:06:50.239541,2020-02-23 00:37:05.195261,1
+7d72d056-6eb0-4e62-90cb-fbeff9f4c154,Mountain Top Jamboree,mountain-top-jamboree,"",Unknown,NY,,,,,"","",219,2020-02-22 16:06:50.239541,2020-02-23 00:37:40.996938,1
+73199097-dd6d-48eb-92fa-8a2d9db3426e,Next Decade,next-decade,"",Oakland,PA,,,,,"","",230,2020-02-22 16:06:50.239541,2020-04-29 03:27:15.684170,0
+759a5916-a7e2-4098-ad6f-af42cd1c099c,Washington College,washington-college,"",Chestertown,MD,,,,,"","",398,2020-02-22 16:06:50.239541,2020-02-23 00:37:26.267498,1
+7ff71c92-dd67-4fe5-bff2-3f8258266361,"Alpha Chi Omega, Colgate University",alpha-chi-omega-colgate-university,"",Hamilton,NY,,,,,"","",16,2020-02-22 16:06:50.239541,2020-02-23 00:37:30.706887,1
+7e0451a9-ff9e-477f-b642-d5fd1ab2e286,Beaumont Club,beaumont-club,4050 Pennsylvania Avenue,Kansas City,MO,,,,,816) 561-2560,www.beaumontkc.com,617,2020-02-22 16:06:50.239541,2022-06-03 01:01:34.192723,1
+7ba51842-d217-4d28-843a-5657c3ee5e68,Unknown Venue,unknown-venue-larmie,"",Larmie,WY,,,,,"","",388,2020-02-22 16:06:50.239541,2020-02-23 00:37:33.267629,1
+7dcfeca0-b0d0-484f-9b72-4fbc6d5ed3c7,Sunshine Daydream Festival,sunshine-daydream-festival,"",May's Landing,NJ,,,,,"","",319,2020-02-22 16:06:50.239541,2020-02-23 00:37:40.801073,1
+848e28e7-9b28-4197-9c0c-f608f35289e3,Volume,volume,99 North 13th Street,Brooklyn,NY,,,,,"","",460,2020-02-22 16:06:50.239541,2020-02-22 16:11:32.019649,0
+7221ac0d-a914-422d-95cd-fc3c1f8fb07a,The Brewery,the-brewery,"",Raleigh,NC,,,,,"","",329,2020-02-22 16:06:50.239541,2022-08-31 11:11:08.296065,2
+8e5deeb2-d8a3-4246-9937-d2421837c50e,Logan Square Auditorium,logan-square-auditorium,2539 N. Kedzie Ave,Chicago,IL,,,,,773-252-6179,http://www.logansquareauditorium.com,514,2020-02-22 16:06:50.239541,2020-02-22 16:11:32.627029,0
+8609ffe2-3534-42c5-80f3-766b917af218,Unknown Venue,unknown-venue-philadelphia,"",Philadelphia,PA,,,,,"","",389,2020-02-22 16:06:50.239541,2020-03-26 18:11:22.990589,4
+7ad2640c-a734-4200-97ec-757e31ac2b27,Da Funky Phish,da-funky-phish,"",Bay Shore,NY,,,,,"","",96,2020-02-22 16:06:50.239541,2022-11-06 14:12:36.568531,1
+8292682f-8094-482a-b332-40f8ca94f677,Capitol Center for the Arts,capitol-center-for-the-arts,44 South Main Street ,Concord,NH,,,,,(603) 225-1111,http://www.ccanh.com/,606,2020-02-22 16:06:50.239541,2022-09-13 19:38:18.672777,1
+83ba4d4e-1e18-4060-85a3-b02ba3d0be8e,City Park,city-park,"",New Orleans,LA,,,,,"","",446,2020-02-22 16:06:50.239541,2022-09-01 18:23:56.190488,1
+74558d54-6be2-4f7b-a227-7da9295fc38a,Mick's Lounge,mick-s-lounge,"",San Francisco,CA,,,,,"","",211,2020-02-22 16:06:50.239541,2022-09-21 02:01:46.789008,1
+814090b9-b647-419e-90b6-158a7de70803,Winston's,winston-s,"",San Diego,CA,,,,,"","",411,2020-02-22 16:06:50.239541,2022-09-13 21:11:50.470323,1
+82cdc15c-3083-41c2-bde0-66049c265312,Ziggy's By The Sea,ziggy-s-by-the-sea,"",Atlantic Beach,NC,,,,,"","",417,2020-02-22 16:06:50.239541,2024-06-10 15:14:48.751477,1
+809408ef-c8c2-4f97-9144-8c44720567ac,Chelsea's,chelsea-s,"",Columbus,OH,,,,,"","",66,2020-02-22 16:06:50.239541,2022-11-06 14:12:53.386419,1
+8a3ee14a-a3fb-4551-a021-cfcc32cf596a,Harper's Ferry,harper-s-ferry,"",Cambridge,MA,,,,,"","",146,2020-02-22 16:06:50.239541,2020-02-23 00:37:32.647075,2
+865651f2-e88f-434f-b64b-01a73570609c,Mercury Lounge,mercury-lounge,"",Austin,TX,,,,,"","",206,2020-02-22 16:06:50.239541,2022-09-13 21:11:20.352145,1
+9f2020de-fa40-4083-bbf9-7caf0f0b6820,Tower Records,tower-records,100 South Broad Street,Philadelphia,PA,,,,,(215) 568-8001,www.towerrecords.com,493,2020-02-22 16:06:50.239541,2022-09-01 18:28:09.455170,1
+7d939bae-23b4-414f-aa16-502c79203e44,Bucknell University,bucknell-university,"",Bucknell,PA,,,,,"","",46,2020-02-22 16:06:50.239541,2024-04-10 20:16:29.981978,1
+71a2238d-f977-4606-88ca-8d44bfa230f8,Stoned Monkey,stoned-monkey,"",Huntington,WV,,,,,"","",310,2020-02-22 16:06:50.239541,2023-09-20 17:23:35.591074,1
+8b892a42-70a5-49c6-8c87-a1c106200aa1,Denison University,denison-university,"",Denison,OH,,,,,"","",100,2020-02-22 16:06:50.239541,2023-07-31 19:59:00.537187,1
+4ef61ea5-30ac-4800-b744-08802e3f1db2,"Hub Lawn, Penn State University",hub-lawn-penn-state-university,"",State College,PA,,,,,"","",164,2020-02-22 16:06:50.239541,2024-04-22 21:48:12.201482,2
+5e84fea0-40e4-4805-8f95-4c1b41930f54,New Daisy Theatre,new-daisy-theatre,330 Beale Street ,Memphis,TN,,,,,(901) 525-8981,http://www.newdaisy.com,635,2020-02-22 16:06:50.239541,2024-10-22 14:22:23.712888,1
+6416ce72-4763-4a02-9c63-c850c4e706f6,The Hi-Tone Cafe,the-hi-tone-cafe,1913 Poplar Avenue,Memphis,TN,,,,,901-278-8663,"",449,2020-02-22 16:06:50.239541,2024-07-19 11:18:14.816968,1
+906f90b9-16c2-4366-8374-8bfd4235a243,Rox,rox,208 Market St.,Wilmington,NC,,,,,910-343-0402,"",486,2020-02-22 16:06:50.239541,2024-11-10 02:22:58.948169,1
+79a020bc-a4cb-4a8e-a804-62ced9a3bc02,The Clubhouse,the-clubhouse,"",East Hampton,NY,"","",,,"","",,2023-08-11 01:07:08.830790,2024-07-19 11:46:10.457838,1
+7dc820cf-ffdd-48ed-b938-b1b0d9619326,Olympic Center,olympic-center,2634 Main St,Lake Placid,NY,,,,,(518) 523-1655,www.orda.org,517,2020-02-22 16:06:50.239541,2024-11-22 01:25:33.670712,1
+693b7048-0e7a-4279-b081-a2f76a54e920,Alley Katz,alley-katz,"",Richmond,VA,,,,,"","",14,2020-02-22 16:06:50.239541,2024-07-25 11:21:05.628549,2
+5e4fd5a5-5a89-4fcd-974f-d1b58f599366,Union Bar,union-bar,"",Iowa City,IA,,,,,"","",383,2020-02-22 16:06:50.239541,2024-11-25 12:16:25.368318,2
+713d76d9-9a8f-4536-b1ce-bec5c158505a,Corner Pocket Saloon,corner-pocket-saloon,"",Morgantown,WV,,,,,"","",84,2020-02-22 16:06:50.239541,2024-04-24 08:33:11.091114,1
+8c4b94a3-368f-450a-8469-64815194440b,Center For The Arts,center-for-the-arts,"",Natick,MA,,,,,"","",63,2020-02-22 16:06:50.239541,2023-08-26 17:45:26.409259,1
+749c66c2-4fbd-443f-9b2b-d25685ff0731,Trancegression,trancegression,"",Copper Mountain,CO,,,,,"",http://trancegressionfest.com/,521,2020-02-22 16:06:50.239541,2023-09-27 17:31:40.169710,2
+7a6fdba6-bb89-4e71-9a32-0458cfd21632,Terminal 5,terminal-5,610 W 56th St.,New York,NY,,,,,212–582–6600,http://www.terminal5nyc.com/,628,2020-02-22 16:06:50.239541,2023-08-27 12:00:02.730895,3
+8bef54d2-5047-4a02-a5c1-5f85d1c97f36,Margaret T. Hance Park,margaret-t-hance-park,"",Phoenix,AZ,,,,,"","",666,2020-02-22 16:06:51.681200,2023-09-13 10:58:50.179459,1
+8ed50fe7-b660-4363-aabc-912fa94c4f94,7 Willow Street,7-willow-street,"",Port Chester,NY,,,,,"","",6,2020-02-22 16:06:50.239541,2024-02-29 15:06:31.151973,1
+81282c30-ea84-4c03-bf02-15cb977e91e4,Sebastian's,sebastian-s,"",Murfreesboro,TN,,,,,"","",286,2020-02-22 16:06:50.239541,2024-02-07 17:25:50.094441,1
+7bf7645d-f6df-4970-9881-6cf29b8b8b28,Masquerade - Music Park,masquerade-music-park,695 North Ave ,Atlanta,GA,,,,,404-577-8178,http://www.masq.com/,527,2020-02-22 16:06:50.239541,2024-02-18 12:33:01.477851,1
+d0b9a010-cfb1-49bc-a2d6-ca9eda77154c,"E Stage, Further Festival, Sony Entertainment Center",e-stage-further-festival-sony-entertainment-center,"",Camden,NJ,,,,,"","",106,2020-02-22 16:06:50.239541,2024-02-29 15:08:10.211190,1
+6f9f30d8-53f2-455a-8b41-85d1cd4dfbd4,Sam Adams' Brewhouse,sam-adams-brewhouse,"",Philadelphia,PA,,,,,"","",279,2020-02-22 16:06:50.239541,2024-02-29 15:18:04.875613,4
+80495eb0-c1de-4645-a0d4-be1f58305f08,Music Midtown,music-midtown,Piedmont And Ralph McGill,Atlanta,GA,,,,,"","",223,2020-02-22 16:06:50.239541,2024-03-28 00:03:23.758934,2
+9fd9778d-1f96-4331-9e77-ec151e298e4c,House of Blues,house-of-blues-new-orleans,"",New Orleans,LA,,,,,"","",162,2020-02-22 16:06:50.239541,2024-03-28 00:05:49.410233,1
+773b83fc-5947-444b-9069-86139764ea37,La Zona Rosa,la-zona-rosa,"",Austin,TX,,,,,"","",186,2020-02-22 16:06:50.239541,2024-05-03 18:06:26.657648,2
+7d25da40-b829-4028-8ead-eb6826e719a2,Savannah's,savannah-s,"",Albany,NY,,,,,"","",283,2020-02-22 16:06:50.239541,2024-04-30 23:45:24.477092,1
+9abfffbc-d23d-49db-99f7-9789c0e5aefb,Comfort Zone,comfort-zone,"",Toronto,ON,Canada,,,,"","",80,2020-02-22 16:06:50.239541,2020-02-23 00:37:28.314268,1
+a539c1a3-c74c-4c8e-ade4-362651ba1702,Grape Street Pub,grape-street-pub,"",Philadelphia,PA,,,,,"","",135,2020-02-22 16:06:50.239541,2020-02-23 00:37:06.718996,1
+57bcfaa2-77b8-4df8-89d1-d49da481ae62,Westfield State College,westfield-state-college,"",Westfield,MA,,,,,"","",404,2020-02-22 16:06:50.239541,2023-07-31 19:53:33.915688,1
+8e29ea01-7273-4911-9e57-9d43b93cbbfd,Port City Music Hall,port-city-music-hall,"",Portland,ME,,,,,"","",582,2020-02-22 16:06:50.239541,2022-07-14 11:40:36.022826,1
+a6db8480-f71c-4025-be8d-b4fd0a419100,Debaser,debaser,"",Malmö,Sweden,,,,,"","",554,2020-02-22 16:06:50.239541,2022-09-13 19:46:50.802248,1
+8f88117e-dd26-4009-8999-9c976d54218a,"Harvest Ball, Wilmer's Park",harvest-ball-wilmer-s-park,"",Brandywine,MD,,,,,"","",149,2020-02-22 16:06:50.239541,2022-09-21 02:03:30.398160,1
+9ecd3b58-013b-4b0f-8034-224a9cd428a6,Fitzgerald's,fitzgerald-s,"",Houston,TX,,,,,"","",117,2020-02-22 16:06:50.239541,2024-03-28 00:10:09.550405,1
+88649a0a-afe0-4ed9-a901-9e1f37e3215a,Brooklyn Bowl,brooklyn-bowl,"",Brooklyn,NY,,,,,"","",601,2020-02-22 16:06:50.239541,2022-11-29 21:25:20.022642,2
+99ef1414-b8ef-4a88-97ef-b105a7d2f8c4,"Independence Day Festival, Manicore Field",independence-day-festival-manicore-field,"",Doylestown,PA,,,,,"","",168,2020-02-22 16:06:50.239541,2020-02-23 00:37:30.189613,1
+9b109c63-4315-473b-b1f8-81753cf017c5,The Middle East,the-middle-east,"",Boston,MA,,,,,"","",345,2020-02-22 16:06:50.239541,2020-02-23 00:37:25.171136,1
+a4bf888f-15c1-4cfc-8cae-2b51777b6079,Cumberland,cumberland,"",Charleston,SC,,,,,"","",93,2020-02-22 16:06:50.239541,2020-02-23 00:37:41.089033,1
+c12eb2f6-c17b-44a4-baf9-dcf76d181cbc,Muddy River Steakhouse,muddy-river-steakhouse,"",Portsmouth,NH,,,,,"","",220,2020-02-22 16:06:50.239541,2020-02-23 00:37:26.591410,1
+87473764-e465-46a5-8bd4-bd165ddaa59a,Bogie's,bogie-s,"",Albany,NY,,,,,"","",41,2020-02-22 16:06:50.239541,2024-02-29 15:12:17.919461,2
+922a1849-f219-485c-a18f-8eabee869bcb,Alligator Lounge,alligator-lounge,"",Breckenridge,CO,,,,,"","",15,2020-02-22 16:06:50.239541,2023-06-21 19:06:15.360255,2
+1c2998ab-e714-469a-9f4a-1ba6d10bb8b4,Bank of America Pavilion,bank-of-america-pavilion,290 Northern Avenue,Boston,MA,,,,,617-728-1600,http://www.livenation.com/Bank-of-America-Pavilion-tickets-Boston/venue/8310,627,2020-02-22 16:06:50.239541,2024-11-21 16:31:21.516367,1
+97f500e4-b04b-4f4d-ac14-7a635add2212,Grenada Theatre,grenada-theatre,1020 Massachusetts St.,Lawrence,KS,,,,,785-842-1390,"",505,2020-02-22 16:06:50.239541,2023-08-27 11:41:53.291589,1
+861ec3a8-7883-4474-84ad-60d3bc5df979,"Spring Jam, Wilmer's Park",spring-jam-wilmer-s-park,"",Brandywine,MD,,,,,"","",301,2020-02-22 16:06:50.239541,2023-08-26 17:41:53.572141,1
+9dbb083c-539a-4166-a6b6-d3a3af647fcc,The Jefferson Theater,the-jefferson-theater,110 E Main Street,Charlottesville,VA,,,,,434–245–4980,http://jeffersontheater.com/,612,2020-02-22 16:06:50.239541,2024-02-04 12:54:05.887075,1
+8ca70cf6-52a4-4407-9090-f33d945f5ae9,"Delta Upsilon, Bucknell University",delta-upsilon-bucknell-university,"",Lewisburg,PA,,,,,"","",99,2020-02-22 16:06:50.239541,2024-04-22 21:50:59.617547,1
+9500bdcf-a27d-4723-aa59-2a71f7fb94ec,Rio Theater,rio-theater,"",Santa Cruz,CA,,,,,"","",271,2020-02-22 16:06:50.239541,2024-11-25 12:18:23.150628,1
+a8726dcf-b162-4867-9f86-8eaa6e5436f7,Asheville Music Zone,asheville-music-zone,"",Asheville,NC,,,,,"","",23,2020-02-22 16:06:50.239541,2024-05-29 21:53:28.640266,1
+90595224-0946-44c7-a487-4716d6445273,P.B. Finnian's,p-b-finnian-s,"",Plattsburgh,NY,,,,,"","",238,2020-02-22 16:06:50.239541,2024-02-29 15:11:07.899539,5
+6019060e-6ac1-4107-9241-3dc178ffdb98,Nate's Farm,nate-s-farm,"",Canton,MA,,,,,"","",224,2020-02-22 16:06:50.239541,2024-02-29 15:15:15.899080,1
+984031ad-5a5b-4fb7-ae24-d1b7676f3f82,Docksider's,docksider-s,"",Erie,PA,,,,,"","",102,2020-02-22 16:06:50.239541,2024-04-26 13:23:48.481605,1
+9585318c-991b-4ac4-b9f4-688a068c1fc5,"Phi Sigma Delta Sigma, Penn State",phi-sigma-delta-sigma-penn-state,"",State College,PA,,,,,"","",250,2020-02-22 16:06:50.239541,2024-02-29 15:17:33.892773,2
+a93782a4-06a9-4b29-80ae-d4c703268cdb,Peddie School,peddie-school,"",Hightstown,NJ,,,,,"","",246,2020-02-22 16:06:50.239541,2023-08-26 17:48:36.295935,1
+316720c7-c8db-4f12-958c-31190ca80769,Paramount Theatre,paramount-theatre,30 Center St,Rutland,VT,USA,05701-4015,,,802-775-0903,https://www.paramountvt.org/,,2024-07-30 18:50:13.673138,2024-12-04 00:42:47.991980,1
+a447d4d7-9b84-475b-b169-2d22155510d9,Seaside Park ,seaside-park,"",Bridgeport ,CT,,,,,"","",667,2020-02-22 16:06:51.681200,2023-09-13 10:59:27.775957,1
+f40c7c85-e788-4692-8d4f-5d317996f953,Grand Opera House,grand-opera-house,"",Wilmington,DE,"","",,,"","",,2022-09-09 00:25:57.968012,2023-08-26 17:32:19.297854,1
+8fc506fe-2d39-4329-a8c5-c66b8ade4cf7,Milestones,milestones,"",Rochester,NY,,,,,"","",214,2020-02-22 16:06:50.239541,2023-08-26 17:47:20.368466,1
+0287594a-b0f4-402c-b3e3-5c91b19095d9,The Pavilion at Montage Mountain,the-pavilion-at-montage-mountain,"",Scranton,PA,,,,,"","",693,2020-02-22 16:06:51.681200,2024-12-05 22:53:52.813863,4
+3aa1271f-4cc2-462f-92d4-1b7d1ac0ae22,The Eastern,the-eastern,"",Atlanta,GA,"","",,,"","",,2022-11-19 02:54:36.873455,2024-11-10 02:21:54.836315,2
+7668bf03-b0f4-46c8-a3c7-80b25817e668,The New Daisy Theater,the-new-daisy-theater,330 Beale Street,Memphis,TN,,,,,901-525-8981,http://www.newdaisy.com/,508,2020-02-22 16:06:50.239541,2024-07-19 11:18:39.369096,1
+77443886-181b-4835-870c-7a83400129cb,Graffiti Showcase,graffiti-showcase,"",Pittsburgh,PA,,,,,"","",133,2020-02-22 16:06:50.239541,2024-07-23 18:14:17.169676,2
+859ddff8-3307-4499-8a11-9623284cb880,Trade Music Festival Farm,trade-music-festival-farm,"",Trade,TN,,,,,"","",441,2020-02-22 16:06:50.239541,2024-08-11 15:51:38.421123,2
+71706d2c-da31-439d-ae39-c597f52d6ae8,The Klein Memorial Auditorium,the-klein-memorial-auditorium,"",Bridgeport,CT,,,,,"","",574,2020-02-22 16:06:50.239541,2024-08-19 01:35:35.919277,2
+9392fa79-bf4c-40fc-9b51-c164e247d931,The Spot,the-spot,"",Boone,NC,,,,,"","",427,2020-02-22 16:06:50.239541,2024-08-26 17:39:42.433433,1
+8b93d36f-8282-44eb-8621-b1f5bcc64a11,Saw Mill Ski Area,saw-mill-ski-area,"",Morris,PA,,,,,"","",284,2020-02-22 16:06:50.239541,2024-09-06 20:07:11.765654,2
+8d556323-8a4e-4840-9475-f5d3cf1f4c14,Westville Music Bowl,westville-music-bowl,45 Yale Ave,New Haven,CT,United States,06515,,,"","",,2021-06-04 22:49:02.837263,2024-11-10 08:51:01.043714,2
+a40e541a-01ec-49bd-89de-a705f57fb028,Waterloo Village,waterloo-village,"",Stanhope,NJ,,,,,"",http://www.waterloovillage.org/,439,2020-02-22 16:06:50.239541,2023-08-27 11:30:09.203620,1
+c137fd5b-3b41-42be-b51e-a1d2a43ded7a,"Patrick Gymnasium, University of Vermont",patrick-gymnasium-university-of-vermont,"",Burlington,VT,,,,,"","",243,2020-02-22 16:06:50.239541,2024-02-10 01:22:26.638501,2
+903b8007-96f2-48c5-80da-346281a185df,Eureka Theater,eureka-theater,"",Eureka,CA,,,,,"","",575,2020-02-22 16:06:50.239541,2023-08-27 11:50:21.553601,1
+a4185ad3-4976-4a78-acd2-fe1f6de323fa,Bodega,bodega,"",Auburn,AL,,,,,"","",39,2020-02-22 16:06:50.239541,2024-05-29 21:41:06.328918,1
+8726e87a-4a2f-4658-b582-012340c06053,Lafayette Square,lafayette-square,"",Buffalo,NY ,,,,,"","",552,2020-02-22 16:06:50.239541,2024-02-18 13:10:07.323145,2
+17676aff-3485-4a75-9810-487620ec4a2b,Rome Capitol Theatre,rome-capitol-theatre,220 West Dominick Street,Rome,NY,USA,13440,,,315-337-6277 ,https://www.romecapitol.com/,,2024-07-30 18:53:05.026284,2024-12-04 00:44:25.763777,1
+aed258ac-0ba0-4828-93e3-bf5ed0ba3c76,Orpheum Theater,orpheum-theater,"",Boston,MA,,,,,"","",237,2020-02-22 16:06:50.239541,2024-11-25 15:46:22.280627,4
+c0f8a14f-2227-4c8c-94fe-658c51638c45,Palace Theater,palace-theater-gainesville,"",Gainesville,FL,,,,,"","",239,2020-02-22 16:06:50.239541,2024-05-29 22:25:13.174857,1
+93ec9bc3-964c-41c5-a8e4-b944398581ef,"Phi Kappa Alpha, Penn State",phi-kappa-alpha-penn-state,"",State College,PA,,,,,"","",249,2020-02-22 16:06:50.239541,2024-04-10 20:15:19.919705,1
+9ea3d36a-811e-4186-bce6-f408dd3653cf,Rhythm And Brews,rhythm-and-brews,"",Chattanooga,TN,,,,,"","",269,2020-02-22 16:06:50.239541,2024-05-29 22:17:11.617013,1
+8fb68427-a6bc-4d62-b072-a266744b4202,Khyber Pass,khyber-pass,"",Philadelphia,PA,,,,,"","",184,2020-02-22 16:06:50.239541,2024-04-17 16:56:28.579036,6
+aff16de4-6055-42ac-806e-9ab0447cd03a,Cabooze On The West Bank,cabooze-on-the-west-bank,"",Minneapolis,MN,,,,,"","",50,2020-02-22 16:06:50.239541,2022-09-21 02:01:36.254926,2
+95b0947e-2d65-435c-9e85-78e700825e9d,"Student Center, Washington College",student-center-washington-college,"",Chesterton,MD,,,,,"","",311,2020-02-22 16:06:50.239541,2022-11-06 14:07:39.124018,2
+9a332f8e-3ad3-43a5-85e2-c3428da33f25,Philadelphia Art Museum,philadelphia-art-museum,"",Philadelphia,PA,,,,,"","",252,2020-02-22 16:06:50.239541,2022-11-06 14:08:47.429961,1
+a109effb-329b-41d2-afd0-6b5061afcb74,Mount Tabor Pub,mount-tabor-pub,"",Portland,OR,,,,,"","",218,2020-02-22 16:06:50.239541,2022-09-13 21:13:48.058517,1
+a166661e-6c2f-407b-8d57-a49e3cb7e6e2,Gramercy Theatre,gramercy-theatre,127 East 23rd Street,New York,NY,,,,,212-777-6800,http://www.ticketmaster.com/venue/107/?search_redirect=gramercy&tm_link=tm_header_search,529,2020-02-22 16:06:50.239541,2022-10-05 18:12:29.488930,1
+aad03138-eebb-43d1-acc0-3b91a1e1e821,Zephyr Club,zephyr-club,"",Salt Lake City,UT,,,,,"","",415,2020-02-22 16:06:50.239541,2024-03-28 00:10:18.942268,1
+bbb14131-b427-42af-9f97-e80ee3bc69b6,Innsbrook Pavillion,innsbrook-pavillion,"",Glen Allen,VA,,,,,"","",553,2020-02-22 16:06:50.239541,2022-09-13 19:48:47.387597,1
+9adde2d6-b0f4-4137-ab92-934f28070019,The Mercury,the-mercury,"",Austin,TX,,,,,"","",344,2020-02-22 16:06:50.239541,2022-09-21 02:02:13.775285,1
+a3d89c79-8a73-438d-8037-eefe36283557,The Egg,the-egg,Eagle St. and Lancaster St. ,Albany,New York,,,,,(518) 473-1061,http://www.theegg.org/,608,2020-02-22 16:06:50.239541,2023-02-28 20:57:52.136496,1
+ae07af44-eb2e-421b-aff8-f83ee995bda7,Hempsplash,hempsplash,"",Modena,NY,,,,,"","",153,2020-02-22 16:06:50.239541,2020-02-23 00:37:28.497652,1
+ba36926e-8175-4e61-98fd-bdf48085465a,Jimmy Jam,jimmy-jam,"",Adamstown,PA,,,,,"","",178,2020-02-22 16:06:50.239541,2020-02-23 00:37:27.843111,1
+c90ab9f8-e953-47c5-b180-607c663b1fdf,House of Blues,house-of-blues-los-angeles,8430 W Sunset Blvd,Los Angeles,CA,,,,,323-848-5100,http://www.hob.com/,531,2020-02-22 16:06:50.239541,2020-02-22 16:11:35.615951,0
+d76f7b9b-dfb0-47e2-a1c4-c5047ae30ee9,The Riverboat Cajun Queen,the-riverboat-cajun-queen,Poydras Street Wharf,New Orleans,LA,,,,,200-965-4827,"",433,2020-02-22 16:06:50.239541,2023-01-23 01:40:00.780181,1
+cd92fc4a-0d1e-4166-aa40-2463ea84cf0d,"Spring Fling, Frat Party, University Of Pennsylvania",spring-fling-frat-party-university-of-pennsylvania,"",Philadelphia,PA,,,,,"","",299,2020-02-22 16:06:50.239541,2020-02-23 00:37:40.416380,1
+cd21afa5-4750-4dd4-bce9-0e8c8cfa0142,Rhinecliff Hotel,rhinecliff-hotel,"",Rhinecliff,NY,,,,,"","",268,2020-02-22 16:06:50.239541,2020-02-23 00:37:27.692512,1
+da2db102-3b13-4baa-a101-32a95941ed7b,"Alpha Delta Phi, Trinity College",alpha-delta-phi-trinity-college,"",Hartford,CT,,,,,"","",17,2020-02-22 16:06:50.239541,2020-02-23 00:37:08.725277,1
+d39d057d-4c8f-4a24-a820-d8f4967b1c7f,New Music Cafe,new-music-cafe,"",New York,NY,,,,,"","",227,2020-02-22 16:06:50.239541,2020-02-23 00:37:15.141991,1
+9b417136-8afd-4ff4-91b5-4bad2b604428,The Odeon,the-odeon,"",Cleveland,OH,,,,,"","",351,2020-02-22 16:06:50.239541,2024-05-29 21:52:54.208289,2
+d11505d7-64bc-48c1-8cd8-f038390057f4,Union College,union-college,"",Schenectady,NY,,,,,"","",384,2020-02-22 16:06:50.239541,2024-04-24 08:32:29.718703,1
+9b30cccc-3e09-4663-93a0-b3f76c350314,Sandwich High School Auditorium,sandwich-high-school-auditorium,"",East Sandwich,MA,,,,,"","",280,2020-02-22 16:06:50.239541,2023-08-26 17:51:41.278747,1
+a6fcf235-97b7-47b7-a7b5-770e4904c595,The Backyard,the-backyard,"",Austin,TX,,,,,"","",325,2020-02-22 16:06:50.239541,2024-03-28 00:03:43.498553,1
+b62ae962-8516-4f35-b15b-49bbe0b76d2c,Toad's Place,toad-s-place,"",New Haven,CT,,,,,"","",374,2020-02-22 16:06:50.239541,2024-05-29 21:58:14.330152,2
+c3c4b2f0-0dd1-4803-8ac2-de5bd5df4042,HMV Records,hmv-records,"",Philadelphia,PA,,,,,"","",142,2020-02-22 16:06:50.239541,2024-02-29 14:55:16.664898,1
+a82eb4c6-e6c4-4596-b5c9-49c29f4e8ee9,"GrooveFest, Merriweather Post Pavilion",groovefest-merriweather-post-pavilion,"",Columbia,MD,,,,,"","",140,2020-02-22 16:06:50.239541,2023-08-26 17:43:11.051174,1
+b21b7f6c-f550-4add-b02d-0fab75ce44b1,SI Hall,si-hall,"",Syracuse ,NY,,,,,"","",701,2020-02-22 16:06:51.681200,2024-12-05 22:51:49.555525,2
+b089f152-986c-4ebd-bb0d-3207437eb51c,"Melstock, Melham's Farm",melstock-melham-s-farm,"",Mechanicsburg,PA,,,,,"","",204,2020-02-22 16:06:50.239541,2023-08-26 17:49:23.888025,2
+c3979710-80a2-432c-897c-f77a095a1f42,Harrington's,harrington-s,"",Chico,CA,,,,,"","",147,2020-02-22 16:06:50.239541,2024-02-26 18:14:34.986605,1
+a7fabec1-5455-4e7e-a02f-e0352de24ffa,Tipitina's,tipitina-s,"",New Orleans,LA,,,,,"","",373,2020-02-22 16:06:50.239541,2024-05-29 22:20:35.744753,2
+be07079c-4359-416f-937c-6d423be7aa8c,100.1 WDST Radio Woodstock Studio,100-1-wdst-radio-woodstock-studio,"",Woodstock,NY,,,,,"","",501,2020-02-22 16:06:50.239541,2023-08-27 11:40:20.098349,1
+b5f18ada-2a4a-4f67-b6cf-07bc2e83c5af,Club Laga,club-laga,"",Pittsburgh,PA,,,,,"","",73,2020-02-22 16:06:50.239541,2024-03-28 00:04:25.184907,1
+cd7f1be8-77de-4907-aee7-10672f782231,Court Tavern,court-tavern,"",New Brunswick,NJ,,,,,"","",85,2020-02-22 16:06:50.239541,2024-02-29 15:10:07.946566,1
+c4711b86-3dd2-4a75-8073-b04e4ed7beae,The Nation,the-nation,1015 Half Street SE,Washington,DC,,,,,202-554-1500,"",348,2020-02-22 16:06:50.239541,2024-03-28 00:06:23.463463,3
+b05e466d-faa9-4738-a0bf-153efae64e22,Michigan Theater,michigan-theater,"",Ann Arbor,MI,,,,,"","",210,2020-02-22 16:06:50.239541,2024-05-29 21:46:21.362177,1
+d1e7d474-a705-4df2-bc45-6af3458ea0fd,Five Points South Music Hall,five-points-south-music-hall,"",Birmingham,AL,,,,,"","",118,2020-02-22 16:06:50.239541,2024-12-05 22:59:26.833501,2
+f1ed9daf-cea6-4f32-a6d7-999ee14885af,Meatcamp,meatcamp,"",Boone,NC,,,,,"","",203,2020-02-22 16:06:50.239541,2024-07-21 02:09:10.582774,1
+aefa140e-c893-43c5-b487-558915159646,Centennial Olympic Park,centennial-olympic-park,"",Atlanta,GA,,,,,"","",679,2020-02-22 16:06:51.681200,2024-08-29 20:01:59.036888,2
+848ca312-6246-45eb-bf9c-7b6ad360b490,Metropol,metropol,1600 Smallman Street,Pittsburgh,PA,,,,,412-261-4512,http://www.emstage.com/,209,2020-02-22 16:06:50.239541,2024-09-15 16:23:33.386515,2
+7d6bcf78-f800-4c6e-80b0-4adf0974ab76,Stony Creek Beer,stony-creek-beer,"",Branford,CT,"","",,,"","",,2022-10-04 02:19:36.753982,2024-10-18 23:00:45.884257,1
+42021528-811e-4168-8125-91ed90c5e5ba,The National,the-national,"",Richmond,VA,,,,,"","",579,2020-02-22 16:06:50.239541,2024-11-09 06:27:55.590591,11
+a13df861-0300-479f-8077-f5ce6fece1b8,Small Planet,small-planet,"",East Lansing,MI,,,,,"","",296,2020-02-22 16:06:50.239541,2023-09-02 17:00:31.142415,1
+b1292aa0-b159-4ef9-8449-9db0c84a63b0,Rialto Theater,rialto-theater,"",Tucson,AZ,,,,,"","",270,2020-02-22 16:06:50.239541,2024-02-18 13:01:00.126039,2
+bb1ea85c-f87c-4a31-95b7-d33fcb04abbc,Cafe 210 West,cafe-210-west,"",State College,PA,,,,,"","",52,2020-02-22 16:06:50.239541,2024-04-17 16:55:04.749702,10
+ca27696f-76e4-4c95-9b44-f8aa0b490fdc,Canal Club,canal-club,"",Richmond,VA,,,,,"","",59,2020-02-22 16:06:50.239541,2024-05-29 22:19:13.239123,1
+9b2c269f-7200-477d-8673-3a2f14417ca6,Verizon Wireless Amphitheatre,verizon-wireless-amphitheatre,707 Pavilion Blvd,Charlotte,NC,,,,,(877)870-3674,http://www.iverizonamphitheatrenctickets.com/?ppcsrc=S561,644,2020-02-22 16:06:50.239541,2024-04-29 21:00:58.813836,1
+cb631493-c4f0-406e-bb6d-8cc1ad2eb8a3,"Pi Kappa Alpha, University Of Pennsylvania",pi-kappa-alpha-university-of-pennsylvania,"",Philadelphia,PA,,,,,"","",255,2020-02-22 16:06:50.239541,2020-02-23 00:37:18.956996,1
+ca8f21d0-59b8-467f-9535-0d03a8e78b43,15 North,15-north,"",Westchester,PA,,,,,"","",2,2020-02-22 16:06:50.239541,2020-02-23 00:37:26.393060,1
+b63d8e91-34cd-41ae-b289-a54ea7b6ec6d,King Tut's Wah Wah Hut,king-tut-s-wah-wah-hut,272a St. Vincent Street,Glasgow,Scotland,,,,,+44 [0]141 221 ,http://www.kingtuts.co.uk/,542,2020-02-22 16:06:50.239541,2022-09-13 19:46:14.751893,1
+d06d9b3a-7e36-46f1-b123-29f7fe695ee8,Deer Park Tavern,deer-park-tavern,"",Newark,DE,,,,,"","",97,2020-02-22 16:06:50.239541,2023-11-19 19:38:26.542220,6
+c8fc37de-9092-4b15-8849-9ef57acca910,Apache Pass,apache-pass,9112 N. FM908,Rockdale,TX,,,,,512-429-0314,http://www.nocturnalfestival.com/,624,2020-02-22 16:06:50.239541,2022-09-13 19:34:25.009180,1
+d656ff40-ff8a-4e8d-854b-cfb5a4e0d71b,McAlister Auditorium,mcalister-auditorium,6823 Saint Charles Ave,New Orleans,LA,,,,,504-865-5196,http://mcalister.tulane.edu,558,2020-02-22 16:06:50.239541,2022-09-13 19:48:07.094429,1
+d1f2104e-9fac-47d3-9f4e-2e2ca358fd8a,Saddle Creek Bar,saddle-creek-bar,"",Omaha,NE,,,,,"","",277,2020-02-22 16:06:50.239541,2022-09-13 21:14:28.117245,1
+b76f5f3d-fab8-472c-90c9-3c332ea2542e,Blind Tiger,blind-tiger,"",Greensboro,NC,,,,,"","",35,2020-02-22 16:06:50.239541,2022-11-06 14:11:48.053483,1
+b1893f9b-c1db-46fe-82dd-7d0a47a6df49,Home Bar,home-bar,"",Dallas,TX,,,,,"","",156,2020-02-22 16:06:50.239541,2024-02-29 14:57:55.821180,2
+e236a106-4439-4706-82f6-05041426cca7,House of Blues,house-of-blues-las-vegas-nv,3950 Las Vegas Blvd.,Las Vegas,NV,,,,,(702) 632â€“760,http://www.houseofblues.com/venues/clubvenues/lasvegas/,658,2020-02-22 16:06:51.681200,2020-02-22 16:11:37.392387,0
+e4ac0628-e6cc-4f63-8c18-05db6455401e,Plantation Club,plantation-club,"",Worcester,MA,,,,,"","",256,2020-02-22 16:06:50.239541,2020-02-23 00:37:04.957025,1
+eb42dead-1707-4fc7-b454-6cd6c13639d9,Summerwinds,summerwinds,"",Copiague,NY,,,,,"","",317,2020-02-22 16:06:50.239541,2020-02-23 00:37:41.113036,1
+c8b5851a-763e-41be-99a3-bbcc0d9a9886,Wilbert's,wilbert-s,"",Cleveland,OH,,,,,"","",408,2020-02-22 16:06:50.239541,2023-06-21 19:05:52.560832,1
+e1095672-b1c8-4b3f-9f4c-5e3cfc36a982,Fastlane's,fastlane-s,"",Asbury Park,NJ,,,,,"","",113,2020-02-22 16:06:50.239541,2020-02-23 00:37:29.999243,1
+ea81e117-94ec-47b7-b150-7463ea71e8c4,Taft School,taft-school,"",Watertown,CT,,,,,"","",321,2020-02-22 16:06:50.239541,2022-11-06 14:07:52.122097,1
+de33ee26-4527-44c8-9d0c-73d47dede878,The Monopole,the-monopole,"",Plattsburgh,NY,,,,,"","",346,2020-02-22 16:06:50.239541,2022-09-21 02:02:50.433881,2
+caca61e4-6233-4e96-bc05-65afc5f82d1a,Stella Blue,stella-blue,31 Patton Avenue,Asheville,NC,,,,,828-236-2424,"",448,2020-02-22 16:06:50.239541,2023-06-16 11:53:21.343319,1
+dd718937-5746-4cdc-b36c-037f8e7ce585,"Penn Rocks, Univerisity Of Pennsylvania",penn-rocks-univerisity-of-pennsylvania,"",Philadelphia,PA,,,,,"","",248,2020-02-22 16:06:50.239541,2024-02-29 15:18:25.778056,1
+d4acd32d-7969-4952-b168-4a4d1e92b0d5,Newby's,newby-s,"",Memphis,TN,,,,,"","",228,2020-02-22 16:06:50.239541,2023-07-29 19:40:28.609180,2
+e26e417f-25fb-461c-847e-4855241519dd,"Warren Ballroom, SUNY Plattsburgh",warren-ballroom-suny-plattsburgh,"",Plattsburgh,NY,,,,,"","",397,2020-02-22 16:06:50.239541,2023-09-09 19:23:41.221038,1
+b6f91bc4-e090-4a6b-a9b8-38ea507bd11c,Congress Theater,congress-theater,"",Chicago,IL,,,,,"","",591,2020-02-22 16:06:50.239541,2024-02-15 17:20:00.299245,2
+b981419a-9386-49c5-b8de-8fac9ff8609e,Verizon Wireless Amphitheatre At Encore Park,verizon-wireless-amphitheatre-at-encore-park,2200 Encore Parkway,Alpharetta,GA,,,,,(404) 733-5010,http://www.vzwamp.com/,622,2020-02-22 16:06:50.239541,2024-11-10 02:31:57.327457,1
+d4c64f48-7c61-4ecd-9064-ca80c76cbbe2,Toad's Place Richmond,toad-s-place-richmond,140 Virginia Street,Richmond,VA,,,,,(804) 648-8623,http://www.toadsplacerva.com/,539,2020-02-22 16:06:50.239541,2023-08-03 03:17:48.615330,1
+96345d22-c363-4121-a09b-326a4937a0b3,Trax,trax,"",Charlottesville,VA,,,,,"","",377,2020-02-22 16:06:50.239541,2024-09-16 03:01:06.834248,1
+ca741d32-369d-4d63-8a2a-a30ffba36d63,"Gathering Of The Vibes, Seaside Park",gathering-of-the-vibes-seaside-park,"",Bridgeport,CT,,,,,"","",128,2020-02-22 16:06:50.239541,2023-08-26 17:49:18.756395,1
+28b38b7c-d0a0-44d3-8930-bf8652044a2a,Highline Ballroom,highline-ballroom,431 W. 16th St.,New York,NY,,,,,"",http://www.highlineballroom.com/,520,2020-02-22 16:06:50.239541,2024-05-24 11:14:44.155374,4
+c49675cc-95c9-4411-9b04-311a108d686b,"Second Stage, Alpine Valley Music Theater",second-stage-alpine-valley-music-theater,"",East Troy,WI,,,,,"","",287,2020-02-22 16:06:50.239541,2024-03-28 00:03:53.422955,1
+d908ea87-e39d-4ee0-b986-0442c2d37ccb,Bash on Ash,bash-on-ash,"",Tempe,AZ,,,,,"","",27,2020-02-22 16:06:50.239541,2024-03-28 00:05:21.341258,1
+cf59f9c8-2832-49a4-b8ba-15259deae765,Spirit,spirit,"",New York,NY,,,,,"","",474,2020-02-22 16:06:50.239541,2023-08-27 11:36:15.611619,1
+c63d548e-59a3-4a47-89c8-cbff7f242d38,State Theater,state-theater-new-brunswick,"",New Brunswick,NJ,,,,,"","",305,2020-02-22 16:06:50.239541,2024-03-28 00:12:50.587343,1
+d43fadf2-63d8-4c49-a8ab-927afd064f67,The Lyric,the-lyric,"",Oxford,MS,,,,,"","",588,2020-02-22 16:06:50.239541,2024-02-15 17:19:33.390669,2
+cfc1f3e7-06d2-41ae-bfde-d8d156125df3,East End Cafe,east-end-cafe,"",Newark,DE,,,,,"","",107,2020-02-22 16:06:50.239541,2024-05-21 16:40:56.412587,3
+da0f565c-93b5-4eae-b7bf-9de71c506404,Doc Watson's,doc-watson-s,"",Philadelphia,PA,,,,,"","",101,2020-02-22 16:06:50.239541,2024-02-29 15:18:11.717749,2
+caa62dab-0f17-40c6-bbfa-1eb94e41f808,4th & B,4th-b,"",San Diego,CA,,,,,"","",605,2020-02-22 16:06:50.239541,2024-06-30 06:09:49.612655,1
+ab5ba6df-943e-49db-a18d-d89e8ee6835f,Fox Theater,fox-theater,"",St. Louis,MO,,,,,"","",120,2020-02-22 16:06:50.239541,2024-07-19 11:17:57.836335,1
+b94899bb-a40f-4028-b6fc-598e788e71a1,"Waterloo Park, South By Southwest",waterloo-park-south-by-southwest,"",Austin,TX,,,,,"","",400,2020-02-22 16:06:50.239541,2024-11-25 11:49:34.983541,1
+b8a52c08-20b1-43c4-8f20-ed85c44f5bba,Chameleon Club,chameleon-club-atlanta,"",Atlanta,GA,,,,,"","",64,2020-02-22 16:06:50.239541,2024-08-08 18:52:52.250563,3
+c52c0499-1500-4080-a19e-75291153826a,Solshine Music & Arts Reverie,solshine-music,"",Chillicothe,IL,USA,"",,,"",https://solshinereverie.com/,,2024-03-20 13:32:16.784260,2024-10-31 16:31:57.850576,1
+b79fe8ac-e083-42fb-947f-084c9122bfaf,Euphoria Music Festival,euphoria-music-festival,"",Austin,TX,,,,,"","",685,2020-02-22 16:06:51.681200,2024-08-29 19:59:49.108358,1
+ade8f3d8-dde6-45b5-a600-d38b03729732,LOCKN - Infinity Downs Farm,lockn-infinity-downs-farm,"",Arrington,VA,,,,,"","",687,2020-02-22 16:06:51.681200,2024-08-29 20:00:25.305141,1
+b4d37cd7-4a92-4c51-aed9-ac8e55c8cae7,Maine State Pier,maine-state-pier,"",Portland,ME,,,,,"","",686,2020-02-22 16:06:51.681200,2024-08-29 20:00:04.230682,2
+bdc72d84-0110-4515-b4c0-87fe5327345b,"Irvine Auditorium, University of Pennsylvania",irvine-auditorium-university-of-pennsylvania,"",Philadelphia,PA,,,,,"","",170,2020-02-22 16:06:50.239541,2024-08-28 15:10:00.800727,2
+e64d2291-ced5-4251-9e5a-5563ceeaf6f7,Paramount Theater,paramount-theater,"",Asbury Park,NJ,,,,,"","",241,2020-02-22 16:06:50.239541,2024-11-25 12:16:57.654456,1
+d67205bf-ce7c-4479-86ab-73f2129f4906,Fuji Rock Festival,fuji-rock-festival,"",Naeba,Japan,,,,,"","",564,2020-02-22 16:06:50.239541,2024-02-02 09:20:53.956690,1
+c6c7725a-6e5f-45c3-8b22-f73c05b270db,"Zeta Psi, University Of Pennsylvania",zeta-psi-university-of-pennsylvania,"",Philadelphia,PA,,,,,"","",416,2020-02-22 16:06:50.239541,2024-02-29 15:18:31.227451,3
+b42a1831-2e6f-46b4-8de9-4ad5dbe25bed,The Tractor,the-tractor,"",Seattle,WA,,,,,"","",367,2020-02-22 16:06:50.239541,2024-03-05 14:59:59.934977,2
+d4f07be9-deec-483d-a79b-298f1438c46b,Zydeco's,zydeco-s,2001 15th Avenue South,Birmingham,AL,,,,,205-933-1032,"",421,2020-02-22 16:06:50.239541,2024-05-29 21:41:12.184017,2
+ca6c986c-9e2d-45d3-ab59-c2ada21e71bd,Greek Theater,greek-theater,"",Berkeley,CA,,,,,"","",138,2020-02-22 16:06:50.239541,2024-03-28 00:11:34.987163,2
+ea460adf-d0be-452a-8729-d5dc203b4f34,The Pit,the-pit,"",Kill Devil Hills,NC,,,,,"","",354,2020-02-22 16:06:50.239541,2022-11-06 14:11:59.139760,1
+e664430c-51fa-489a-a2f6-290800fde6b4,Stone Church,stone-church,"",Newmarket,NH,,,,,"","",307,2020-02-22 16:06:50.239541,2023-03-16 01:45:49.810174,1
+dac57439-6839-484c-b26c-7ca0b94fa3cb,Magnet Club,magnet-club,Greifswalder Straße 212,Berlin,Germany,,,,,"",http://www.magnet-club.de/,544,2020-02-22 16:06:50.239541,2024-11-26 03:39:07.090624,1
+e82d7d27-927f-42a4-b284-4b846622c772,"Terrace Club, Princeton University",terrace-club-princeton-university,"",Princeton,NJ,,,,,"","",323,2020-02-22 16:06:50.239541,2024-02-26 20:06:23.979310,1
+e175614d-64c7-4397-92a0-e37d58113ec5,Starlight,starlight,"",Fort Collins,CO,,,,,"","",303,2020-02-22 16:06:50.239541,2022-09-13 21:14:15.847341,1
+e9b7e867-d07b-46a7-802f-ce1955580698,Summer Sun Music Festival,summer-sun-music-festival-cocheran,"",Cocheran,GA,,,,,"","",314,2020-02-22 16:06:50.239541,2022-11-06 14:12:11.334585,1
+e13e5064-8c93-47d7-ab3a-8fedd6410abb,Webster Hall,webster-hall,"",New York,NY,,,,,"",http://www.webster-hall.com/,401,2020-02-22 16:06:50.239541,2022-11-06 14:12:38.768814,1
+d3ae3252-d30c-43d4-b7c5-f762003f99b8,Ventura Theater,ventura-theater,"",Ventura,CA,,,,,"","",392,2020-02-22 16:06:50.239541,2023-04-29 00:23:53.082319,1
+f389920d-ef02-4c02-9ed5-93a89afe4a47,Markham Park,markham-park,"",Sunrise,FL,,,,,"",http://langerado.com/,480,2020-02-22 16:06:50.239541,2020-02-22 16:11:39.280078,0
+f42f6b89-ea21-4b4e-bcd4-303712892748,The Ritz,the-ritz,"",Raleigh,NC,,,,,"","",706,2020-02-22 16:06:51.681200,2020-02-22 16:11:39.388231,0
+f5288061-a68f-4b58-bebd-514149407eb9,Hobgood Farms,hobgood-farms,"",Grenada,MS,,,,,601-718-0111,"",432,2020-02-22 16:06:50.239541,2020-02-22 16:11:39.444819,0
+f5e43c68-0ec1-4876-bd19-18d59b7290cd,"Zollman's Pavilion, Buffalo Creek Music Festival",zollman-s-pavilion-buffalo-creek-music-festival-lexington,"",Lexington,VA,,,,,"","",420,2020-02-22 16:06:50.239541,2020-02-22 16:11:39.571667,0
+fe765b79-63a0-478e-b0c6-3d4207572af5,The Green Room,the-green-room,1807 Boardwalk,Seaside Park,NJ,,,,,732-793-1990,http://www.sawmillcafe.com/,533,2020-02-22 16:06:50.239541,2020-02-22 16:11:40.145463,0
+f7aad71a-1dc0-4e63-969a-fe0944bed83d,Wilmer's Park,wilmer-s-park,"",Brandywine,MD,,,,,"","",410,2020-02-22 16:06:50.239541,2020-02-23 00:37:06.678078,1
+fc2c8d92-57dc-44cc-8122-80fba45945ca,Hot Tin Roof,hot-tin-roof,"",Martha's Vineyard,MA,,,,,"","",157,2020-02-22 16:06:50.239541,2020-02-23 00:37:25.463953,1
+f0e36ab9-9f1e-4ffb-b6e5-757b99bf051e,Bessie's,bessie-s,"",Wilmington,NC,,,,,"","",30,2020-02-22 16:06:50.239541,2022-09-21 02:03:23.756657,4
+558d6429-90a7-45f1-bf85-0fde18a1c793,"Alpha Epsilon Pi, University Of Delaware",alpha-epsilon-pi-university-of-delaware,"",Newark,DE,,,,,"","",19,2020-02-22 16:06:50.239541,2024-02-29 14:54:54.452424,1
+0d2090b5-3713-48b7-a74a-937f2fce8df3,Yarmouth Drive-In,yarmouth-drive-in,"",West Yarmouth,MA,United States,"",,,"",https://yarmouthdrivein.com/,,2020-10-16 23:11:52.358943,2024-04-16 20:33:17.200060,4
+ba4c138f-7ba5-4385-a20a-5c82e9ded0cb,Thompson's Point,thompson-s-point,"",Portland,ME,"","",,,"","",,2022-06-12 13:25:34.618555,2024-06-13 18:18:24.505111,1
+e7a03124-b5a6-4756-976c-70728048511a,Bluebird,bluebird,"",Bloomington,IN,,,,,"","",38,2020-02-22 16:06:50.239541,2024-05-29 21:46:15.989585,2
+ecf0c8ed-8d5b-4eec-994e-556926052cb9,Stone Coast Brewing Company,stone-coast-brewing-company,"",Portland,ME,,,,,"","",308,2020-02-22 16:06:50.239541,2024-02-29 15:06:23.170800,3
+f7872222-9a2f-49c2-b16e-d56fb906298b,"Equinox Festival, Wilmer's Park",equinox-festival-wilmer-s-park,"",Brandywine,MD,,,,,"","",111,2020-02-22 16:06:50.239541,2023-07-31 19:33:23.345099,1
+f71a823b-7cf6-4798-a523-f40542eefb3e,Sturtz Court,sturtz-court,"",Reading,PA,,,,,"","",313,2020-02-22 16:06:50.239541,2023-07-31 19:51:07.299203,1
+ef86c5c0-ec7b-4256-8a16-a075eaa332d5,Downtime,downtime,"",New York,NY,,,,,"","",105,2020-02-22 16:06:50.239541,2024-02-29 15:18:07.953947,3
+f57068f7-a42d-4470-a75e-5bbc9f302e29,"Campus Courtyard, SUNY Plattsburgh",campus-courtyard-suny-plattsburgh,"",Plattsburgh,NY,,,,,"","",56,2020-02-22 16:06:50.239541,2023-08-01 16:25:42.753140,1
+f8e55419-97dd-43c5-a566-96cda219bdf3,Second Story,second-story,"",Madison,WI,,,,,"","",288,2020-02-22 16:06:50.239541,2024-04-24 08:34:54.764300,1
+cb9b65a0-12c0-4828-8ad5-143c2bddc0b8,Double Diamond,double-diamond,"",Aspen,CO,,,,,"","",104,2020-02-22 16:06:50.239541,2024-03-28 00:03:39.714978,1
+dd74e4f7-26f1-41d8-a6ca-35f2711e31c0,Wett Bar,wett-bar,"",Vancouver,BC,,,,,"","",406,2020-02-22 16:06:50.239541,2023-08-26 17:59:47.509938,1
+f080f188-e22d-4c8c-be68-396ba305af0b,Haymaker Festival,haymaker-festival,"",Spotsylvania,VA,,,,,"","",151,2020-02-22 16:06:50.239541,2024-03-28 00:05:29.172102,2
+db95d4fc-4388-40ad-a0e0-3aa2e09799a7,Gypsy Tea Room,gypsy-tea-room,"",Dallas,TX,,,,,"","",141,2020-02-22 16:06:50.239541,2024-03-28 00:10:12.609547,1
+e04e72b8-18ff-4d72-a3b3-3faf4347671e,State Fair Event Center,state-fair-event-center,"",Lewisburg,WV,,,,,877-42FESTS,"",438,2020-02-22 16:06:50.239541,2023-08-27 11:29:20.444400,1
+df891dc9-914f-4210-b876-45148df4f8ca,House of Blues,house-of-blues-houston,"",Houston,TX,,,,,"","",585,2020-02-22 16:06:50.239541,2024-02-15 17:19:15.165785,1
+e8be9f49-8266-41bd-9918-d8e93746d641,Twilight,twilight,1507 East 7th Avenue,Tampa,FL,,,,,813-247-4225,"",382,2020-02-22 16:06:50.239541,2024-05-29 22:25:06.718544,2
+1213f2be-f1c8-45ea-a8f4-3f355d1e0da9,Charleston Music Hall,charleston-music-hall,37 John Street,Charleston,SC,,,,,(843) 853-2252,http://www.charlestonmusichall.com/,611,2020-02-22 16:06:50.239541,2024-04-29 21:01:53.955811,1
+e27b3a5b-b34e-48f6-877c-721844ad0391,The Next Decade,the-next-decade,"",Pittsburgh ,PA,,,,,"","",349,2020-02-22 16:06:50.239541,2024-04-22 21:49:22.282015,3
+f301c8e6-e528-41da-9b44-57e5c3a17cf6,TCC Reading Park,tcc-reading-park,"",Norfolk,VA,,,,,"","",320,2020-02-22 16:06:50.239541,2024-05-29 22:22:56.485847,1
+e47dda50-e69a-41b9-8830-fbfa8df936ec,Buster's Billiards & Backroom,buster-s-billiards-backroom,899 Manchester St.,Lexington,KY,,,,,859-368-8871 ,http://www.bustersbb.com/,623,2020-02-22 16:06:50.239541,2023-09-24 15:06:33.588696,1
+c97a1128-139e-4abf-81f1-634a2afb1445,Lake Champlain Exposition,lake-champlain-exposition,"",Essex Junction,VT,"","",,,"","",,2022-06-13 12:55:17.768873,2024-11-22 02:12:30.596984,1
+e85ecd88-4624-40b5-83b1-25892870da56,1stBank Center,1stbank-center,11450 Broomfield Ln,Broomfield,CO,,,,,(303) 410-0700,http://1stbankcenter.com/,664,2020-02-22 16:06:51.681200,2024-04-29 20:58:32.032776,2
+e0df92ef-8699-4a39-b242-7b11194f67db,House of Blues,house-of-blues-cleveland-oh,"",Cleveland,OH,,,,,"","",570,2020-02-22 16:06:50.239541,2024-09-14 20:07:51.958847,1
+eb107e9f-608d-496e-bf8a-8d31d7a9e4b0,Imagine Festival - Atlanta Motor Speedway,imagine-festival-atlanta-motor-speedway,"",Atlanta,Georgia,,,,,"","",682,2020-02-22 16:06:51.681200,2024-08-29 20:02:41.971467,1
+f14def51-b4ea-4ed8-9aad-347848c90c32,The Roxy,the-roxy-hollywood,"",Hollywood,CA,,,,,"","",361,2020-02-22 16:06:50.239541,2024-09-06 20:07:24.112112,4
+dc812291-e823-408a-8228-01ba428c93b1,Keene State College,keene-state-college,"",Keene,NH,,,,,"","",182,2020-02-22 16:06:50.239541,2024-11-09 07:23:51.674402,1
+f25740dd-6844-4113-b84e-975fb6eb855c,City Centerfest,city-centerfest,"",Charlotte,NC,,,,,"","",71,2020-02-22 16:06:50.239541,2024-11-25 12:16:11.163586,1
+f3f6306b-f7d2-4731-a28f-f83d53d0ef59,Locust Club,locust-club,"",Philadelphia,PA,,,,,"","",196,2020-02-22 16:06:50.239541,2024-03-28 00:06:42.515691,1
+fa22e01c-66cf-4fec-a196-b58266a7e63b,The Library,the-library,120 South 11th Street,Oxford,MS,,,,,662-234-1411,"",450,2020-02-22 16:06:50.239541,2022-09-01 18:23:51.270039,1
+ecd4448f-23ab-4066-ad88-93290bdf5f27,Olympic Studios,olympic-studios,"",London,U.K.,,,,,"","",551,2020-02-22 16:06:50.239541,2022-09-13 19:46:20.846541,1
+ed82fce1-1c30-43ea-b596-a173fe7dc98d,Rex's,rex-s,"",West Chester,PA,,,,,"","",267,2020-02-22 16:06:50.239541,2022-11-06 14:08:30.567713,1
+f8ecd138-e045-4fa8-b884-ace8fb215284,The Lawn @ White River State Park,the-lawn-white-river-state-park,801 West Washington Street,Indianapolis,IN,,,,,"","",499,2020-02-22 16:06:50.239541,2022-09-01 18:28:57.438403,1
+f6cee43c-93cd-409e-9e52-ba0d1b36646e,Island Rock Cafe,island-rock-cafe,"",St. Simon's Island,GA,,,,,"","",172,2020-02-22 16:06:50.239541,2022-11-06 14:12:05.384036,1
+0b36c149-b1d1-4acf-b3c4-f4f0d55e9469,Hampton Coliseum,hampton-coliseum,1000 Coliseum Dr.,Hampton,VA,,,,,757-838-4203,http://www.hampton.gov/coliseum/default.aspx,630,2020-02-22 16:06:50.239541,2022-09-12 20:43:01.784648,1
+fff8db04-043d-4088-9129-82dd7b734dc9,CBW Green at UVM,cbw-green-at-uvm,"",Burlington ,Vermont ,,,,,"","",670,2020-02-22 16:06:51.681200,2024-02-10 01:44:28.448603,1
+533b1c7b-7b36-45fa-b172-db0a0aa55c2b,Mountain Park,mountain-park,5 Mountain Rd,Holyoke,MA,,,,,1-413-586-8686,http://www.iheg.com/mountain_park_main.asp,626,2020-02-22 16:06:50.239541,2023-06-01 01:39:37.701208,1
+9d964d89-7636-40aa-a1b0-a48237f1bc97,The Sanctuary,the-sanctuary,"",Las Vegas,NV,,,,,"","",364,2020-02-22 16:06:50.239541,2024-11-26 12:24:49.170746,2
+f5340b3f-e2ef-4ca4-9a9d-a10d1c81bd5d,Union Park,union-park,1574 W Washington Blvd,Chicago,IL,,,,,"",http://northcoastfestival.com/,625,2020-02-22 16:06:50.239541,2023-10-17 12:34:08.775889,3
+53e8e9a4-6e7d-4712-820e-61ceffc473c4,The Theater at MSG,the-theater-at-msg,Four Pennsylvania Plaza (7th Avenue between W 31st St and W 33rd St),New York,NY,,,,,212.465.MSG1 (6,http://www.theateratmsg.com/,663,2020-02-22 16:06:51.681200,2024-04-23 15:01:17.862703,1
+3dbc0082-85bf-4a8f-b1a8-a7f3cdd07c79,Pier Six Pavilion,pier-six-pavilion,"",Baltimore,MD,"","",,,"","",,2022-06-11 02:10:46.542740,2024-06-13 18:17:58.693909,1
+f52ef5e4-b086-49be-be81-57fdcfca856c,Little Brother's,little-brother-s,"",Columbus,OH,,,,,"","",194,2020-02-22 16:06:50.239541,2024-02-10 05:25:13.916598,2
+8beaf894-d987-4683-8c46-ea05cf0be1ce,Water Street Music Hall,water-street-music-hall,"",Rochester,NY,,,,,"","",399,2020-02-22 16:06:50.239541,2024-11-25 12:17:43.526662,5
+beae09b9-877f-4375-8210-912f0ee10b17,Neighborhood Theater,neighborhood-theater,511 E. 36th St.,Charlotte,NC,,,,,704-358-9298,http://www.neighborhoodtheatre.com/,487,2020-02-22 16:06:50.239541,2024-11-10 02:34:58.320857,2
+bbce733f-7112-4bce-bab4-fd6b231bbea7,Croton Point Park,croton-point-park,"",Croton-on-Hudson,NY,,,,,"","",89,2020-02-22 16:06:50.239541,2024-05-29 21:45:28.231025,1
+80210532-913b-4505-a5cd-9a406177803f,"Zollman's Pavilion, Buffalo Creek Music Festival",zollman-s-pavilion-buffalo-creek-music-festival,"",Lexington,VA,,,,,"","",419,2020-02-22 16:06:50.239541,2024-05-29 21:44:51.240270,2
+dcdf1323-b24b-482c-8b7c-203ec692eadc,Great South Bay Music Festival ,great-south-bay-music-festival,99 Smith Street at Shorefront Park,Patchogue ,NY,USA,11772,,,(631) 289-6525,http://greatsouthbaymusicfestival.com/,,2024-02-27 18:21:02.583562,2024-11-26 01:38:36.290944,1
+6ed9f2d2-324f-4303-9729-e4fb4296ab8c,Hartford Healthcare Amphitheater ,hartford-healthcare-amphitheater,"",Bridgeport,CT,"","",,,"","",,2022-06-10 22:10:00.519418,2024-06-13 18:17:06.724962,1
+d31fd511-fc16-4d0d-adf8-81b75eafb2af,"Commonwealth Ballrom, Virginia Tech",commonwealth-ballrom-virginia-tech,"",Blacksburg,VA,,,,,"","",82,2020-02-22 16:06:50.239541,2024-02-18 12:28:11.583743,1
+f2e83772-5a4c-481c-8c16-b22fe7409eb9,Hutchinson Field in Grant Park,hutchinson-field-in-grant-park,"",Chicago,IL,,,,,"","",494,2020-02-22 16:06:50.239541,2023-08-27 11:40:16.304025,1
+4e4af6b6-2224-4333-af10-219d3aafb7a9,Brookdale Lodge,brookdale-lodge,"",Brookdale,CA,,,,,"","",44,2020-02-22 16:06:50.239541,2024-03-12 03:50:21.800085,1
+a758b47b-b3d1-4fd1-9e99-e48e503f1df2,Rothbury Music Festival,rothbury-music-festival,"",Rothbury,MI,,,,,"",http://www.rothburyfestival.com,559,2020-02-22 16:06:50.239541,2024-02-04 12:56:30.732400,2
+8b5e79eb-f697-49c9-be07-5b8d816a4b0a,Higher Ground,the-new-higher-ground,"",South Burlington,VT,,,,,"","",581,2020-02-22 16:06:50.239541,2024-02-10 01:38:12.134809,2
+eddb10ff-c9f6-4203-8cfb-29bb1bdadaf2,Legends,legends,Appalachian State University,Boone,NC,,,,,(828) 262-2208,"",20,2020-02-22 16:06:50.239541,2024-11-10 02:28:44.208275,3
+f24ec163-9224-4d1d-b524-2ffd4090ad2f,State Theater,state-theater-falls-church,220 N. Washington St,Falls Church,VA,,,,,703-237-0300,http://www.thestatetheatre.com,556,2020-02-22 16:06:50.239541,2024-04-04 20:30:42.581540,2
+ff72b5bf-f21b-43d5-a198-09da4db1ba4d,"Doremus Gym, Washington and Lee University",doremus-gym-washington-and-lee-university,"",Lexington,VA,,,,,"","",103,2020-02-22 16:06:50.239541,2024-05-06 00:08:41.191561,1
+dfa0da88-6398-48e8-b0e5-6407e9c96f29,Crowbar,crowbar,"",State College,PA,,,,,"","",90,2020-02-22 16:06:50.239541,2023-10-31 12:26:06.722165,7
+46c8891b-7b54-43b9-b2a0-57876f61f89a,El Rey Theater,el-rey-theater,"",Los Angeles,CA,,,,,"","",108,2020-02-22 16:06:50.239541,2023-04-29 00:23:33.665935,1
+ee35b44f-c67d-4422-b467-c2f7b7502e94,Jupiter Bar & Grill,jupiter-bar-grill,1307 University Blvd,Tuscaloosa,AL,,,,,205-248-6611,http://www.jupiteronthestrip.com,557,2020-02-22 16:06:50.239541,2024-11-03 20:52:05.090667,3
+4c44ebe4-9778-4cb8-97be-6ab5af04cf4b,Great American Music Hall,great-american-music-hall,"",San Francisco,CA,,,,,"","",137,2020-02-22 16:06:50.239541,2024-09-16 23:35:38.043127,3
+f3b0d78a-271f-42ca-8882-305f07f7d272,State Theatre,state-theatre,687 Central Ave.,St. Petersburg,FL,,,,,(727) 895-3045,"",534,2020-02-22 16:06:50.239541,2024-09-05 01:56:28.654186,1
+397149cc-e8d3-4557-9491-4d180be19e68,Irving Plaza,irving-plaza,"",New York,NY,,,,,"","",171,2020-02-22 16:06:50.239541,2024-12-05 21:09:07.670702,11
+56c69667-d5bb-4397-bc0a-ca3cfb5f01af,Cervantes' Masterpiece Ballroom,cervantes-masterpiece-ballroom,"",Denver,CO,,,,,"","",435,2020-02-22 16:06:50.239541,2024-11-25 12:15:02.620786,3
+ab512957-8ea6-4705-b454-0e42a25ee668,Stage AE,stage-ae,400 North Shore Drive,Pittsburgh,PA,United States,15212,,,412-229-5483,https://www.stagepittsburgh.com/,,2024-01-25 20:20:23.996332,2024-11-27 17:54:47.566645,1
+f1264dc5-79f3-4cec-a64f-158fb7814e02,Howlin' Wolf,howlin-wolf,828 South Peters Street,New Orleans,LA,,,,,504-522-WOLF,http://www.howlin-wolf.com/,163,2020-02-22 16:06:50.239541,2024-08-26 17:39:50.336239,2
+dc75ba1e-9543-49c6-957b-9b47844ea4b8,Warner Theater,warner-theater,1299 Pennsylvania Ave NW,Washington,DC,,,,,(202)783-4000,http://www.warnertheater.com,538,2020-02-22 16:06:50.239541,2024-08-27 02:30:10.145682,1
+0eb2440c-a19d-40cf-93de-d718d01e72a3,Headliners Music Hall,headliners-music-hall,"",Louisville,KY,,,,,"","",152,2020-02-22 16:06:50.239541,2024-11-25 12:16:18.396428,3
+89bca320-089e-418a-a882-c01179d0419a,Hartford Meadows Music Theater,hartford-meadows-music-theater,"",Hartford,CT,,,,,"","",148,2020-02-22 16:06:50.239541,2024-05-29 21:54:30.890240,1
+28d6e228-5d83-4626-8415-ef4711cbe89b,Cat's Cradle,cat-s-cradle,"",Carrboro,NC,,,,,"","",61,2020-02-22 16:06:50.239541,2024-05-29 22:00:37.264125,2
+758c748a-e52e-4bc6-8e77-b56452998e00,Roseland Ballroom,roseland-ballroom,"",New York,NY,,,,,"","",273,2020-02-22 16:06:50.239541,2024-05-29 22:02:15.194372,4
+95779360-b9d0-4723-aa11-77c54cb5dcd3,House of Blues,house-of-blues-las-vegas,"",Las Vegas,NV,,,,,"","",161,2020-02-22 16:06:50.239541,2023-08-30 11:05:28.721945,2
+955562f2-7eb7-4f9f-9d4c-ee71f016b29f,The Open Seas- MSC Opera,the-open-seas-msc-opera,"",Ft. Lauderdale,FL,,,,,"",www.Jamcruise.com,515,2020-02-22 16:06:50.239541,2023-08-19 16:23:32.900229,2
+ac2c3809-efda-431b-899f-217b3d31eda2,Mississippi Nights,mississippi-nights,"",St. Louis,MO,,,,,"","",216,2020-02-22 16:06:50.239541,2024-03-28 00:08:38.144617,1
+89e512a9-60b0-43a2-860d-2e8d76001160,Greenfield Lake Amphitheater ,greenfield-lake-amphitheater,1941 Amphitheater Dr,Wilmington ,NC,USA,28401,,,910-343-3614,https://www.wilmingtonamphitheater.com/,,2024-04-30 17:14:09.057392,2024-11-09 06:28:00.839159,1
+b3841de4-5e57-4f2d-914f-81bc474fba8e,Culture Room,culture-room,3045 North Federal Highway,Fort Lauderdale,FL,,,,,954-564-1074,"",92,2020-02-22 16:06:50.239541,2024-05-29 22:25:03.460212,4
+1c6b2094-7169-41e5-b759-0ac478aa438b,King Cat Theatre,king-cat-theatre,"",Seattle,WA,,,,,"","",185,2020-02-22 16:06:50.239541,2024-11-08 23:17:10.427497,1
+0712e5b5-85ca-4ba4-9834-c3519095a111,"Memorial Gymnasium, University of Virginia",memorial-gymnasium-university-of-virginia,"",Charlottesville,VA,,,,,"","",205,2020-02-22 16:06:50.239541,2024-05-29 22:19:16.643301,1
+477ca04d-428d-40c8-a85e-7754467526c3,"All Good Festival, Buffalo Gap Camping Ground",all-good-festival-buffalo-gap-camping-ground,"",Capon Bridge,WV,,,,,"","",12,2020-02-22 16:06:50.239541,2023-08-26 17:51:50.210022,1
+3767dade-6aae-477b-b97b-6ef380a67731,Imperial Majesty - Regal Empress,imperial-majesty-regal-empress,The Open Seas,The Open Seas,FL,,,,,303-544-0191,http://www.jamcruise.com/,454,2020-02-22 16:06:50.239541,2024-01-15 11:45:13.273986,4
+c00ba74e-0366-47a4-b2a6-96456341c642,The Boom Boom Room,the-boom-boom-room,"",San Francisco,CA,,,,,"","",327,2020-02-22 16:06:50.239541,2024-03-28 00:12:03.640454,1
+fefb4eb3-99de-4562-8f69-a06b0211f9cb,Dillon Amphitheater,dillon-amphitheater,135 W Lodgepole Street,Dillon,CO,USA,80435,,,(970)468-2403,https://www.dillonamp.com/,,2024-02-27 18:14:08.662126,2024-11-26 16:28:17.458373,1
+08139a3b-d9fc-4613-8e1c-e39a9ec32288,The Conduit,the-conduit,439 South Broad Street,Trenton,NJ,,,,,609-856-1199,http://www.conduitmusic.com/,437,2020-02-22 16:06:50.239541,2024-02-18 12:43:23.828371,2
+e8cc5ed2-2806-485e-84c4-08790fe62cbc,Saratoga Performing Arts Center,saratoga-performing-arts-center,"",Saratoga Springs,NY,,,,,"","",281,2020-02-22 16:06:50.239541,2024-05-29 21:54:24.417446,1
+7af17156-09d6-4518-8c34-c55b6e251a88,Cabooze,cabooze,"",Minneapolis,MN,,,,,"","",51,2020-02-22 16:06:50.239541,2024-03-28 00:14:40.549918,1
+5d912950-5bf1-45a9-a65a-4f0a761de0fa,Moose River Amphitheatre,moose-river-amphitheatre,"",Lyonsdale,NY,,,,,303-241-1100,"",430,2020-02-22 16:06:50.239541,2023-08-27 11:29:03.639644,1
+3aade034-926f-4d9d-9f45-f9889fd37a91,Dreams Tulum Resort & Spa,dreams-tulum-resort-spa,"Carretera Chetumal Pto, Km 269, Puerto Aventuras 77500, Mexico",Tulum,,Mexico,,,,52 984 871 3333,http://www.dreamsresorts.com/dretu/,662,2020-02-22 16:06:51.681200,2023-08-30 11:08:33.263109,3
+79a27aae-0741-4a5a-b7ab-79be0cee83e3,Jake's Roadhouse,jake-s-roadhouse,"",Decatur,GA,,,,,"","",177,2020-02-22 16:06:50.239541,2024-05-29 22:00:22.872610,2
+b7567682-cd24-482c-a48d-9cf6d2e65f09,Cajun House,cajun-house,"",Scottsdale,AZ,,,,,"","",54,2020-02-22 16:06:50.239541,2024-03-28 00:08:07.791204,3
+a4e17f2c-5141-4ca4-a0ed-410e801ef267,Gothic Theater,gothic-theater,"",Englewood,CO,,,,,"","",132,2020-02-22 16:06:50.239541,2024-03-28 00:08:25.911126,5
+e947a38b-6728-4f2f-8930-78d9982d5b70,Lee's Palace,lee-s-palace,"","Toronto, Ontario",Canada,,,,,"","",188,2020-02-22 16:06:50.239541,2024-03-28 00:08:58.259045,1
+c4453112-afd3-4c8b-89bb-f097f2a13288,Tremont Music Hall,tremont-music-hall,"",Charlotte,NC,,,,,"","",379,2020-02-22 16:06:50.239541,2024-12-09 05:39:43.381600,1
+13f03f27-784c-4843-88f0-919e2c87ca3a,The Paramount,the-paramount,"",Santa Fe,NM,,,,,"","",353,2020-02-22 16:06:50.239541,2024-12-02 20:42:05.508043,1
+e1ba20c1-7785-45ab-8b27-b225fc50a092,The Roxy,the-roxy-atlanta,"",Atlanta,GA,,,,,"","",360,2020-02-22 16:06:50.239541,2024-09-13 13:33:41.878518,3
+3bc09e03-42ff-4a24-b205-b77111bd3ae6,Lincoln Theater ,lincoln-theater-washington-d-c,"",Washington D.C.,DC,,,,,"","",697,2020-02-22 16:06:51.681200,2024-03-22 20:22:15.118072,1
+e7e91119-521d-4651-a8b2-360bcc5c6cbe,Palookaville,palookaville,"",Santa Cruz,CA,,,,,"","",240,2020-02-22 16:06:50.239541,2024-09-16 23:35:42.256245,4
+7f9f918f-e8e7-449a-bb12-20d7419c069c,Langerado Music Festival,langerado-music-festival,Markham Park,Sunrise,FL,,,,,"",www.langerado.com,490,2020-02-22 16:06:50.239541,2024-11-10 02:22:32.572184,3
+b592196b-223f-4ff9-8944-fd77424ad28a,Iron City ,iron-city,"",Birmingham,AL,"","",,,"","",,2023-05-04 01:32:02.796482,2024-07-19 11:40:26.228970,1
+bd9832e1-ea5f-440c-87c5-c8a68d1b9196,Revolution Concert House,revolution,4983 N GLENWOOD ST,Boise,ID,"",83714,,,208-938-2933,https://cttouringid.com/,,2023-07-10 18:58:41.702877,2024-07-19 11:44:21.804427,1
+25959cfa-7c18-4308-b626-4c04fef43651,Midtown Ballroom,midtown-ballroom,51 Northwest Greenwood Avenue,Bend,OR,"",97701,,,(541) 4084329,https://midtownballroom.com/,,2023-07-13 19:08:09.535608,2024-07-19 11:44:54.427519,1
+07aef483-1f92-466a-8f3e-ee2d2ef9969c,9:30 Club,9-30-club,815 V Street NW,Washington,DC,,,,,202-265-0930,http://www.930.com/,9,2020-02-22 16:06:50.239541,2024-12-07 22:03:41.528006,16
+63ee2369-5c64-433a-a46c-f8d7e2943ca4,TCU Amphitheater at White River State Park,tcu-amphitheater-at-white-river-state-park,"",Indianapolis,IN,"","",,,"","",,2022-08-19 12:34:55.351839,2024-07-26 17:50:50.561413,1
+e478ad9b-42c9-4527-ba9b-cf0950b71100,Recher Theatre,recher-theatre,512 York Road,Towson,MD,,,,,410-337-7178,http://www.rechertheatre.com/,265,2020-02-22 16:06:50.239541,2024-08-28 15:10:12.543292,6
+8fb03c91-a5c7-4e75-92d2-a57ef9563047,Cooper River Stadium,cooper-river-stadium,"",Camden,NJ,,,,,"","",83,2020-02-22 16:06:50.239541,2024-08-20 02:09:16.767482,1
+0124d12d-ba1c-4720-85fe-0dfba18b1ca8,Salvage Station,salvage-station,"",Asheville ,NC,,,,,"","",692,2020-02-22 16:06:51.681200,2024-08-25 20:31:27.748240,3
+e8d4237b-d3ed-4f6c-9fdb-cd50a294e0a6,Brooklyn Bowl Las Vegas,brooklyn-bowl-las-vegas,"",Las Vegas,NV,,,,,"","",684,2020-02-22 16:06:51.681200,2024-08-25 20:34:08.510654,9
+1e19b4b3-4616-480e-9b61-907d6f3d853e,Ziggy's,ziggy-s,433 Baity Street,Winston-Salem,NC,,,,,336-748-1064,http://www.ziggyrock.com/,418,2020-02-22 16:06:50.239541,2024-08-26 17:39:46.400362,6
+8f9fe89b-78f7-46a5-a5b4-cd53967c8ed2,Music Farm,music-farm,"",Charleston,SC,,,,,"","",222,2020-02-22 16:06:50.239541,2024-08-31 15:20:36.985933,5
+bb49a7de-c975-414b-afa0-14890a0413c5,The Majestic,the-majestic,"",Detroit,MI,,,,,"","",341,2020-02-22 16:06:50.239541,2024-09-04 17:52:39.214523,2
+24e0f3fb-8829-4f84-bfd4-69e568b424ae,Ft. Armistead Park,ft-armistead-park,Ft. Armistead Park,Baltimore,MD,,,,,"",http://www.starscapefestival.com/,496,2020-02-22 16:06:50.239541,2024-09-21 23:01:42.330907,5
+e66af935-c834-43cb-a7d2-2983b29408e4,Nokia Theater,nokia-theater,1515 Broadway at W44th Street ,New York,NY,,,,,212-930-1950 ,http://www.nokiatheatrenyc.com,555,2020-02-22 16:06:50.239541,2024-11-22 01:28:05.359450,12
+f9dd37c5-3578-4d12-b3af-5c1b4d7aece6,Hippodrome Theatre,hippodrome-theatre,"",Baltimore,MD,,,,,"","",595,2020-02-22 16:06:50.239541,2023-05-24 13:09:25.273005,1
+ab7d5ccd-9818-4416-b897-72397fb48d9e,Penn's Landing,penn-s-landing,Columbus Blvd. and Spring Garden St.,Philadelphia,PA,,,,,215-629-3200,http://www.electricfactory.com/jam_on_the_river.htm,428,2020-02-22 16:06:50.239541,2024-05-30 16:23:11.240246,6
+59354f25-12b2-41b5-976c-209c95c6517a,State Theater,state-theater-portland,"",Portland,ME,,,,,"","",306,2020-02-22 16:06:50.239541,2024-12-04 00:44:37.536956,6
+8adee033-6f04-4c31-be25-c9e973d436d8,Gathering Of The Vibes,gathering-of-the-vibes-red-hook,"",Red Hook,NY,,,,,"","",127,2020-02-22 16:06:50.239541,2024-03-28 00:11:28.282497,1
+7b00c23c-dc31-4e72-8633-820e8c228ff4,Playstation Theater ,playstation-theater,1515 Broadway,New York,NY,,,,,"","",675,2020-02-22 16:06:51.681200,2024-12-05 22:42:13.540637,12
+aa1e85e3-402a-49b8-85e9-d73a6cc69a3c,Club Tinks,club-tinks,519 Linden Street,Scranton,PA,,,,,570-346-8465,"",447,2020-02-22 16:06:50.239541,2023-08-27 11:31:09.431572,1
+0edd4940-a96a-45e9-b581-db9e8e4b77f3,Empire Garage,empire-garage,606 East 7th Street ,Austin,TX,"",78701,,,"",https://empireatx.com/,,2023-09-13 01:00:52.965075,2024-11-26 03:22:49.340770,2
+dbc2c080-14c4-4fe3-9955-93925cfa99dd,The Theater at Madison Square Garden,the-theater-at-madison-square-garden,"",New York,NY,,,,,"","",456,2020-02-22 16:06:50.239541,2023-09-05 13:00:51.169143,2
+a9dfe5b6-65c8-4085-aa6a-e0682ec1f58e,Marrz Theater,marrz-theater,"",Wilmington,NC,,,,,"","",201,2020-02-22 16:06:50.239541,2024-11-25 12:15:11.450923,2
+c9f350ab-f78c-473a-92a7-d6208f86c020,Aarons Amphitheatre at Lakewood,aarons-amphitheatre-at-lakewood,2002 Lakewood Ave SE,Atlanta,GA,,,,,(404) 443-5000,http://lakewoodamphitheatre.org/?gclid=CJra1aS65qoCFc465QodlEXZ6A,649,2020-02-22 16:06:50.239541,2024-04-29 21:01:07.789929,1
+739dd97d-bf39-42df-8069-dea4f7987935,"Wormtown Music Festival, Stepping Stone Ranch",wormtown-music-festival-stepping-stone-ranch,"",Escoheag,RI,,,,,"","",413,2020-02-22 16:06:50.239541,2023-08-20 20:17:51.296123,1
+35088b53-3d76-485c-a748-25fb66293b33,First Niagara Pavilion,first-niagara-pavilion,665 Route 18,Burgettstown,PA,,,,,877-686-5366,http://pavilionburgettstown.com/?gclid=CIHn4KfCzaoCFQnc4AodNCFF1Q,642,2020-02-22 16:06:50.239541,2024-03-27 23:57:33.893688,1
+23f66796-699d-4e0b-bc46-130907aca661,Earth Link Live,earth-link-live,1374 West Peachtree Street,Atlanta,GA,,,,,404-885-1365,http://www.earthlinklive.com/,489,2020-02-22 16:06:50.239541,2024-02-18 12:30:43.908462,1
+8c483567-161f-448c-b652-d686ac1f6993,Crystal Ballroom,crystal-ballroom,"",Portland,OR,,,,,"","",91,2020-02-22 16:06:50.239541,2024-11-08 23:16:56.672405,4
+7931579a-b2bc-48bb-82dd-df3f05a32d65,Columbia Speedway Entertainment Center,columbia-speedway-entertainment-center,"",Cayce,SC,"","",,,"","",,2021-06-19 00:49:56.773119,2024-06-23 15:24:02.259323,2
+e9a9e76a-b8c7-49ed-901e-723b7ee229bb,Southside Stage @ XL Live,southside-stage-xl-live,"",Harrisburg,PA,"","",,,"","",,2022-09-10 00:35:56.957000,2024-11-25 15:38:54.476912,2
+788beddd-1715-4a14-92aa-0a0ab7036e3e,The State Theater,the-state-theater,"",State College,PA,,,,,"","",567,2020-02-22 16:06:50.239541,2024-06-30 06:09:25.083295,3
+eb4362f6-0dd5-4450-9965-6aa4dd988088,"Wedding of Charlz and Heidi Franz, Moose Lodge",wedding-of-charlz-and-heidi-franz-moose-lodge,"",Claremont,NH,,,,,"","",403,2020-02-22 16:06:50.239541,2024-07-03 17:52:30.999151,1
+d4a6cd1c-6f8f-4cd6-8bd2-d38ea0ed7245,Soul Kitchen,soul-kitchen,"",Mobile,AL,"","",,,"","",,2023-05-05 02:33:53.964684,2024-07-19 11:40:40.086879,1
+6271e4ac-4f38-485d-9025-180612948356,Hunter Mountain Ski & Lodge,hunter-mountain-ski-lodge,Route 23A,Hunter,NY,,,,,(800) 486-8376,www.huntermtn.com,500,2020-02-22 16:06:50.239541,2024-11-10 02:24:32.112573,3
+a5812a09-411e-417c-a64a-cd19086a45df,XL Live,xl-live,"",Harrisburg,PA,"","",,,"","",,2023-06-11 00:45:08.919851,2024-07-19 11:42:40.223304,1
+570c6e9f-7caa-43b3-9856-14fd34d7612e,The Stundent Pavillion at Washington & Lee University,the-stundent-pavillion-at-washington-lee-university,"",Lexington,VA,,,,,"","",506,2020-02-22 16:06:50.239541,2024-11-10 02:24:41.820587,1
+aa42a681-6647-44e5-8fa0-cff643978119,Sonar Lounge,sonar-lounge,407 East Saratoga Street,Baltimore,MD,,,,,410-327-8333,http://www.sonarlounge.com/,469,2020-02-22 16:06:50.239541,2024-11-10 02:25:55.352756,4
+5f9e5538-df9b-4cd6-859f-3622d2731aa9,Palace Theater,palace-theater,"",Albany,NY,,,,,"","",461,2020-02-22 16:06:50.239541,2024-11-25 15:42:37.351282,7
+82e59120-3ca9-424c-bcee-6999b6eede96,Roseland Theater,roseland-theater,8 NW 6th Ave,Portland,Oregon,"",97209,,,"",https://roselandpdx.com/,,2023-07-13 19:11:14.887623,2024-07-19 11:45:07.489316,1
+317240c7-7682-43b5-a85d-b101d2cbbda8,Harrah’s Lake Tahoe,harrah-s-lake-tahoe,15 Highway 50,Stateline,NV,"",89449,,,800-427-7247,https://www.caesars.com/harrahs-tahoe/shows,,2023-07-16 19:47:35.992062,2024-07-19 11:45:40.719054,1
+f7f3563e-da6a-40c9-9893-a3a701e4c2f9,Anthem,anthem,"",Washington D.C.,"",,,,,"","",689,2020-02-22 16:06:51.681200,2024-08-25 20:31:01.511338,3
+4209ae30-4f0c-4ca6-9380-0b17c018496a,"Camp Bisco, TuneTown Campgrounds",camp-bisco-tunetown-campgrounds,"",Cherrytree,PA,,,,,"","",55,2020-02-22 16:06:50.239541,2024-08-28 15:10:55.551109,2
+2b1bd682-7e6f-4f53-9305-d2c7309cab61,Three Sister's Park,three-sister-s-park,17189 N. Rt. 29,Chillicothe,IL,,,,,1-866-278-8837,http://www.threesisterspark.com/,492,2020-02-22 16:06:50.239541,2024-08-29 20:00:08.444074,5
+72be8ba0-a1c5-4b23-8f60-b88a34053585,Now Sapphire Resort,mayan-holidaze-now-sapphire-resort,"",Puerto Morelos,Mexico,Mexico,,,,561.368.8922,http://www.mayanholidaze.com/home,634,2020-02-22 16:06:50.239541,2024-08-29 19:22:11.277585,15
+1e3bccf8-a06a-4518-85fe-796b54be8233,Marvin's Mountaintop,marvin-s-mountaintop,"",Masontown,WV,,,,,"","",464,2020-02-22 16:06:50.239541,2024-11-03 20:51:30.037282,2
+a26b75bb-f647-477f-83fd-d9f9e96a35c7,1-800-ASK-GARY Amphitheatre,1-800-ask-gary-amphitheatre,4802 US Highway 301 North,Tampa,FL,,,,,(813) 740-2446 ,http://www.google.com/url?sa=t&source=web&cd=1&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.livenation.com%2F1800ASKGARY-Amphitheatre-At-the-Florida-State-Fairgrounds-tickets-Tampa%2Fvenue%2F107257&rct=j&q=1-800-ASK-GARY%20Amphitheatre&ei=WFxVToOwJ4a_gQfQ5pFB&usg=AFQjCNHOMldlDPWva9cSbdDjBwT3D9XtHQ&cad=rja,650,2020-02-22 16:06:50.239541,2023-08-30 11:04:49.808367,1
+7044e7dc-0627-4570-8da0-43e1c2a600e3,"Ski Lodge, Berkshire Mountain Music Festival, Butternut Ski Basin",ski-lodge-berkshire-mountain-music-festival-butternut-ski-basin,"",Great Barrington,MA,,,,,"","",294,2020-02-22 16:06:50.239541,2023-08-26 17:49:38.174446,1
+ad56396d-d6ad-46e8-8b1d-575d6630e1fb,Saranac Brewery,saranac-brewery,"",Utica,NY,"","",,,"","",,2022-10-02 03:34:43.311631,2024-11-25 15:43:00.405302,2
+d81d72e0-3d8b-44de-9fd2-5b5659ceb267,Gexa Energy Pavilion,gexa-energy-pavilion,1818 First Ave.,Dallas,TX,,,,,1-214-421-1111 ,http://www.fairpark.org/index.php?option=com_content&view=article&id=211,653,2020-02-22 16:06:50.239541,2023-08-30 11:05:00.380394,1
+c8c386a3-8cb0-4f28-85a8-38389b9d5f42,PNC Bank Arts Center,pnc-bank-arts-center,"Exit 116, Garden State Pkwy",Holmdel,NJ,,,,,(732) 203-2500,http://centerholmdel.com/?gclid=CKft8PeJz6oCFcU65QodB1F8LQ,643,2020-02-22 16:06:50.239541,2024-03-27 23:57:14.509057,1
+9ab46a1c-d349-4e5f-a281-bb3d3afb578f,McCarren Park Pool,mccarren-park-pool,"",Williamsburg,NY,,,,,718-393-7510,http://www.freewilliamsburg.com/february_2003/mccarren.html,530,2020-02-22 16:06:50.239541,2024-04-04 20:27:00.652674,1
+67561f9e-9713-42b8-888c-28447f478fb0,Bicentennial Park,bicentennial-park,1075 Biscayne Boulevard,Miami,FL,,,,,1-305-358-755,http://www.ultramusicfestival.com/,609,2020-02-22 16:06:50.239541,2024-03-27 23:56:27.984889,2
+fe3ae2cc-2d4d-4a18-a68d-c41fc44a47db,Mr. Small's Funhouse,mr-small-s-funhouse,400 Lincoln Avenue,Pittsburgh,PA,,,,,412-821-4447,http://www.mrsmalls.com/,509,2020-02-22 16:06:50.239541,2024-11-09 17:46:48.661185,2
+816e106b-a9e0-4e00-bc51-98faec9c26f0,Verizon Wireless Music Center,verizon-wireless-music-center,12880 East 146th Street,Noblesville,IN,,,,,317-776-8181,http://www.livenation.com/Verizon-Wireless-Music-Center-tickets-Noblesville/venue/41099,640,2020-02-22 16:06:50.239541,2024-03-27 23:57:43.764493,1
+4edf3617-0217-449c-942b-87afacc9c08d,Thomas Wolfe Auditorium,thomas-wolfe-auditorium,"",Asheville,NC,,,,,"","",572,2020-02-22 16:06:50.239541,2024-11-10 02:32:44.853261,2
+c8e7433f-1255-44e2-a81c-0f88b907c9f6,BamaJam Music Festival,bamajam-music-festival,"",Enterprise,AL,,,,,(877) 4BAMAJAM,http://www.bamajammusicfestival.com,619,2020-02-22 16:06:50.239541,2024-05-06 13:50:12.406027,1
+60dd941f-6496-4774-a7b0-ada9bf7cd23e,Hard Rock Casino Presents: The Pavilion,hard-rock-casino-presents-the-pavilion,5601 University Blvd SE,Albuquerque,MN,,,,,(505) 452-5100,http://www.google.com/url?sa=t&source=web&cd=1&sqi=2&ved=0CEEQFjAA&url=http%3A%2F%2Fwww.livenation.com%2FHard-Rock-Casino-Albuquerque-Presents-The-Pavilion-tickets-Albuquerque%2Fvenue%2F246150&rct=j&q=hard%20rock%20casino%20presents%20the%20pavilion%20website&ei=7XhdTqAjw_aAB5ri7JgC&usg=AFQjCNFrnxEjBEKyEbUyk9xrdin5jf9EzA&cad=rja,654,2020-02-22 16:06:50.239541,2023-08-30 11:05:06.690101,1
+5d282213-d291-4303-ac7d-c84a7019ad61,Cricket Wireless Amphitheatre,cricket-wireless-amphitheatre,2050 Entertainment Circle,Chula Vista,CA,,,,,619-671-3500,http://www.chulavista.com/sub/cricketwirelessamphitheatre.html,655,2020-02-22 16:06:51.681200,2023-08-30 11:05:11.007852,1
+579115b7-167e-408b-a573-591262f5bb76,The Gorge,the-gorge,754 Silica Road NW,George,WA,,,,,(509) 785-6262,http://www.yelp.com/biz_redir?url=http%3A%2F%2Fwww.livenation.com%2FGorge-Amphitheatre-tickets-George%2Fvenue%2F122913&src_bizid=J79aU8nhviPkosdcoV8dYw&cachebuster=1315857692&s=9624819eeff4028b7b2395f073ebf6794abd0bcf68d67cece9bf38def2ac37f9,659,2020-02-22 16:06:51.681200,2023-08-30 11:05:35.530342,1
+d9393fc7-a2c2-482a-9e48-1cf67884bcf3,House Of Blues,house-of-blues-new-orleans-la,225 Decatur Street,New Orleans,LA,United States ,70130,,,(504) 310-4999,https://www.houseofblues.com/neworleans/,,2024-01-26 00:32:35.729879,2024-09-18 19:23:25.788434,1
+8ecf2f9a-e78f-404b-99ab-95a7210a2249,DTE Energy Music Theatre,dte-energy-music-theatre,7774 Sashabaw Road,Clarkston,MI,,,,,(248) 377-0100.,http://www.palacenet.com/splash.html,641,2020-02-22 16:06:50.239541,2024-03-27 23:57:37.386904,1
+0aa18b5a-984e-44d1-abaf-3b7a8a9c0169,Blackthorne Resort ,blackthorne-resort,"",East Durham,NY,"","",,,"","",,2022-08-14 22:44:06.569347,2024-11-25 15:43:06.130725,3
+a3278d84-1826-4a05-a021-88fe99342ca5,Iron Horse Music Hall,iron-horse-music-hall,20 Centre Street,Northampton,MA,,,,,413-584-0610,http://www.iheg.com/,169,2020-02-22 16:06:50.239541,2024-03-13 16:25:11.345670,2
+272feb3d-d158-4372-88b2-f9b31a8d831c,Crocodile Rock,crocodile-rock,520 Hamilton Street,Allentown,PA,,,,,610-434-4600,"",87,2020-02-22 16:06:50.239541,2024-11-25 11:48:47.330102,2
+6e94df02-5066-4c62-bae7-ddd9ad31f0b8,The Catalyst,the-catalyst,"",Santa Cruz,CA,,,,,"","",331,2020-02-22 16:06:50.239541,2024-11-09 00:05:35.350989,4
+effc2ae9-df36-4d05-ac93-cfd8ec6528eb,The Queen,the-queen,"",Wilmington,DE,"","",,,"","",,2023-06-15 00:34:41.607963,2024-07-19 11:42:50.554703,1
+ddd0dd10-b935-4c9c-856d-4a6ea2b0ddc6,Cannery Ballroom,cannery-ballroom,1 Cannery Row,Nashville,TN,,,,,(615) 251-3020,http://www.mercylounge.com,536,2020-02-22 16:06:50.239541,2024-11-26 03:36:42.970843,3
+1f6d9f30-4c62-4883-8d34-51a0ace794db,Bonnaroo Music Festival,bonnaroo-music-festival,"",Manchester,TN,,,,,"","",42,2020-02-22 16:06:50.239541,2024-11-25 23:57:00.636146,6
+edf8b5e6-2040-4d55-bfc0-833f839ed87d,Town Ballroom,town-ballroom,681 Main St.,Buffalo,NY,,,,,716-852-3900,http://www.townballroom.com/,507,2020-02-22 16:06:50.239541,2024-12-08 04:54:18.910975,11
+cc180824-653c-4b01-9e04-84ad849fec47,The Fillmore Auditorium,the-fillmore-auditorium,1510 Clarkson Street,Denver,CO,,,,,(303)837-0360,http://www.fillmoreauditorium.com,479,2020-02-22 16:06:50.239541,2024-10-23 16:21:31.085649,5
+5f93ec33-36aa-44c9-8f48-2691ce05b1bd,Mulcahy's ,mulcahy-s,"",Wantagh,NY,"","",,,"","",,2023-06-17 01:19:50.057691,2024-07-19 11:43:34.248891,2
+142a395d-ec5f-4f30-8456-767f85c53501,Count Basie Theater,count-basie-theater,"",Red Bank,NJ,"","",,,"","",,2023-06-16 00:34:07.841005,2024-07-19 11:43:00.099407,1
+4903b5e9-aa1f-44d5-b533-11c8eb85277d,Revolution Hall,revolution-hall-portland,1300 SE Stark Street,Portland,Oregon,USA,97214,,,"",https://www.revolutionhall.com/,,2024-10-23 18:31:46.713196,2024-10-23 18:31:46.713196,0
+3051929b-cbc5-423e-b87c-229ebaccfa1b,Senator Theatre,senator-theatre,517 Main Street,Chico,CA,USA,95928,,,530-898-1497,http://www.senatortheatrechico.com/,,2024-10-23 18:34:22.956196,2024-10-23 18:34:22.956196,0
+7ebca6fd-388b-4ebb-8016-891f6a7937e0,The Revolution,the-revolution,200 West Broward Blvd.,Fort Lauderdale,FL,,,,,(954)727-0950,http://www.jointherevolution.net,481,2020-02-22 16:06:50.239541,2024-11-10 02:22:28.909357,3
+54bb845d-e205-4bd8-962b-de47fbf87e39,House of Blues,house-of-blues-cleveland,308 Euclid Avenue,Cleveland,OH,,,,,216.523.BLUE,http://www.hob.com/venues/clubvenues/cleveland/,503,2020-02-22 16:06:50.239541,2024-11-27 17:54:24.033407,4
+b3f0cf4b-0493-49c0-8b4d-044f946cdc8d,Showtime at the Drive-In,showtime-at-the-drive-in,797 E Patrick St,Frederick,MD,USA,"",,,"","",,2020-10-25 22:37:17.135152,2024-03-20 17:10:45.852839,3
+68f3d016-3aeb-48be-91cc-3c2b843b929c,Weekend At The Cave,weekend-at-the-cave,3747 IL-127,Murphysboro,IL,USA,62966,,,618-751-0838,https://shawneecave.fun/,,2024-04-26 07:20:16.497710,2024-04-26 07:20:16.497710,0
+3b607ab9-fe14-44c7-979d-b10b26cdfe0a,The Warfield,the-warfield,982 Market Street,San Francisco ,CA,USA,94102,,,888-929-7849,https://www.thewarfieldtheatre.com/,,2024-10-23 18:36:18.391083,2024-10-23 18:36:18.391083,0
+ef326b81-c2e2-476a-83a7-6aff80191be0,Secret Dreams Music & Arts Festival,secret-dreams-music-arts-festival,7585 Kindle Road,Thornville,Ohio,USA,43076,,,"",https://www.secretdreamsfest.com/,,2024-03-20 13:30:14.633510,2024-11-19 17:33:37.670820,2
+f1b3d0f1-a7df-4ffc-9f09-e720081ba3ce,Dr. Phillips Center For the Performing Arts - Front Lawn,dr-phillips-center-for-the-performing-arts-front-lawn,"",Orlando,FL,"","",,,"","",,2021-03-25 23:27:06.361285,2024-04-29 20:47:34.850112,2
+34d157ac-ef3f-4078-bffc-fc1a0446bf0c,Barrymore Theater,barrymore-theater,2090 Atwood Avenue,Madison,WI,,,,,608-241-8864,http://www.barrymorelive.com/,26,2020-02-22 16:06:50.239541,2024-11-25 12:16:28.676923,6
+4bd80027-b714-442c-a242-1bd8fc73df96,Freedom Arts Pavillion,freedom-arts-pavillion,31806 Lakeview Drive,Selbyville,DE,USA,19975,,,302-436-3015,https://secure.freemanarts.org/,,2024-04-29 20:54:52.237492,2024-11-24 08:44:33.790131,1
+82f4424f-266e-4fe8-b654-e416789719a9,Fremont Theater,fremont-theater,1035 Monterey Street,San Luis Obispo,CA,USA,93401,,,805-329-5725,https://www.fremontslo.com/,,2024-10-23 18:38:39.764608,2024-10-23 18:38:39.764608,0
+6322921c-6819-4d4d-bc0a-67503a03c2d7,Salansky Farms,salansky-farms,"",Union Dale,PA,,,,,"","",278,2020-02-22 16:06:50.239541,2024-06-20 01:27:36.023008,2
+b53f3141-16d9-48b8-b6cd-3d2ba00b5290,Jefferson Theater,jefferson-theater,110 E MAIN STREET ,Charlottesville,VA,,,,,800-594-8499,	http://jeffersontheater.com,632,2020-02-22 16:06:50.239541,2024-10-08 03:41:43.023300,3
+e77004c5-c6c3-4658-b2d9-811db353f7ba,Knitting Factory,knitting-factory,919 W. SPRAGUE AVENUE ,Spokane,WA,"",99201,,,(509) 993-7636,https://www.knittingfactory.com/tm-venue/knitting-factory-spokane/,,2023-07-12 19:58:02.540159,2024-11-26 03:17:18.139157,1
+965f76db-0709-433e-803a-97e597b188eb,Gem & Jam Festival,gem-jam-festival,1102 West Grant Road,Tucson,AZ,United States,85705,,,(480) 221-6161,https://gemandjamfestival.com/,,2024-01-26 17:59:52.359201,2024-09-14 22:47:21.953134,1
+8ef35498-800d-42f7-82d1-d8ced42d0092,Electric Factory,electric-factory,421 North 7th Street,Philadelphia,PA,,,,,215-627-1332,"",109,2020-02-22 16:06:50.239541,2024-12-09 05:41:11.445691,28
+c8eca666-99b4-4272-8655-09a4b9902189,The Valarium,the-valarium,"",Knoxville,TN,,,,,"","",590,2020-02-22 16:06:50.239541,2024-06-30 06:05:34.681336,1
+a6ae93e5-74e1-4980-aa89-98dc94b8dbb2,Observatory North Park,observatory-north-park,2891 University Avenue,San Diego ,CA,United States ,92104,,,(619) 239-8836,https://the-observatory-north-park.business.site/,,2024-01-26 00:17:21.705038,2024-10-03 02:04:52.996956,1
+98c87556-60cf-4ce3-92a8-4e576992c9f3,Kahunaville,kahunaville,"",Wilmington,DE,,,,,"","",181,2020-02-22 16:06:50.239541,2024-07-14 18:43:41.108952,3
+e445acd8-2be7-417b-80d0-1130b23b95c8,The Observatory,the-observatory,3503 S Harbor Boulevard ,Santa Ana,CA,USA, 92704-6914,,,714-957-0600,https://www.observatoryoc.com/,,2024-10-23 18:40:49.623174,2024-10-23 18:40:49.623174,0
+dc7a23f8-1077-4acb-baa9-1a8053232655,Concord Music Hall,concord-music-hall,2047 N Milwaukee Ave.,Chicago,IL,,,,,773.276.7100,http://concordmusichall.com/,665,2020-02-22 16:06:51.681200,2024-12-07 00:32:31.040171,4
+32866dc3-a0d8-4ce4-ab8b-73f9f389a972,House of Blues,house-of-blues-atlantic-city,"",Atlantic City,NJ,,,,,"","",568,2020-02-22 16:06:50.239541,2024-06-30 06:07:48.102532,4
+84e4b6e0-0344-483c-aa34-1e5b8cb94799,Church of Universal Love and Music,church-of-universal-love-and-music,"",Acme,PA,,,,,"","",566,2020-02-22 16:06:50.239541,2024-06-30 06:08:07.751681,1
+6341347d-dd03-4d95-9860-386bd450248b,Sussex County Live Drive-In,sussex-county-live-drive-in,"",Augusta,NJ,"","",,,"","",,2021-05-14 17:50:19.110626,2024-06-23 15:22:58.432327,2
+f64eca4c-514d-4997-85e1-3e76829516b4,Janus Landing,janus-landing,"",St. Petersburg,FL,,,,,"","",703,2020-02-22 16:06:51.681200,2024-06-23 15:28:31.669244,2
+956d0e88-c79e-491a-a68c-150b1e4514bd,The Riviera Theater,the-riviera-theater,4746 N Racine Ave,Chicago,IL,,,,,"","",705,2020-02-22 16:06:51.681200,2024-11-26 03:17:50.331975,7
+e05b73a2-f4a8-4843-9fc3-caf7981c5010,Sony Hall,sony-hall,235 W 46th St,New York,NY,United States,10036,,,(212) 997-5123,https://www.sonyhall.com/,,2020-03-14 22:49:56.432672,2024-07-27 20:49:39.316701,2
+d251c7cf-e1ef-43c0-a4c9-13b9dab31fb2,Stubb's Bar-B-Q,stubb-s-bar-b-q,"",Austin,TX,,,,,"","",586,2020-02-22 16:06:50.239541,2024-06-30 06:08:50.809270,2
+cd37bacb-c96e-4447-91f5-5d7cbd3afcfe,Madrid Theatre,madrid-theatre,3810 Main Street,Kansas City,MO,USA,64111,,,816-753-8880,https://madridtheatre.com/,,2024-07-16 16:11:40.055000,2024-07-16 16:11:40.055000,0
+eecf6207-e4db-4937-9127-a808c8df5404,Royal Oak Theater,royal-oak-theater,"",Detroit,MI,,,,,"","",275,2020-02-22 16:06:50.239541,2024-11-25 12:16:31.732832,1
+7679040a-fa12-4314-84fb-64d3b70cbdda,The Fonda Theatre,the-fonda-theatre,6126 Hollywood Boulevard ,Hollywood ,CA,USA,90028,,,323-464-6269,https://www.fondatheatre.com/,,2024-01-25 20:17:13.557548,2024-07-19 11:15:12.635541,1
+78cc0a80-887a-466c-b46e-505578d8de29,Vogue Theater,vogue-theater,6259 North College Avenue,Indianapolis,IN,,,,,317-259-7029,http://thevogue.ws/,395,2020-02-22 16:06:50.239541,2024-11-25 12:16:35.263668,4
+772346af-6a44-47b2-980d-aba4db9f114f,The Fillmore,the-fillmore-philadelphia,"",Philadelphia,PA,,,,,"","",676,2020-02-22 16:06:51.681200,2024-11-25 15:43:46.867737,17
+21918d1d-2c79-46d0-b783-974882c8a8f2,Orpheum Theater,orpheum-theater-flagstaff,15 W Aspen Avenue,Flagstaff,AZ,USA, 86001,,,928-556-1580,https://orpheumflagstaff.com/,,2024-10-23 18:43:21.617628,2024-10-23 18:43:21.617628,0
+3f85da63-4a00-4cba-9e9f-837668d55284,The Fillmore,the-fillmore-san-francisco,"",San Francisco,CA,,,,,"","",333,2020-02-22 16:06:50.239541,2024-11-08 23:18:25.089922,9
+d7bcd39a-04d3-46ae-913a-c950de7b6c5d,Starland Ballroom,starland-ballroom,570 Jernee Mill Road,Sayreville,NJ,,,,,732-238-5500,"",459,2020-02-22 16:06:50.239541,2024-11-26 00:01:29.448403,18
+6004004e-6053-4d71-bc71-173a8ce4f6ce,The Sound at Del Mar ,the-sound-at-del-mar,2260 Jimmy Durante Boulevard ,Del Mar,CA,USA,92014,,,858-755-1161,https://thesoundsd.com/,,2024-10-23 18:45:36.274921,2024-10-23 18:45:36.274921,0
+f33fc142-9455-447c-ab15-56bbb22f3494,Bouckaert Farm,bouckaert-farm,Berry Bennett Road,Fairburn,GA,,,,,"",http://www.the-echoproject.com/,535,2020-02-22 16:06:50.239541,2024-10-25 19:07:19.219090,2
+215c8baa-8ed8-4f07-9a6b-6e39282bdfee,Mahalia Jackson Theater,mahalia-jackson-theater-new-orleans,1419 Basin Street,New Orleans,LA,USA,70116,,,"",https://www.mahaliajacksontheater.com/,,2023-05-06 22:56:14.492769,2024-10-31 16:31:42.674870,2
+def90e2e-cd00-4659-a848-241097bde1bf,Plumas County Fairgrounds,plumas-country-fairgrounds,"",Quincy,CA,,,,,510-420-1529,http://www.highsierramusic.com/,431,2020-02-22 16:06:50.239541,2024-11-03 20:50:54.445369,9
+bc5f5616-55da-442a-bf42-2184d431a981,Northlands,northlands,"",Swanzey,NH,"","",,,"","",,2021-08-20 22:49:48.366834,2024-11-25 15:44:39.062611,2
+322e640e-43e6-4170-90f0-be15573f94b7,Delmar Hall,delmar-hall,6133 Delmar Blvd,St. Louis,MO,"",63112,,,(314)726-6161,https://www.thepageant.com/venue-info/delmar-hall/,,2023-09-13 01:05:32.339068,2024-11-06 13:35:04.651320,1
+6638b3d3-3910-4248-978b-cf5768668ffc,French Broad River Brewery,french-broad-river-brewery,101 Fairview Road # D,Asheville,NC,USA,28803,,,(828)277-0222,https://www.frenchbroadbrewery.com/,,2024-07-30 18:42:45.369140,2024-09-16 10:13:44.612280,0
+3c1485b6-a149-49d6-ae5d-7f2a65afe7d3,Best Buy Theater,best-buy-theater,1515 Broadway at W44th Street ,New York,NY,,,,,212-930-1950 ,http://www.google.com/url?sa=t&source=web&cd=1&sqi=2&ved=0CB0QFjAA&url=http%3A%2F%2Fbestbuytheater.com%2F&rct=j&q=best%20buy%20theater&ei=BXWoTaSSEMLJ0QHbyoT6CA&usg=AFQjCNFnOv2UPEkHXQnljx0Fwl2-vflNig&cad=rja,637,2020-02-22 16:06:50.239541,2024-11-21 16:31:36.640720,16
+e608102c-60e6-4869-b83a-686d163fe1b1,Tweeter Center At the Waterfront,tweeter-center-at-the-waterfront,1 Harbour Blvd.,Camden,NJ,,,,,856-365-1300,http://www.ticketmaster.com/venue/16465,512,2020-02-22 16:06:50.239541,2024-11-10 02:29:27.549637,2
+334afd15-e73f-4888-a89e-ea0a19932bde,Vic Theatre,vic-theatre,3145 North Sheffield,Chicago,IL,,,,,773-472-0449,http://www.thevictheatre.com/,393,2020-02-22 16:06:50.239541,2024-12-07 00:35:06.686459,6
+e4fce011-a383-434a-a23b-cb5869a148fe,Crystal Bay Club Casino,crystal-bay-club-casino,"",Crystal Bay,NV,,,,,"","",576,2020-02-22 16:06:50.239541,2024-09-17 00:01:50.502401,3
+34daf77d-8b69-4d05-9e79-e5d2850216f8,NorVa Theater,norva-theater,317 Monticello Avenue,Norfolk,VA,,,,,757-622-9877,http://www.thenorva.com/,232,2020-02-22 16:06:50.239541,2024-12-09 05:41:46.310776,11
+67cf9993-3c8b-41e5-857e-54a8f5148415,Bourbon Room,bourbon-room,801 Boardwalk Avenue,Atlantic City,NJ,USA,08401,,,(855)428-3860,https://www.showboathotelac.com/,,2024-03-20 13:22:55.858962,2024-11-26 15:07:43.881032,1
+2bbe3765-c8b8-4bff-989d-2a522ece714f,Franklin Music Hall ,franklin-music-hall,421 N. 7th Street,Philadelphia,PA,"",19123,,,215-627-1332,https://www.bowerypresents.com/greater-philly/venues/franklin-music-hall,,2023-12-29 17:42:16.266315,2024-11-29 02:02:43.850685,2
+e5bb874e-e311-488d-bcd2-64b4c63655b8,Tom Lee Park - Cellular South Stage,tom-lee-park-cellular-south-stage,357 S. Riverside Dr.,Memphis,TN,,,,,(901) 525-4611,"",497,2020-02-22 16:06:50.239541,2024-07-19 11:18:21.828933,1
+f711bfe1-ce13-4fd3-ab36-21843b7d8bdb,The Mayan,the-mayan,1038 S Hill Street,Los Angeles,CA,USA,90015-1614,,,213-746-4674,https://www.themayan.com/,,2024-10-23 18:47:08.924667,2024-10-23 18:47:08.924667,0
+a8a30849-a3fb-446f-af92-31faddb84950,Marquee Theatre,marquee-theatre,730 N Mill Avenue,Tempe,AZ,USA,85281-1204,,,480-829-0607,https://marqueetheatreaz.com/,,2024-10-23 18:49:05.711093,2024-10-23 18:49:05.711093,0
+45b3785a-785e-48b1-ae2d-678266192853,Dominican Holidaze - Breathless Punta Cana Resort & Spa,dominican-holidaze-breathless-punta-cana-resort-spa,"",Carretera Uvero Alto,,Dominican Republic,,,,"","",669,2020-02-22 16:06:51.681200,2024-12-07 22:14:15.149328,9
+d379a07c-bef6-4c12-88af-4d6a30947b49,Meow Wulf,meow-wulf,1352 Rufina Circle,Santa Fe,NM,USA,87507,,, 866-636-9969,https://meowwolf.com/visit/santa-fe,,2024-10-23 18:50:23.083901,2024-10-23 18:50:23.083901,0
+82d8dbc7-78fb-4aff-9c7c-38642edd8cf8,Seminole Indian Reservation,seminole-indian-reservation,"",Big Cypress,FL,,,,,"","",549,2020-02-22 16:06:50.239541,2024-11-22 01:41:26.390570,1
+d2cdc82f-90aa-4c35-a592-f8300ae5b5c4,Empire Live,empire-live,93 North Pearl Street,Albany,NY,United States ,12207,,,(518) 900-5900,https://empirelivealbany.com/,,2024-01-26 00:24:54.466370,2024-11-29 16:22:12.436855,1
+5419dc80-ad61-45aa-a9ef-1327401faa12,Sapphire Palace at Blue Lake Casino,sapphire-palace-at-blue-lake-casino,777 Casino Way,Blue Lake,CA,"",95525,,,"",https://www.bluelakecasino.com/venue/sapphire-palace/,,2023-07-16 13:56:38.204864,2024-07-19 11:45:21.548793,1
+5e132862-c782-4d9a-ad9f-0b730f88f31d,First Avenue,first-avenue,701 1st Ave N,Minneapolis,MN,,,,,(612) 332-1775,http://www.first-avenue.com,537,2020-02-22 16:06:50.239541,2024-07-21 02:25:19.286826,4
+2471d945-3cc3-41ad-a6f0-2f16a71342eb,Bottle & Cork,bottle-cork,"",Dewey Beach,DE,,,,,"","",569,2020-02-22 16:06:50.239541,2024-07-19 11:46:34.657363,3
+c0faf987-2fc5-4112-ba87-cfaf4f00296f,Park West,park-west,"",Chicago,IL,,,,,"","",242,2020-02-22 16:06:50.239541,2024-12-07 00:34:30.436551,2
+a3887e0c-1314-4309-bd90-8fd95c62cbcc,Belly Up Tavern,belly-up-tavern,143 S Cedros Ave,Solana Beach,CA,,,,,858-481-9022,http://www.bellyup.com/,29,2020-02-22 16:06:50.239541,2024-11-26 03:17:43.239996,5
+a88ca7fb-6172-4240-af3f-d69b62973f7a,Metro,metro,"",Chicago,IL,,,,,"","",207,2020-02-22 16:06:50.239541,2024-12-07 00:34:36.000918,1
+880c6916-91a6-4767-9093-2a2dae1b83a9,Pabst Theater,pabst-theater,144 East Wells Street,Milwaukee,WI,"",53202,,,(414)242-8200,https://www.pabsttheatergroup.com/venues/detail/the-pabst-theater,,2023-09-13 01:03:52.035605,2024-11-26 03:17:54.430882,1
+a14ab82e-9d8e-40f0-be9e-c4a8cc76f270,College Street Music Hall,college-street-music-hall,238 College Street,New Haven,CT,United States,06510,,,(203) 867-2000,https://collegestreetmusichall.com/,,2024-01-26 00:26:43.243146,2024-12-03 12:25:21.671363,1
+c21f72f6-9665-45c7-abb5-fb954e640d67,Penn's Peak,penn-s-peak,"",Jim Thorpe,PA,"","",,,"","",,2023-01-21 02:38:04.687185,2024-11-26 04:57:48.490760,3
+f2bb6043-a499-4361-a881-5f9e728db092,House Of Blues,house-of-blues-chicago,"",Chicago,IL,,,,,"","",158,2020-02-22 16:06:50.239541,2024-12-07 00:34:52.982122,3
+88fdfe2f-b85b-4aa0-ab05-613bd43f41cd,Boulder Theater,boulder-theater,2032 14th Street,Boulder,CO,,,,,303-786-7030,http://www.bouldertheater.com/,547,2020-02-22 16:06:50.239541,2024-11-26 03:20:32.850146,9
+08684f3a-c0e1-478c-982c-42131819d16a,Miami Beach Bandshell,miami-beach-bandshell,"",Miami Beach,FL,"","",,,"","",,2023-12-02 00:55:40.051495,2024-11-10 00:03:08.025747,2
+3cfb5ccc-d5f5-4370-a671-1d2a369d687a,The F.M. Kirby Center,the-f-m-kirby-center,71 Public Square,Wilkes-Barre,PA,,,,,(570) 826-1100,http://www.kirbycenter.org/,491,2020-02-22 16:06:50.239541,2024-11-25 15:41:41.705359,4
+10e901aa-54aa-45d7-b25d-4675602972f5,The Tabernacle,the-tabernacle,"",Atlanta,GA,,,,,"","",589,2020-02-22 16:06:50.239541,2024-11-26 03:21:18.458670,7
+28f23845-ec58-40fe-9100-be7f5f26cbcc,Charlottesville Amphitheatre,charlottesville-amphitheatre,235 West Main Street,Charlottesville,VA,,,,,434-971-5500,http://www.charlottesvillepavilion.com/,524,2020-02-22 16:06:50.239541,2024-11-10 02:27:34.147289,2
+49bb6cfd-e8f4-44d0-b353-76a96f7b1f8d,Ntelos Wireless Pavilion,ntelos-wireless-pavilion,901 Crawford Street,Portsmouth,VA,,,,,757-393-8181,http://www.pavilionconcerts.com/,525,2020-02-22 16:06:50.239541,2024-11-10 02:27:37.947471,1
+8e6923c1-dafd-42cd-8e53-9758c53c3fb4,Theater Of The Living Arts,theater-of-the-living-arts,"",Philadelphia,PA,,,,,"","",371,2020-02-22 16:06:50.239541,2024-11-10 02:29:08.616804,10
+8e0ae038-cc9c-410a-a7c0-e7818d2ded5a,Sherman Theater,sherman-theater,524 Main Street,Stroudsburg,PA,,,,,570-420-2808,www.shermantheater.com,636,2020-02-22 16:06:50.239541,2024-09-06 17:57:53.277678,3
+f6f5a9f7-9caf-4df0-8000-1b56c9b0156e,Rams Head Live,rams-head-live,20 Market Place,Baltimore,MD,,,,,420-244-8854,www.ramsheadlive.com,483,2020-02-22 16:06:50.239541,2024-11-27 20:14:53.157280,6
+37f79e35-c08e-4487-9cf9-93044b8e9ce5,Washington’s ,washington-s,132 Laporte Avenue,Fort Collins,CO,USA,80524,,,(970) 232-9525,https://downtownfortcollins.com/go/washingtons,,2024-07-16 16:13:41.048585,2024-09-19 00:49:40.060639,1
+a4911ded-2c18-4fb8-b813-18de1fc6c0be,Pine Creek Lodge,pine-creek-lodge-livingston,2496 East River Road,Livingston,MT,USA,59047,,,406-222-3628,https://pinecreeklodgemontana.com/,,2024-09-16 14:25:03.736449,2024-11-25 12:21:12.260632,6
+c71248eb-85f2-4826-bc33-290ce2a2c39c,The Depot,the-depot,13 N 400 W,Salt Lake City,UT,USA,84101-1368,,,801-355-5522,https://www.depotslc.com/,,2024-04-30 17:15:47.855999,2024-09-19 00:50:14.731608,1
+60b442bc-8f1d-431d-b5bd-ebc9f562d76d,House of Blues,house-of-blues-boston,"",Boston,MA,,,,,"","",580,2020-02-22 16:06:50.239541,2024-12-03 12:26:00.746079,4
+301bb7dd-cb31-4f25-9eb5-efc8e6c5d193,Lincoln Theater,lincoln-theater,126 East Cabarrus Street,Raleigh,NC,,,,,919-821-4111,http://www.lincolntheatre.com/,191,2020-02-22 16:06:50.239541,2024-11-21 12:04:47.265981,10
+2b839f0d-5ce0-402a-a7ae-aee8968dc3e9,Mann Center for the Performing Arts,mann-center-for-the-performing-arts,5201 Parkside Avenue,Philadelphia,PA,,,,,(215) 546-7900,http://manncenter.org/,661,2020-02-22 16:06:51.681200,2024-11-25 15:45:00.520907,9
+bc8784db-5a3b-413b-89da-d999985501b7,Mission Ballroom,mission-ballroom,"",Denver,CO,"","",,,"","",,2022-04-09 01:42:37.311241,2024-11-26 03:18:37.440885,4
+ef9892f3-7793-468f-84b0-1ff6c93515da,Suwannee Music Park,suwannee-music-park,3076 95th Drive,Live Oak,FL,,,,,386-364-1683,http://www.blackwatermusicfestival.com/,621,2020-02-22 16:06:50.239541,2024-09-07 03:51:27.042061,5
+2cfc2d1c-2f52-41f8-9c22-b5c74277308e,Coolray Field,coolray-field,"",Lawrenceville ,GA,"","",,,"","",,2021-07-17 00:56:59.195717,2024-09-07 03:51:59.800719,2
+fade307b-69b3-4357-a6b4-639f8e91cad5,The Fillmore,the-fillmore-silver-spring,8656 Colesville Road,Silver Spring,MD,United States ,20910,,,(301) 960-9999,https://www.silverspringstage.com/,,2024-01-26 17:54:50.866981,2024-11-14 20:13:58.670937,2
+4ce81ddb-93e2-422e-830d-1a7d869ff25a,Paper Mill Island Amphitheater,paper-mill-island-amphitheater,136 Spensieri Ave,Baldwinsville,NY,,,,,"",www.papermillisland.net/PMI2010.html,613,2020-02-22 16:06:50.239541,2024-11-22 01:47:31.224232,1
+05cf36b4-b6b3-4f47-a158-2b67680701f3,Infinity Music Hall,infinity-music-hall,"",Hartford,CT,CT,"",,,"","",,2022-11-11 02:03:46.717567,2024-12-03 12:27:28.212869,5
+e776b5f1-c729-4092-8a8c-a8ca3a27551a,LaFayette Apple Festival Grounds,lafayette-apple-festival-grounds,"",LaFayette,NY,"","",,,"","",,2020-10-29 23:57:17.983955,2024-11-25 15:45:28.702446,3
+6a113f67-1c38-4874-a465-80b7ae21d2f8,Ogden Theater,ogden-theater,"",Denver,CO,,,,,"","",571,2020-02-22 16:06:50.239541,2024-11-26 03:30:26.180817,28
+6f410014-4c71-4c21-878a-7254500553b6,EMU Music Fest,emu-music-fest,"",Snowmass Village,CO,,,,,"",http://www.emufestival.com/plan,639,2020-02-22 16:06:50.239541,2024-11-22 01:52:30.380994,1
+f5ac4e9e-097a-42cc-8238-486896cf4515,The Strand Theater,the-strand-theater,"",Providence,RI,,,,,"","",690,2020-02-22 16:06:51.681200,2024-11-25 15:45:58.804771,1
+d7c17670-0412-40aa-9e9f-ac31efc623d5,The Orange Peel,the-orange-peel,101 Biltmore Avenue,Asheville,NC,,,,,828-225-5851,http://www.theorangepeel.net/,488,2020-02-22 16:06:50.239541,2024-11-21 12:04:19.606908,3
+79422c08-e8d6-4753-80ae-5967d56d9892,Indian Lookout Country Club,indian-lookout-country-club,1142 Batter Street,Mariaville,NY,,,,,800-677-8650,"",532,2020-02-22 16:06:50.239541,2024-11-22 01:37:52.248585,21
+27d21658-81cb-468f-8dbd-a7719b4bf1fd,The Palladium Times Square ,the-palladium-times-square,1515 Broadway ,New York City,NY,"",10036,,,"","",,2023-12-29 05:26:36.545081,2024-11-29 02:02:31.843631,1
+eca83474-a00d-45f2-bda1-1033ce8cbdec,Brooklyn Steel,brooklyn-steel,319 Frost St,Brooklyn,NY,USA,11222-5701,,,"",https://www.bowerypresents.com/venues/brooklyn-steel,,2024-07-30 18:45:04.475857,2024-11-29 00:18:00.123815,2
+415843ea-2c38-444a-88be-f2b3cbc5e9ec,Belly Up Aspen,belly-up-aspen,"",Aspen,CO,"","",,,"","",,2023-03-30 10:39:27.312349,2024-11-26 03:20:20.309603,5
+77df0daa-190e-4ccd-959e-3c402d92686f,Brooklyn Bowl,brooklyn-bowl-nashville,925 3rd Avenue North,Nashville,TN,United States ,37201,,,(615) 953-5450,https://www.brooklynbowl.com/nashville,,2024-01-26 00:40:40.724667,2024-11-26 03:21:11.517943,1
+ef21ddec-b430-48a2-9cdb-d07d4d253347,Texas Eclipse Festival,texas-eclipse-festival,105 County Road 114,Burnet,TX,United States ,78611,,,(512) 474-5171,https://seetexaseclipse.com/,,2024-01-26 18:06:29.404576,2024-09-18 19:24:12.263826,1
+25062d21-ff23-484b-8220-4b03ff26bbae,Red Rocks Amphitheater,red-rocks-amphitheater,"",Morrison,CO,,,,,"","",266,2020-02-22 16:06:50.239541,2024-11-26 05:05:45.249975,13
+05e0202a-cfcd-45de-979e-fad0a52b7922,The Town Ballroom,the-town-ballroom,"",Buffalo,NY,,,,,"","",593,2020-02-22 16:06:50.239541,2024-11-30 21:04:34.161916,1
+2ebc1547-69d2-44c1-be44-be2ea457aa90,Wonderland Forest,wonderland-forest,4812 South Cook Road,LaFayette,NY,"",13084,,,"",https://www.bisco.land/,,2023-10-02 19:15:11.386971,2024-12-04 00:45:11.593689,5
+6b1fd49c-f558-476a-b1eb-8451b52652ff,Montage Mountain,montage-mountain,"",Scranton ,PA,,,,,"","",672,2020-02-22 16:06:51.681200,2024-12-05 22:51:56.016574,16
+db9459ba-5909-4a1b-9d3f-57ab7b9da1d5,Electric Forest,electric-forest,"",Rothbury,MI,,,,,"","",680,2020-02-22 16:06:51.681200,2024-10-07 18:24:50.150258,3
+a80851a9-f6e6-464e-8255-af00be69d62e,Higher Ground,higher-ground,1214 Williston Road,S. Burlington,VT,,,,,802-652-0777,http://www.highergroundmusic.com/,155,2020-02-22 16:06:50.239541,2024-11-25 15:42:35.308256,23
+8a7adf6f-2279-408c-b487-120575510648,Bearsville Theatre,bearsville-theatre,291 Tinker Street,Woodstock,NY,USA,12498,,,"",https://bearsvilletheater.com/,,2024-07-30 18:46:40.174121,2024-11-29 20:25:32.911223,1
+645b80f4-6448-466a-a27b-faaa39afef97,Mercury Ballroom,mercury-ballroom,611 South 4th Street,Louisville ,KY,United States,40202-2403,,,(502) 583-4555,https://www.mercuryballroom.com/,,2024-01-26 00:30:02.098779,2024-11-17 21:15:44.344899,1
+a2b21d82-e9b6-479d-86e3-3c053d2407a6,The Bank,the-bank,1919 Central Ave,St Petersburg,FL,,,,,(727) 898-4488,www.atthebank.com,482,2020-02-22 16:06:50.239541,2024-11-10 02:22:23.414574,1
+635a06a6-4313-445d-a0f0-732e88045297,The Caverns,the-caverns,"",Pelham,TN,"","",,,"","",,2021-11-20 02:56:26.057717,2024-12-05 13:50:06.410704,9
+d944b023-d0a9-4c4f-92a3-95dc90122bec,Longhorn Ballroom,longhorn,216 Corinth Street,Dallas,TX,United States ,75207,,,(214) 428-5900,http://longhornballroom.com/,,2024-01-26 00:33:34.958716,2024-09-18 19:24:04.763450,1
+9d3e96e4-2558-41e8-9ffb-6de6fcce03fa,The Heights Theater,the-heights-theater,339 West 19th Street,Houston,TX,United States ,77008,,,(214) 272-8346,https://theheightstheater.com/,,2024-01-26 00:36:33.139311,2024-10-05 03:25:46.124322,1
+8f46585f-f736-4603-88c9-a45209757346,Fox Theatre,fox-theatre,1135 13th Street,Boulder,CO,,,,,303-433-3399,http://www.foxtheatre.com/,121,2020-02-22 16:06:50.239541,2024-11-26 03:20:41.145441,23
+1404b5a2-2abd-4470-99a0-277db2eb525c,The Caverns Above Ground Amphitheater,the-caverns-above-ground-amphitheater,"",Pelham,TN,"","",,,"","",,2021-04-02 21:49:48.998114,2024-11-26 03:24:39.330421,4
+3dbcb903-ae38-48e8-aeef-c2ba426f6320,The Capitol Theater,the-capitol-theater,"",Port Chester,NY,,,,,"","",677,2020-02-22 16:06:51.681200,2024-11-26 03:29:59.834941,16
+66a8b50d-004e-4ed6-88a3-c029e7f003c2,Webster Hall,webster-hall-new-york,125 East 11th Street,New York,NY,United States ,10003-5301,,,(212)353-1600,https://websterhall.com/,,2024-01-26 00:22:07.657664,2024-11-29 01:54:34.718843,1
